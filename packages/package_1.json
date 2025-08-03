@@ -1,0 +1,132 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": [
+        "C",
+        "A",
+        "T"
+      ],
+      "answers": [
+        "CAT",
+        "ACT"
+      ]
+    },
+    {
+      "id": 2,
+      "letters": [
+        "B",
+        "O",
+        "O",
+        "K"
+      ],
+      "answers": [
+        "BOOK",
+        "BOO",
+        "OK"
+      ]
+    },
+    {
+      "id": 3,
+      "letters": [
+        "P",
+        "E",
+        "N"
+      ],
+      "answers": [
+        "PEN",
+        "NEP"
+      ]
+    },
+    {
+      "id": 4,
+      "letters": [
+        "S",
+        "U",
+        "N"
+      ],
+      "answers": [
+        "SUN",
+        "UNS"
+      ]
+    },
+    {
+      "id": 5,
+      "letters": [
+        "D",
+        "O",
+        "G"
+      ],
+      "answers": [
+        "DOG",
+        "GOD"
+      ]
+    },
+    {
+      "id": 6,
+      "letters": [
+        "C",
+        "O",
+        "D",
+        "E"
+      ],
+      "answers": [
+        "CODE",
+        "DOC",
+        "ODE"
+      ]
+    },
+    {
+      "id": 7,
+      "letters": [
+        "F",
+        "I",
+        "S",
+        "H"
+      ],
+      "answers": [
+        "FISH",
+        "HIS"
+      ]
+    },
+    {
+      "id": 8,
+      "letters": [
+        "B",
+        "I",
+        "R",
+        "D"
+      ],
+      "answers": [
+        "BIRD",
+        "RID",
+        "DRI"
+      ]
+    },
+    {
+      "id": 9,
+      "letters": [
+        "L",
+        "I",
+        "O",
+        "N"
+      ],
+      "answers": [
+        "LION",
+        "NOIL"
+      ]
+    },
+    {
+      "id": 10,
+      "letters": [
+        "C",
+        "A",
+        "R"
+      ],
+      "answers": [
+        "CAR",
+        "ARC"
+      ]
+    }
+  ]
+}

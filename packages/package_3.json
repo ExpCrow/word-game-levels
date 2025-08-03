@@ -1,0 +1,144 @@
+{
+  "levels": [
+    {
+      "id": 21,
+      "letters": [
+        "S",
+        "C",
+        "H",
+        "O",
+        "O",
+        "L"
+      ],
+      "answers": [
+        "SCHOOL",
+        "COOL"
+      ]
+    },
+    {
+      "id": 22,
+      "letters": [
+        "T",
+        "A",
+        "B",
+        "L",
+        "E"
+      ],
+      "answers": [
+        "TABLE",
+        "ABLE"
+      ]
+    },
+    {
+      "id": 23,
+      "letters": [
+        "C",
+        "H",
+        "A",
+        "I",
+        "R"
+      ],
+      "answers": [
+        "CHAIR",
+        "ARCH"
+      ]
+    },
+    {
+      "id": 24,
+      "letters": [
+        "D",
+        "E",
+        "S",
+        "K"
+      ],
+      "answers": [
+        "DESK",
+        "SKED"
+      ]
+    },
+    {
+      "id": 25,
+      "letters": [
+        "P",
+        "A",
+        "P",
+        "E",
+        "R"
+      ],
+      "answers": [
+        "PAPER",
+        "PEAR"
+      ]
+    },
+    {
+      "id": 26,
+      "letters": [
+        "B",
+        "O",
+        "A",
+        "R",
+        "D"
+      ],
+      "answers": [
+        "BOARD",
+        "ROAD"
+      ]
+    },
+    {
+      "id": 27,
+      "letters": [
+        "M",
+        "A",
+        "P"
+      ],
+      "answers": [
+        "MAP",
+        "AMP"
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "G",
+        "L",
+        "O",
+        "B",
+        "E"
+      ],
+      "answers": [
+        "GLOBE",
+        "BEG"
+      ]
+    },
+    {
+      "id": 29,
+      "letters": [
+        "P",
+        "E",
+        "N",
+        "C",
+        "I",
+        "L"
+      ],
+      "answers": [
+        "PENCIL",
+        "CLIP"
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "E",
+        "R",
+        "A",
+        "S",
+        "E",
+        "R"
+      ],
+      "answers": [
+        "ERASER",
+        "RARE"
+      ]
+    }
+  ]
+}
