@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "key": "start_button",
+      "value": "Başla"
+    },
+    {
+      "key": "pause_button",
+      "value": "Duraklat"
+    },
+    {
+      "key": "level_complete",
+      "value": "Seviye Tamamlandı!"
+    },
+    {
+      "key": "exit_confirm",
+      "value": "Çıkmak istediğine emin misin?"
+    }
+  ]
+}

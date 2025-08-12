@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "key": "start_button",
+      "value": "Start"
+    },
+    {
+      "key": "pause_button",
+      "value": "Pause"
+    },
+    {
+      "key": "level_complete",
+      "value": "Level Complete!"
+    },
+    {
+      "key": "exit_confirm",
+      "value": "Are you sure you want to exit?"
+    }
+  ]
+}
