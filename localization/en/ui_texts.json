@@ -9,6 +9,14 @@
       "value": "Pause"
     },
     {
+      "key": "resume_button",
+      "value": "Resume"
+    },
+    {
+      "key": "settings",
+      "value": "Settings"
+    },
+    {
       "key": "level_complete",
       "value": "Level Complete!"
     },
