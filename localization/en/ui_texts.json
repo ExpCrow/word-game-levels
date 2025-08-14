@@ -35,6 +35,14 @@
     {
       "key": "place_stairs",
       "value": "Place the stairs!"
+    },
+    {
+      "key": "do_it",
+      "value": "Do It!"
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

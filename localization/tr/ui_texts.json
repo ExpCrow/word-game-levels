@@ -35,6 +35,14 @@
     {
       "key": "place_stairs",
       "value": "Merdivenleri yap!"
+    },
+    {
+      "key": "do_it",
+      "value": "Yap!"
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }
