@@ -24,5 +24,9 @@
       "key": "exit_confirm",
       "value": "Are you sure you want to exit?"
     }
+    {
+      "key": "connecting",
+      "value": "Connecting..."
+    }
   ]
 }

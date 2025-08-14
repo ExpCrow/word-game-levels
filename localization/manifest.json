@@ -3,14 +3,14 @@
     {
       "code": "en",
       "name": "English",
-      "version": 1,
+      "version": 2,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/en/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/en/flag.png"
     },
     {
       "code": "tr",
       "name": "Türkçe",
-      "version": 1,
+      "version": 2,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/tr/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/tr/flag.png"
     }
