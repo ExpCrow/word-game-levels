@@ -23,6 +23,18 @@
     {
       "key": "area",
       "value": "Area"
+    },
+    {
+      "key": "area_progress",
+      "value": "Area Progress"
+    },
+    {
+      "key": "frontyard",
+      "value": "Front Yard"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Place the stairs!"
     }
   ]
 }

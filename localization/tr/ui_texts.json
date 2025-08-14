@@ -23,6 +23,18 @@
     {
       "key": "area",
       "value": "Alan"
+    },
+    {
+      "key": "area_progress",
+      "value": "Alan İlerlemesi"
+    },
+    {
+      "key": "frontyard",
+      "value": "Ön Bahçe"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Merdivenleri yap!"
     }
   ]
 }
