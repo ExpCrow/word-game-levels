@@ -41,8 +41,12 @@
       "value": "Yap!"
     },
     {
-      "key": null,
-      "value": null
+      "key": "reading_room",
+      "value": "Okuma Odası"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Zemini döşe!"
     }
   ]
 }

@@ -41,8 +41,12 @@
       "value": "Do It!"
     },
     {
-      "key": null,
-      "value": null
+      "key": "reading_room",
+      "value": "Reading Room"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Lay the floor!"
     }
   ]
 }
