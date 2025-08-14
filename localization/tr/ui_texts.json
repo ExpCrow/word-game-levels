@@ -23,10 +23,14 @@
     {
       "key": "exit_confirm",
       "value": "Çıkmak istediğine emin misin?"
-    }
-     {
+    },
+    {
       "key": "connecting",
       "value": "Bağlanıyor..."
+    },
+    {
+      "key": "loading",
+      "value": "Yükleniyor..."
     }
   ]
 }
