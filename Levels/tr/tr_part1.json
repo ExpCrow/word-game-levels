@@ -1,0 +1,82 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": [
+        "B",
+        "A",
+        "L",
+        "I",
+        "K",
+        "Ç"
+      ],
+      "answers": [
+        {
+          "word": "BALIK",
+          "meaning": "Suda yaşayan omurgalı canlı."
+        },
+        {
+          "word": "ÇIK",
+          "meaning": "Çıkmak fiilinin emir hali."
+        },
+        {
+          "word": "KAL",
+          "meaning": "Kalmak fiilinin emir hali."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AL",
+          "meaning": "Kırmızı renk."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "LIK",
+          "meaning": "Bir şeyin miktarı veya niteliği."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "letters": [
+        "B",
+        "I",
+        "Ç",
+        "A",
+        "K",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "BIÇAK",
+          "meaning": "Kesici alet"
+        },
+        {
+          "word": "KAR",
+          "meaning": "Yağış türü; beyaz kristal"
+        },
+        {
+          "word": "BAR",
+          "meaning": "İçki servisi yapılan mekan"
+        },
+        {
+          "word": "IRAK",
+          "meaning": "Uzak, mesafeli"
+        }
+      ],
+      "extra": [
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk"
+        },
+        {
+          "word": "RAKI",
+          "meaning": "Türk anasonlu içkisi"
+        }
+      ]
+    }
+  ]
+}
