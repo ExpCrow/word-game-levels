@@ -77,6 +77,45 @@
           "meaning": "Türk anasonlu içkisi"
         }
       ]
+    },
+    {
+      "id": 3,
+      "letters": [
+        "O",
+        "K",
+        "U",
+        "L",
+        "A",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "OKUL",
+          "meaning": "Eğitim binası"
+        },
+        {
+          "word": "KUL",
+          "meaning": "Tanrının yarattığı insan"
+        },
+        {
+          "word": "OK",
+          "meaning": "Yay ile atılan sistem"
+        },
+        {
+          "word": "KULAK",
+          "meaning": "Duyma Organı"
+        }
+      ],
+      "extra": [
+        {
+          "word": "ULAK",
+          "meaning": "Haber taşıyan kimse"
+        },
+        {
+          "word": "OLUK",
+          "meaning": "Akma yeri"
+        }
+      ]
     }
   ]
 }
