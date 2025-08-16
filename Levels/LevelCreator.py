@@ -3,6 +3,8 @@ import pandas as pd
 import json
 import math
 
+PACKAGE_FILE = "Package.json"  # Python kodunun bulunduğu konumdaki Package.json
+
 def parse_excel_to_levels(excel_path):
     df = pd.read_excel(excel_path)
     grouped = df.groupby("id")
@@ -39,6 +41,25 @@ def save_levels_in_parts(levels, lang_code, output_dir, part_size=10):
             json.dump({"levels": part_levels}, f, ensure_ascii=False, indent=2)
         print(f"✅ Kaydedildi: {filename}")
 
+def update_package_version(lang_code):
+    """Package.json dosyasını okuyup ilgili dilin versiyonunu 1 artırır."""
+    if not os.path.exists(PACKAGE_FILE):
+        print(f"⚠️ {PACKAGE_FILE} bulunamadı, oluşturuluyor...")
+        package_data = {}
+    else:
+        with open(PACKAGE_FILE, "r", encoding="utf-8") as f:
+            package_data = json.load(f)
+
+    if lang_code not in package_data:
+        package_data[lang_code] = {"version": 0}
+
+    package_data[lang_code]["version"] += 1
+
+    with open(PACKAGE_FILE, "w", encoding="utf-8") as f:
+        json.dump(package_data, f, ensure_ascii=False, indent=4)
+
+    print(f"📦 Package.json güncellendi: {lang_code} → v{package_data[lang_code]['version']}")
+
 def process_all_languages(base_dir):
     for lang_folder in os.listdir(base_dir):
         lang_path = os.path.join(base_dir, lang_folder)
@@ -48,6 +69,7 @@ def process_all_languages(base_dir):
             print(f"🔍 İşleniyor: {lang_folder}")
             levels = parse_excel_to_levels(excel_path)
             save_levels_in_parts(levels, lang_folder, lang_path)
+            update_package_version(lang_folder)  # ✅ Versiyon artırma
         else:
             print(f"⚠️ Atlandı: {lang_folder} (Wordlist.xlsx bulunamadı)")
 
