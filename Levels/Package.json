@@ -1,8 +1,14 @@
 {
-    "tr": {
-        "version": 1
-    },
-    "en": {
-        "version": 0
+  "tr": {
+    "version": 1
+  },
+  "en": {
+    "version": 0
+  },
+  "languages": [
+    {
+      "code": "tr",
+      "version": 1
     }
+  ]
 }

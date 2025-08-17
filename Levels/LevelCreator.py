@@ -45,20 +45,28 @@ def update_package_version(lang_code):
     """Package.json dosyasını okuyup ilgili dilin versiyonunu 1 artırır."""
     if not os.path.exists(PACKAGE_FILE):
         print(f"⚠️ {PACKAGE_FILE} bulunamadı, oluşturuluyor...")
-        package_data = {}
+        package_data = {"languages": []}
     else:
         with open(PACKAGE_FILE, "r", encoding="utf-8") as f:
             package_data = json.load(f)
 
-    if lang_code not in package_data:
-        package_data[lang_code] = {"version": 0}
+    # languages listesi yoksa oluştur
+    if "languages" not in package_data:
+        package_data["languages"] = []
 
-    package_data[lang_code]["version"] += 1
+    # Dil zaten var mı diye ara
+    lang_entry = next((lang for lang in package_data["languages"] if lang["code"] == lang_code), None)
+
+    if lang_entry:
+        lang_entry["version"] += 1
+    else:
+        lang_entry = {"code": lang_code, "version": 1}
+        package_data["languages"].append(lang_entry)
 
     with open(PACKAGE_FILE, "w", encoding="utf-8") as f:
-        json.dump(package_data, f, ensure_ascii=False, indent=4)
+        json.dump(package_data, f, ensure_ascii=False, indent=2)
 
-    print(f"📦 Package.json güncellendi: {lang_code} → v{package_data[lang_code]['version']}")
+    print(f"📦 Package.json güncellendi: {lang_code} → v{lang_entry['version']}")
 
 def process_all_languages(base_dir):
     for lang_folder in os.listdir(base_dir):
