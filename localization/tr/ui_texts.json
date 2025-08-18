@@ -47,6 +47,10 @@
     {
       "key": "lay_floor",
       "value": "Zemini döşe!"
+    },
+    {
+      "key": "quit",
+      "value": "Çıkış"
     }
   ]
 }

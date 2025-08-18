@@ -47,6 +47,10 @@
     {
       "key": "lay_floor",
       "value": "Lay the floor!"
+    },
+    {
+      "key": "quit",
+      "value": "Quit"
     }
   ]
 }
