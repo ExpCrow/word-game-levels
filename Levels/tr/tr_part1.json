@@ -80,6 +80,14 @@
       ],
       "answers": [
         {
+          "word": "DAMA",
+          "meaning": "Oyun tahtası."
+        },
+        {
+          "word": "ADAM",
+          "meaning": "Yetişkin erkek."
+        },
+        {
           "word": "DAM",
           "meaning": "Evlerin üst kısmı, çatı."
         },
@@ -103,8 +111,34 @@
         "R",
         "A"
       ],
-      "answers": [],
-      "extra": []
+      "answers": [
+        {
+          "word": "KAR",
+          "meaning": "Yağış türü; beyaz kristal."
+        },
+        {
+          "word": "KARA",
+          "meaning": "Yeryüzünün denizle örtülü olmayan bölümü."
+        },
+        {
+          "word": "ARA",
+          "meaning": "Boşluk, mesafe."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "ARKA",
+          "meaning": "Bir şeyin tam ters yanı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AKAR",
+          "meaning": "Sıvı."
+        }
+      ]
     },
     {
       "id": 5,
@@ -114,8 +148,26 @@
         "Ç",
         "I"
       ],
-      "answers": [],
-      "extra": []
+      "answers": [
+        {
+          "word": "TAÇ",
+          "meaning": "Değerli taşlarla süslü başlık."
+        },
+        {
+          "word": "ÇITA",
+          "meaning": "İnce tahta."
+        },
+        {
+          "word": "ÇATI",
+          "meaning": "Binanın üstünü örten yapı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AÇI",
+          "meaning": "İki ışın arasındaki açıklık."
+        }
+      ]
     },
     {
       "id": 6,
@@ -124,8 +176,30 @@
         "S I",
         "R"
       ],
-      "answers": [],
-      "extra": []
+      "answers": [
+        {
+          "word": "ASIR",
+          "meaning": "100 yıl."
+        },
+        {
+          "word": "SIRA",
+          "meaning": "Art arda olan şeyler, dizi."
+        },
+        {
+          "word": "SARI",
+          "meaning": "Limon kabuğu rengi."
+        },
+        {
+          "word": "ARI",
+          "meaning": "Bal yapan böcek."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SIR",
+          "meaning": "Gizli bilgi."
+        }
+      ]
     },
     {
       "id": 7,
