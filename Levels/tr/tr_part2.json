@@ -1,0 +1,249 @@
+{
+  "levels": [
+    {
+      "id": 11,
+      "letters": [
+        "K",
+        "I",
+        "Z",
+        "A",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "KIZ",
+          "meaning": "Dişi çocuk."
+        },
+        {
+          "word": "KIZAK",
+          "meaning": "Kayak aracı."
+        },
+        {
+          "word": "KAZI",
+          "meaning": "Bir yeri kazma işi."
+        },
+        {
+          "word": "AZIK",
+          "meaning": "Gereken yiyecek ve içecek şeyler."
+        },
+        {
+          "word": "KAZ",
+          "meaning": "Suda veya karada yaşayan ve uçan kuş."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AZ",
+          "meaning": "Nicelik, nitelik vb. bakımından eksik."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "letters": [
+        "C",
+        "A",
+        "N",
+        "L",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "CANLI ",
+          "meaning": "Hayat sahibi."
+        },
+        {
+          "word": "ALIN",
+          "meaning": "Yüzün, kaşlarla saçlar arasındaki üst bölümü."
+        },
+        {
+          "word": "ACI",
+          "meaning": "Hoş olmayan, yakıcı tat."
+        },
+        {
+          "word": "ANI",
+          "meaning": "Geçmişte yaşanmış ve hatırlanan olay."
+        },
+        {
+          "word": "NAL",
+          "meaning": "Hayvan ayağı koruyucusu."
+        }
+      ],
+      "extra": [
+        {
+          "word": "CAN",
+          "meaning": "Yaşam, hayat veya yaşayan varlık."
+        },
+        {
+          "word": "AN",
+          "meaning": "Belirli, kısa süreli zaman dilimi."
+        },
+        {
+          "word": "AL",
+          "meaning": "Kırmızı renk."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "letters": [
+        "B",
+        "A",
+        "L",
+        "I",
+        "K",
+        "Ç"
+      ],
+      "answers": [
+        {
+          "word": "BALIK",
+          "meaning": "Suda yaşayan omurgalı canlı."
+        },
+        {
+          "word": "ALIK",
+          "meaning": "Akılsız, sersem."
+        },
+        {
+          "word": "BAL",
+          "meaning": "Arıların ürettiği tatlı madde."
+        },
+        {
+          "word": "ÇALI",
+          "meaning": "Odunsu bitki."
+        },
+        {
+          "word": "ALÇI",
+          "meaning": "Yapılarda kullanılan madde."
+        },
+        {
+          "word": "BALÇIK",
+          "meaning": "Yapışkan çamur."
+        },
+        {
+          "word": "ÇAKIL",
+          "meaning": "Çakıl taşı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇIK",
+          "meaning": "Çıkmak fiilinin emir hali."
+        },
+        {
+          "word": "KAL",
+          "meaning": "Kalmak fiilinin emir hali."
+        },
+        {
+          "word": "AL",
+          "meaning": "Kırmızı renk."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "AKI",
+          "meaning": "Bir kuvvet alanında, belli bir düzlemin belli bir bölümünden geçtiği varsayılan güç çizgileri."
+        },
+        {
+          "word": "AÇI",
+          "meaning": "İki ışın arasındaki açıklık."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "letters": [
+        "B",
+        "I",
+        "Ç",
+        "A",
+        "K",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "BIÇAK",
+          "meaning": "Kesici alet"
+        },
+        {
+          "word": "KAR",
+          "meaning": "Yağış türü; beyaz kristal."
+        },
+        {
+          "word": "BAR",
+          "meaning": "İçki servisi yapılan mekan."
+        },
+        {
+          "word": "IRAK",
+          "meaning": "Uzak, mesafeli."
+        },
+        {
+          "word": "AÇI",
+          "meaning": "İki ışın arasındaki açıklık."
+        },
+        {
+          "word": "ÇAKIR",
+          "meaning": "Mavi hareli ela göz rengi."
+        },
+        {
+          "word": "ÇARK",
+          "meaning": "Dönen mekanizma parçası."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "RAKI",
+          "meaning": "Anasonlu Türk içkisi."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "letters": [
+        "O",
+        "K",
+        "U",
+        "L",
+        "A",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "OKUL",
+          "meaning": "Eğitim binası"
+        },
+        {
+          "word": "KUL",
+          "meaning": "Tanrının yarattığı insan"
+        },
+        {
+          "word": "OK",
+          "meaning": "Yay ile atılan sistem"
+        },
+        {
+          "word": "KULAK",
+          "meaning": "Duyma Organı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ULAK",
+          "meaning": "Haber taşıyan kimse"
+        },
+        {
+          "word": "OLUK",
+          "meaning": "Akma yeri"
+        }
+      ]
+    }
+  ]
+}
