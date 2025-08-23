@@ -51,6 +51,10 @@
     {
       "key": "quit",
       "value": "Çıkış"
+    },
+    {
+      "key": "hammer_note",
+      "value": "Harf açmak için bir kutu seç"
     }
   ]
 }
