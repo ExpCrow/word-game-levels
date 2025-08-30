@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "key": "settings",
+      "value": "Einstellungen"
+    },
+    {
+      "key": "level_complete",
+      "value": "Level abgeschlossen!"
+    },
+    {
+      "key": "connecting",
+      "value": "Verbinden..."
+    },
+    {
+      "key": "loading",
+      "value": "Wird geladen..."
+    },
+    {
+      "key": "play",
+      "value": "Spielen"
+    },
+    {
+      "key": "area",
+      "value": "Fläche"
+    },
+    {
+      "key": "area_progress",
+      "value": "Fortschritt im Bereich"
+    },
+    {
+      "key": "frontyard",
+      "value": "Vorgarten"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Die Treppe aufstellen!"
+    },
+    {
+      "key": "do_it",
+      "value": "Mach es!"
+    },
+    {
+      "key": "reading_room",
+      "value": "Lesesaal"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Verlegen Sie den Boden!"
+    },
+    {
+      "key": "quit",
+      "value": "Beenden"
+    },
+    {
+      "key": "hammer_note",
+      "value": "Wählen Sie ein Feld aus, um die Buchstaben zu öffnen."
+    }
+  ]
+}
