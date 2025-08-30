@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "key": "settings",
+      "value": "Paramètres"
+    },
+    {
+      "key": "level_complete",
+      "value": "Niveau terminé !"
+    },
+    {
+      "key": "connecting",
+      "value": "Connexion en cours…"
+    },
+    {
+      "key": "loading",
+      "value": "Chargement..."
+    },
+    {
+      "key": "play",
+      "value": "Jouer"
+    },
+    {
+      "key": "area",
+      "value": "Zone"
+    },
+    {
+      "key": "area_progress",
+      "value": "Progrès réalisés dans la région"
+    },
+    {
+      "key": "frontyard",
+      "value": "Cour avant"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Placez les escaliers !"
+    },
+    {
+      "key": "do_it",
+      "value": "Faites-le !"
+    },
+    {
+      "key": "reading_room",
+      "value": "Salle de lecture"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Posez le sol !"
+    },
+    {
+      "key": "quit",
+      "value": "Quitter"
+    },
+    {
+      "key": "hammer_note",
+      "value": "Sélectionnez une case pour ouvrir les lettres"
+    }
+  ]
+}
