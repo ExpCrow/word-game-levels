@@ -3,28 +3,28 @@
     {
       "code": "en",
       "name": "English",
-      "version": 10,
+      "version": 11,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/en/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/en/flag.png"
     },
     {
       "code": "tr",
       "name": "Türkçe",
-      "version": 10,
+      "version": 11,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/tr/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/tr/flag.png"
     },
     {
       "code": "fr",
       "name": "Fr",
-      "version": 2,
+      "version": 3,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/fr/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/fr/flag.png"
     },
     {
       "code": "de",
       "name": "De",
-      "version": 1,
+      "version": 2,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/de/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/de/flag.png"
     }

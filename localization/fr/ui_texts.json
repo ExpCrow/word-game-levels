@@ -55,6 +55,10 @@
     {
       "key": "hammer_note",
       "value": "Sélectionnez une case pour ouvrir les lettres"
+    },
+    {
+      "key": "level",
+      "value": "Niveau"
     }
   ]
 }

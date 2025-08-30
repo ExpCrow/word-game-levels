@@ -55,6 +55,10 @@
     {
       "key": "hammer_note",
       "value": "Select a box to open the letters"
+    },
+    {
+      "key": "level",
+      "value": "Level"
     }
   ]
 }

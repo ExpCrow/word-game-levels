@@ -55,6 +55,10 @@
     {
       "key": "hammer_note",
       "value": "Wählen Sie ein Feld aus, um die Buchstaben zu öffnen."
+    },
+    {
+      "key": "level",
+      "value": "Stufe"
     }
   ]
 }
