@@ -1,0 +1,296 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": [
+        "N",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "NET",
+          "meaning": "Mesh; actual amount; Internet."
+        },
+        {
+          "word": "TEN",
+          "meaning": "Number 10."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 2,
+      "letters": [
+        "E",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ERA",
+          "meaning": "Period, age."
+        },
+        {
+          "word": "ARE",
+          "meaning": "Plural form of “be.”"
+        },
+        {
+          "word": "EAR",
+          "meaning": "Organ for hearing"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 3,
+      "letters": [
+        "O",
+        "T",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "OPT",
+          "meaning": "To choose, to select."
+        },
+        {
+          "word": "TOP",
+          "meaning": "Ball; highest point"
+        },
+        {
+          "word": "POT",
+          "meaning": "Cooking vessel; container."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 4,
+      "letters": [
+        "W",
+        "O",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "NOW",
+          "meaning": "At the present moment."
+        },
+        {
+          "word": "WON",
+          "meaning": "Past tense of “win.”"
+        },
+        {
+          "word": "OWN",
+          "meaning": "To possess; personal."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 5,
+      "letters": [
+        "T",
+        "W",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "WANT",
+          "meaning": "To desire, to wish for."
+        },
+        {
+          "word": "ANT",
+          "meaning": "A small insect that lives in colonies."
+        }
+      ],
+      "extra": [
+        {
+          "word": "TAN",
+          "meaning": "Skin color; to darken in the sun."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "letters": [
+        "E",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ATE",
+          "meaning": "Past tense of “eat.”"
+        },
+        {
+          "word": "TEA",
+          "meaning": "A drink made by infusing leaves in hot water."
+        },
+        {
+          "word": "SET",
+          "meaning": "Group, collection; to put or place."
+        },
+        {
+          "word": "SAT",
+          "meaning": "Past tense of “sit.”"
+        },
+        {
+          "word": "EAT",
+          "meaning": "To consume food."
+        },
+        {
+          "word": "SEAT",
+          "meaning": "Place to sit; chair"
+        },
+        {
+          "word": "EAST",
+          "meaning": "The direction toward the sunrise."
+        },
+        {
+          "word": "SEA",
+          "meaning": "Large body of salt water."
+        }
+      ],
+      "extra": [
+        {
+          "word": "TEAS",
+          "meaning": "Plural of “tea.”"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "letters": [
+        "H",
+        "A",
+        "P",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "HAT",
+          "meaning": "A head covering."
+        },
+        {
+          "word": "PATH",
+          "meaning": "A way or track for walking."
+        },
+        {
+          "word": "APT",
+          "meaning": "Suitable; skilled."
+        }
+      ],
+      "extra": [
+        {
+          "word": "PAT",
+          "meaning": "To strike lightly with a slight sound."
+        },
+        {
+          "word": "TAP",
+          "meaning": "To touch lightly; a faucet."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "letters": [
+        "W",
+        "S",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "WEST",
+          "meaning": "The direction opposite to east."
+        },
+        {
+          "word": "SET",
+          "meaning": "Group, collection; to put or place."
+        },
+        {
+          "word": "WET",
+          "meaning": "Covered with liquid."
+        },
+        {
+          "word": "SEW",
+          "meaning": "To unite or fasten by stitches."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 9,
+      "letters": [
+        "B",
+        "G",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "BAR",
+          "meaning": "Rod; counter."
+        },
+        {
+          "word": "BAG",
+          "meaning": "A container carrying items."
+        },
+        {
+          "word": "GRAB",
+          "meaning": "To take hold of suddenly."
+        },
+        {
+          "word": "BRAG",
+          "meaning": "To boast about something."
+        }
+      ],
+      "extra": [
+        {
+          "word": "GAR",
+          "meaning": "Garage; train station."
+        },
+        {
+          "word": "BRA",
+          "meaning": "A woman's undergarment."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "letters": [
+        "Y",
+        "S",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "SAY",
+          "meaning": "To speak or express in words."
+        },
+        {
+          "word": "SEA",
+          "meaning": "Large body of salt water."
+        },
+        {
+          "word": "EASY",
+          "meaning": "Not difficult; comfortable."
+        }
+      ],
+      "extra": [
+        {
+          "word": "YES",
+          "meaning": "Affirmative response."
+        },
+        {
+          "word": "YEAS",
+          "meaning": "Plural of “yea”; affirmative votes."
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,11 @@
   "languages": [
     {
       "code": "tr",
-      "version": 4
+      "version": 5
+    },
+    {
+      "code": "en",
+      "version": 1
     }
   ]
 }

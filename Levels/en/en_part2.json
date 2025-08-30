@@ -1,0 +1,164 @@
+{
+  "levels": [
+    {
+      "id": 11,
+      "letters": [
+        "M",
+        "T",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "MEAT",
+          "meaning": "Flesh of an animal used as food."
+        },
+        {
+          "word": "TEAM",
+          "meaning": "A group of people working together."
+        },
+        {
+          "word": "TEA",
+          "meaning": "A drink made by infusing leaves in hot water."
+        },
+        {
+          "word": "MATE",
+          "meaning": "Friend; companion; partner."
+        },
+        {
+          "word": "EAT",
+          "meaning": "To consume food."
+        }
+      ],
+      "extra": [
+        {
+          "word": "MET",
+          "meaning": "Past tense of “meet.”"
+        },
+        {
+          "word": "ATE",
+          "meaning": "Past tense of “eat.”"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "letters": [
+        "D",
+        "N",
+        "O",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "DONE",
+          "meaning": "Completed; finished; ready."
+        },
+        {
+          "word": "NOD",
+          "meaning": "To move the head up and down in agreement or greeting."
+        },
+        {
+          "word": "END",
+          "meaning": "Final part; to bring to a conclusion."
+        },
+        {
+          "word": "NODE",
+          "meaning": "A point of connection or intersection."
+        },
+        {
+          "word": "ONE",
+          "meaning": "The number 1."
+        },
+        {
+          "word": "DEN",
+          "meaning": "Animal’s lair or hideout."
+        }
+      ],
+      "extra": [
+        {
+          "word": "DON",
+          "meaning": "To put on (clothing)."
+        },
+        {
+          "word": "DOE",
+          "meaning": "A female deer or rabbit."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "letters": [
+        "G",
+        "A",
+        "M",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "GAME",
+          "meaning": "Play activity."
+        },
+        {
+          "word": "MAGE",
+          "meaning": "A magician or sorcerer."
+        },
+        {
+          "word": "GEM",
+          "meaning": "Precious stone."
+        },
+        {
+          "word": "MEGA",
+          "meaning": "Very large, huge."
+        },
+        {
+          "word": "AGE",
+          "meaning": "The length of time a person has lived; a historical period."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AM",
+          "meaning": "First person singular of “be.”"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "letters": [
+        "L",
+        "A",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "LATE",
+          "meaning": "After the expected time."
+        },
+        {
+          "word": "ATE",
+          "meaning": "Past tense of “eat.”"
+        },
+        {
+          "word": "TALE",
+          "meaning": "A story, often imaginary or traditional."
+        },
+        {
+          "word": "LET",
+          "meaning": "To allow."
+        },
+        {
+          "word": "TEA",
+          "meaning": "A drink made by infusing leaves in hot water."
+        }
+      ],
+      "extra": [
+        {
+          "word": "EAT",
+          "meaning": "To consume food."
+        }
+      ]
+    }
+  ]
+}

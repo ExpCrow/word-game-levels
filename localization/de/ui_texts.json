@@ -59,6 +59,18 @@
     {
       "key": "level",
       "value": "Stufe"
+    },
+    {
+      "key": "next",
+      "value": "Nächste"
+    },
+    {
+      "key": "previous",
+      "value": "Zurück"
+    },
+    {
+      "key": "home",
+      "value": "Startseite"
     }
   ]
 }

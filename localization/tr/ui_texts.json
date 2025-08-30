@@ -59,6 +59,18 @@
     {
       "key": "level",
       "value": "Seviye"
+    },
+    {
+      "key": "next",
+      "value": "Sonraki"
+    },
+    {
+      "key": "previous",
+      "value": "Önceki"
+    },
+    {
+      "key": "home",
+      "value": "Ana Sayfa"
     }
   ]
 }
