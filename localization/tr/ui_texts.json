@@ -6,7 +6,7 @@
     },
     {
       "key": "level_complete",
-      "value": "Seviye Tamamlandı!"
+      "value": "Tamamlandı!"
     },
     {
       "key": "connecting",
@@ -71,6 +71,14 @@
     {
       "key": "home",
       "value": "Ana Sayfa"
+    },
+    {
+      "key": "bonus",
+      "value": "Bonus"
+    },
+    {
+      "key": "tap_to_claim",
+      "value": "Tıklayın ve Talep Edin"
     }
   ]
 }

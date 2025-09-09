@@ -6,7 +6,7 @@
     },
     {
       "key": "level_complete",
-      "value": "Niveau terminé !"
+      "value": "Terminé !"
     },
     {
       "key": "connecting",
@@ -71,6 +71,14 @@
     {
       "key": "home",
       "value": "Accueil"
+    },
+    {
+      "key": "bonus",
+      "value": "Bonus"
+    },
+    {
+      "key": "tap_to_claim",
+      "value": "Appuyez pour réclamer"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "key": "level_complete",
-      "value": "Level Complete!"
+      "value": "Complete!"
     },
     {
       "key": "connecting",
@@ -71,6 +71,14 @@
     {
       "key": "home",
       "value": "Home"
+    },
+    {
+      "key": "bonus",
+      "value": "Bonus"
+    },
+    {
+      "key": "tap_to_claim",
+      "value": "Tap To Claim"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "key": "level_complete",
-      "value": "Level abgeschlossen!"
+      "value": "Abgeschlossen!"
     },
     {
       "key": "connecting",
@@ -71,6 +71,14 @@
     {
       "key": "home",
       "value": "Startseite"
+    },
+    {
+      "key": "bonus",
+      "value": "Bonus"
+    },
+    {
+      "key": "tap_to_claim",
+      "value": "Zum Einlösen antippen"
     }
   ]
 }
