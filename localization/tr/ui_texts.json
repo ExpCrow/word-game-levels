@@ -79,6 +79,14 @@
     {
       "key": "tap_to_claim",
       "value": "Tıklayın ve Talep Edin"
+    },
+    {
+      "key": "claim",
+      "value": "Talep Et"
+    },
+    {
+      "key": "no_thanks",
+      "value": "Hayır, teşekkürler."
     }
   ]
 }

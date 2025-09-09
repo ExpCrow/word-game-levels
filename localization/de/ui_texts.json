@@ -79,6 +79,14 @@
     {
       "key": "tap_to_claim",
       "value": "Zum Einlösen antippen"
+    },
+    {
+      "key": "claim",
+      "value": "Anspruch"
+    },
+    {
+      "key": "no_thanks",
+      "value": "Nein Danke"
     }
   ]
 }

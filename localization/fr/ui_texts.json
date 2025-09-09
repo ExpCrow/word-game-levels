@@ -79,6 +79,14 @@
     {
       "key": "tap_to_claim",
       "value": "Appuyez pour réclamer"
+    },
+    {
+      "key": "claim",
+      "value": "Réclamation"
+    },
+    {
+      "key": "no_thanks",
+      "value": "Pas de remerciement"
     }
   ]
 }

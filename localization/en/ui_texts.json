@@ -79,6 +79,14 @@
     {
       "key": "tap_to_claim",
       "value": "Tap To Claim"
+    },
+    {
+      "key": "claim",
+      "value": "Claim"
+    },
+    {
+      "key": "no_thanks",
+      "value": "No Thanks"
     }
   ]
 }

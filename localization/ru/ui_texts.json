@@ -1,0 +1,92 @@
+{
+  "entries": [
+    {
+      "key": "settings",
+      "value": "Настройки"
+    },
+    {
+      "key": "level_complete",
+      "value": "Завершено!"
+    },
+    {
+      "key": "connecting",
+      "value": "Подключение..."
+    },
+    {
+      "key": "loading",
+      "value": "Загрузка..."
+    },
+    {
+      "key": "play",
+      "value": "Играть"
+    },
+    {
+      "key": "area",
+      "value": "Область"
+    },
+    {
+      "key": "area_progress",
+      "value": "Прогресс в области"
+    },
+    {
+      "key": "frontyard",
+      "value": "Передний двор"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Поставьте лестницу!"
+    },
+    {
+      "key": "do_it",
+      "value": "Сделай это!"
+    },
+    {
+      "key": "reading_room",
+      "value": "Читальный зал"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Настелите пол!"
+    },
+    {
+      "key": "quit",
+      "value": "Увольнение"
+    },
+    {
+      "key": "hammer_note",
+      "value": "Выберите ящик, чтобы открыть письма"
+    },
+    {
+      "key": "level",
+      "value": "Уровень"
+    },
+    {
+      "key": "next",
+      "value": "Следующий"
+    },
+    {
+      "key": "previous",
+      "value": "Предыдущий"
+    },
+    {
+      "key": "home",
+      "value": "Главная"
+    },
+    {
+      "key": "bonus",
+      "value": "Бонус"
+    },
+    {
+      "key": "tap_to_claim",
+      "value": "Нажмите, чтобы заявить о себе"
+    },
+    {
+      "key": "claim",
+      "value": "Претензия"
+    },
+    {
+      "key": "no_thanks",
+      "value": "Нет, спасибо"
+    }
+  ]
+}
