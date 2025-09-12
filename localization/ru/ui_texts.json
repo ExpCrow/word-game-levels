@@ -29,24 +29,20 @@
       "value": "Прогресс в области"
     },
     {
-      "key": "frontyard",
-      "value": "Передний двор"
+      "key": "no_thanks",
+      "value": "Нет, спасибо"
     },
     {
-      "key": "place_stairs",
-      "value": "Поставьте лестницу!"
+      "key": "claim",
+      "value": "Заявление"
     },
     {
       "key": "do_it",
       "value": "Сделай это!"
     },
     {
-      "key": "reading_room",
-      "value": "Читальный зал"
-    },
-    {
-      "key": "lay_floor",
-      "value": "Настелите пол!"
+      "key": "tap_to_claim",
+      "value": "Нажмите, чтобы заявить о себе"
     },
     {
       "key": "quit",
@@ -77,16 +73,168 @@
       "value": "Бонус"
     },
     {
-      "key": "tap_to_claim",
-      "value": "Нажмите, чтобы заявить о себе"
+      "key": "bedroom",
+      "value": "Спальня"
     },
     {
-      "key": "claim",
-      "value": "Претензия"
+      "key": "bathroom",
+      "value": "Ванная комната"
     },
     {
-      "key": "no_thanks",
-      "value": "Нет, спасибо"
+      "key": "reading_room",
+      "value": "Читальный зал"
+    },
+    {
+      "key": "frontyard",
+      "value": "Передний двор"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Установите лестницу"
+    },
+    {
+      "key": "boy_room",
+      "value": "Комната для мальчика"
+    },
+    {
+      "key": "girl_room",
+      "value": "Комната для девочки"
+    },
+    {
+      "key": "kitchen",
+      "value": "Кухня"
+    },
+    {
+      "key": "laundry",
+      "value": "Прачечная"
+    },
+    {
+      "key": "living_room",
+      "value": "Гостиная"
+    },
+    {
+      "key": "reading_room",
+      "value": "Читальный зал"
+    },
+    {
+      "key": "study_room",
+      "value": "Учебный класс"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Укладка пола"
+    },
+    {
+      "key": "install_window",
+      "value": "Установите окно"
+    },
+    {
+      "key": "arrange_furniture",
+      "value": "Расставьте мебель"
+    },
+    {
+      "key": "add_bathtub",
+      "value": "Добавить ванну"
+    },
+    {
+      "key": "add_decoration",
+      "value": "Добавить украшение"
+    },
+    {
+      "key": "place_bed",
+      "value": "Место Кровать"
+    },
+    {
+      "key": "hang_paintings",
+      "value": "Повесьте картины"
+    },
+    {
+      "key": "place_pet_food",
+      "value": "Корм для домашних животных"
+    },
+    {
+      "key": "place_coffee_table",
+      "value": "Кофейный столик"
+    },
+    {
+      "key": "paint_floor",
+      "value": "Малярный пол"
+    },
+    {
+      "key": "build_stairs",
+      "value": "Постройте лестницу"
+    },
+    {
+      "key": "install_doors_windows",
+      "value": "Установка дверей и окон"
+    },
+    {
+      "key": "arrange_floor",
+      "value": "Устроить пол"
+    },
+    {
+      "key": "place_plants",
+      "value": "Разместить растения"
+    },
+    {
+      "key": "place_bookshelf",
+      "value": "Книжная полка"
+    },
+    {
+      "key": "place_toys",
+      "value": "Место для игрушек"
+    },
+    {
+      "key": "arrange_books",
+      "value": "Упорядочить книги"
+    },
+    {
+      "key": "scatter_clouds",
+      "value": "Разбросанные облака"
+    },
+    {
+      "key": "scatter_stars",
+      "value": "Разбросанные звезды"
+    },
+    {
+      "key": "build_kitchen_counter",
+      "value": "Построить кухонную стойку"
+    },
+    {
+      "key": "place_fridge",
+      "value": "Место для холодильника"
+    },
+    {
+      "key": "arrange_plates",
+      "value": "Разложить тарелки"
+    },
+    {
+      "key": "place_washing_machine",
+      "value": "Место Стиральная машина"
+    },
+    {
+      "key": "place_dryer",
+      "value": "Сушилка для белья"
+    },
+    {
+      "key": "place_shelves",
+      "value": "Поместите полки"
+    },
+    {
+      "key": "place_coat_racks",
+      "value": "Разместите вешалки для одежды"
+    },
+    {
+      "key": "place_ironing_board",
+      "value": "Поместите гладильную доску"
+    },
+    {
+      "key": "place_sofas",
+      "value": "Место диванов"
+    },
+    {
+      "key": "place_desk",
+      "value": "Стол"
     }
   ]
 }

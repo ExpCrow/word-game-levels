@@ -2,239 +2,239 @@
   "entries": [
     {
       "key": "settings",
-      "value": "Einstellungen"
+      "value": "Definições"
     },
     {
       "key": "level_complete",
-      "value": "Vollständig!"
+      "value": "Completo!"
     },
     {
       "key": "connecting",
-      "value": "Verbinden..."
+      "value": "Ligar..."
     },
     {
       "key": "loading",
-      "value": "Laden..."
+      "value": "Carregando..."
     },
     {
       "key": "play",
-      "value": "Spielen"
+      "value": "Jogar"
     },
     {
       "key": "area",
-      "value": "Bereich"
+      "value": "Área"
     },
     {
       "key": "area_progress",
-      "value": "Bereich Fortschritt"
+      "value": "Progresso da área"
     },
     {
       "key": "no_thanks",
-      "value": "Nein Danke"
+      "value": "Não obrigado"
     },
     {
       "key": "claim",
-      "value": "Anspruch"
+      "value": "Reclamação"
     },
     {
       "key": "do_it",
-      "value": "Tu es!"
+      "value": "Faça-o!"
     },
     {
       "key": "tap_to_claim",
-      "value": "Tippen Sie zum Beantragen"
+      "value": "Toque para reclamar"
     },
     {
       "key": "quit",
-      "value": "Beenden Sie"
+      "value": "Desistir"
     },
     {
       "key": "hammer_note",
-      "value": "Wählen Sie ein Feld, um die Buchstaben zu öffnen"
+      "value": "Selecionar uma caixa para abrir as cartas"
     },
     {
       "key": "level",
-      "value": "Ebene"
+      "value": "Nível"
     },
     {
       "key": "next",
-      "value": "Weiter"
+      "value": "Seguinte"
     },
     {
       "key": "previous",
-      "value": "Vorherige"
+      "value": "Anterior"
     },
     {
       "key": "home",
-      "value": "Startseite"
+      "value": "Início"
     },
     {
       "key": "bonus",
-      "value": "Bonus"
+      "value": "Bónus"
     },
     {
       "key": "bedroom",
-      "value": "Schlafzimmer"
+      "value": "Quarto de dormir"
     },
     {
       "key": "bathroom",
-      "value": "Badezimmer"
+      "value": "Casa de banho"
     },
     {
       "key": "reading_room",
-      "value": "Lesesaal"
+      "value": "Sala de leitura"
     },
     {
       "key": "frontyard",
-      "value": "Vorgarten"
+      "value": "Pátio da frente"
     },
     {
       "key": "place_stairs",
-      "value": "Platzieren Sie die Treppe"
+      "value": "Colocar as escadas"
     },
     {
       "key": "boy_room",
-      "value": "Jungenzimmer"
+      "value": "Quarto de menino"
     },
     {
       "key": "girl_room",
-      "value": "Mädchenzimmer"
+      "value": "Quarto de menina"
     },
     {
       "key": "kitchen",
-      "value": "Küche"
+      "value": "Cozinha"
     },
     {
       "key": "laundry",
-      "value": "Wäscherei"
+      "value": "Lavandaria"
     },
     {
       "key": "living_room",
-      "value": "Wohnbereich"
+      "value": "Sala de estar"
     },
     {
       "key": "reading_room",
-      "value": "Lesesaal"
+      "value": "Sala de leitura"
     },
     {
       "key": "study_room",
-      "value": "Arbeitszimmer"
+      "value": "Sala de estudo"
     },
     {
       "key": "lay_floor",
-      "value": "Boden verlegen"
+      "value": "Pavimento"
     },
     {
       "key": "install_window",
-      "value": "Fenster installieren"
+      "value": "Instalar a janela"
     },
     {
       "key": "arrange_furniture",
-      "value": "Möbel arrangieren"
+      "value": "Organizar o mobiliário"
     },
     {
       "key": "add_bathtub",
-      "value": "Badewanne hinzufügen"
+      "value": "Adicionar banheira"
     },
     {
       "key": "add_decoration",
-      "value": "Dekoration hinzufügen"
+      "value": "Adicionar decoração"
     },
     {
       "key": "place_bed",
-      "value": "Ort Bett"
+      "value": "Local Cama"
     },
     {
       "key": "hang_paintings",
-      "value": "Gemälde aufhängen"
+      "value": "Pendurar quadros"
     },
     {
       "key": "place_pet_food",
-      "value": "Ort Tiernahrung"
+      "value": "Place Pet Food"
     },
     {
       "key": "place_coffee_table",
-      "value": "Platz Couchtisch"
+      "value": "Mesa de centro Place"
     },
     {
       "key": "paint_floor",
-      "value": "Boden streichen"
+      "value": "Piso pintado"
     },
     {
       "key": "build_stairs",
-      "value": "Treppe bauen"
+      "value": "Construir escadas"
     },
     {
       "key": "install_doors_windows",
-      "value": "Türen und Fenster einbauen"
+      "value": "Instalar portas e janelas"
     },
     {
       "key": "arrange_floor",
-      "value": "Boden arrangieren"
+      "value": "Dispor o pavimento"
     },
     {
       "key": "place_plants",
-      "value": "Ort Pflanzen"
+      "value": "Colocar plantas"
     },
     {
       "key": "place_bookshelf",
-      "value": "Platz Bücherregal"
+      "value": "Estante Place"
     },
     {
       "key": "place_toys",
-      "value": "Platz Spielzeug"
+      "value": "Local Brinquedos"
     },
     {
       "key": "arrange_books",
-      "value": "Bücher ordnen"
+      "value": "Organizar livros"
     },
     {
       "key": "scatter_clouds",
-      "value": "Streuwolken"
+      "value": "Dispersão de nuvens"
     },
     {
       "key": "scatter_stars",
-      "value": "Sterne verstreuen"
+      "value": "Estrelas de dispersão"
     },
     {
       "key": "build_kitchen_counter",
-      "value": "Küchentheke bauen"
+      "value": "Construir balcão de cozinha"
     },
     {
       "key": "place_fridge",
-      "value": "Platz Kühlschrank"
+      "value": "Colocar o frigorífico"
     },
     {
       "key": "arrange_plates",
-      "value": "Teller anordnen"
+      "value": "Dispor os pratos"
     },
     {
       "key": "place_washing_machine",
-      "value": "Platz Waschmaschine"
+      "value": "Local Máquina de lavar roupa"
     },
     {
       "key": "place_dryer",
-      "value": "Ort Trockner"
+      "value": "Local Secador"
     },
     {
       "key": "place_shelves",
-      "value": "Regale platzieren"
+      "value": "Colocar prateleiras"
     },
     {
       "key": "place_coat_racks",
-      "value": "Garderobenständer platzieren"
+      "value": "Colocar cabides"
     },
     {
       "key": "place_ironing_board",
-      "value": "Platz Bügelbrett"
+      "value": "Colocar a tábua de engomar"
     },
     {
       "key": "place_sofas",
-      "value": "Platz Sofas"
+      "value": "Sofás Place"
     },
     {
       "key": "place_desk",
-      "value": "Platz Schreibtisch"
+      "value": "Local de trabalho"
     }
   ]
 }

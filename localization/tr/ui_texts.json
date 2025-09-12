@@ -29,24 +29,20 @@
       "value": "Alan İlerlemesi"
     },
     {
-      "key": "frontyard",
-      "value": "Ön Bahçe"
+      "key": "no_thanks",
+      "value": "Hayır, teşekkürler."
     },
     {
-      "key": "place_stairs",
-      "value": "Merdivenleri yap!"
+      "key": "claim",
+      "value": "Talep Et"
     },
     {
       "key": "do_it",
       "value": "Yap!"
     },
     {
-      "key": "reading_room",
-      "value": "Okuma Odası"
-    },
-    {
-      "key": "lay_floor",
-      "value": "Zemini döşe!"
+      "key": "tap_to_claim",
+      "value": "Tıklayın ve Talep Edin"
     },
     {
       "key": "quit",
@@ -77,16 +73,168 @@
       "value": "Bonus"
     },
     {
-      "key": "tap_to_claim",
-      "value": "Tıklayın ve Talep Edin"
+      "key": "bedroom",
+      "value": "Yatak Odası"
     },
     {
-      "key": "claim",
-      "value": "Talep Et"
+      "key": "bathroom",
+      "value": "Banyo"
     },
     {
-      "key": "no_thanks",
-      "value": "Hayır, teşekkürler."
+      "key": "reading_room",
+      "value": "Okuma Odası"
+    },
+    {
+      "key": "frontyard",
+      "value": "Ön Bahçe"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Merdivenleri yap"
+    },
+    {
+      "key": "boy_room",
+      "value": "Erkek Çocuk Odası"
+    },
+    {
+      "key": "girl_room",
+      "value": "Kız Çocuk Odası"
+    },
+    {
+      "key": "kitchen",
+      "value": "Mutfak"
+    },
+    {
+      "key": "laundry",
+      "value": "Çamaşır Odası"
+    },
+    {
+      "key": "living_room",
+      "value": "Oturma Odası"
+    },
+    {
+      "key": "reading_room",
+      "value": "Okuma Odası"
+    },
+    {
+      "key": "study_room",
+      "value": "Çalışma Odası"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Zemini Döşe"
+    },
+    {
+      "key": "install_window",
+      "value": "Pencereyi Tak"
+    },
+    {
+      "key": "arrange_furniture",
+      "value": "Mobilyaları Diz"
+    },
+    {
+      "key": "add_bathtub",
+      "value": "Küvet Ekle"
+    },
+    {
+      "key": "add_decoration",
+      "value": "Dekorasyon Ekle"
+    },
+    {
+      "key": "place_bed",
+      "value": "Yatağı Yerleştir"
+    },
+    {
+      "key": "hang_paintings",
+      "value": "Tabloları As"
+    },
+    {
+      "key": "place_pet_food",
+      "value": "Pet Maması Koy"
+    },
+    {
+      "key": "place_coffee_table",
+      "value": "Sehba Koy"
+    },
+    {
+      "key": "paint_floor",
+      "value": "Zemini Boya"
+    },
+    {
+      "key": "build_stairs",
+      "value": "Merdiven Yap"
+    },
+    {
+      "key": "install_doors_windows",
+      "value": "Kapı ve Pencere Tak"
+    },
+    {
+      "key": "arrange_floor",
+      "value": "Zemini Düzenle"
+    },
+    {
+      "key": "place_plants",
+      "value": "Bitkileri Yerleştir"
+    },
+    {
+      "key": "place_bookshelf",
+      "value": "Kitaplığı Koy"
+    },
+    {
+      "key": "place_toys",
+      "value": "Oyuncakları Yerleştir"
+    },
+    {
+      "key": "arrange_books",
+      "value": "Kitapları Diz"
+    },
+    {
+      "key": "scatter_clouds",
+      "value": "Bulutları Serp"
+    },
+    {
+      "key": "scatter_stars",
+      "value": "Yıldızları Serp"
+    },
+    {
+      "key": "build_kitchen_counter",
+      "value": "Tezgahı Yap"
+    },
+    {
+      "key": "place_fridge",
+      "value": "Buzdolabını Yerleştir"
+    },
+    {
+      "key": "arrange_plates",
+      "value": "Tabakları Diz"
+    },
+    {
+      "key": "place_washing_machine",
+      "value": "Yıkama Makinesini Yerleştir"
+    },
+    {
+      "key": "place_dryer",
+      "value": "Kurutma Makinesini Yerleştir"
+    },
+    {
+      "key": "place_shelves",
+      "value": "Rafları Yerleştir"
+    },
+    {
+      "key": "place_coat_racks",
+      "value": "Askılıkları Koy"
+    },
+    {
+      "key": "place_ironing_board",
+      "value": "Ütü Masasını Koy"
+    },
+    {
+      "key": "place_sofas",
+      "value": "Koltukları Yerleştir"
+    },
+    {
+      "key": "place_desk",
+      "value": "Çalışma Masasını Yerleştir"
     }
   ]
 }

@@ -6,11 +6,11 @@
     },
     {
       "key": "level_complete",
-      "value": "Terminé !"
+      "value": "Complétez !"
     },
     {
       "key": "connecting",
-      "value": "Connexion en cours…"
+      "value": "Connexion..."
     },
     {
       "key": "loading",
@@ -26,35 +26,31 @@
     },
     {
       "key": "area_progress",
-      "value": "Progrès réalisés dans la région"
+      "value": "Progrès dans le domaine"
     },
     {
-      "key": "frontyard",
-      "value": "Cour avant"
+      "key": "no_thanks",
+      "value": "Pas de remerciement"
     },
     {
-      "key": "place_stairs",
-      "value": "Placez les escaliers !"
+      "key": "claim",
+      "value": "Réclamation"
     },
     {
       "key": "do_it",
       "value": "Faites-le !"
     },
     {
-      "key": "reading_room",
-      "value": "Salle de lecture"
-    },
-    {
-      "key": "lay_floor",
-      "value": "Posez le sol !"
+      "key": "tap_to_claim",
+      "value": "Tapez pour réclamer"
     },
     {
       "key": "quit",
-      "value": "Quitter"
+      "value": "Démissionner"
     },
     {
       "key": "hammer_note",
-      "value": "Sélectionnez une case pour ouvrir les lettres"
+      "value": "Sélectionnez une boîte pour ouvrir les lettres"
     },
     {
       "key": "level",
@@ -77,16 +73,168 @@
       "value": "Bonus"
     },
     {
-      "key": "tap_to_claim",
-      "value": "Appuyez pour réclamer"
+      "key": "bedroom",
+      "value": "Chambre à coucher"
     },
     {
-      "key": "claim",
-      "value": "Réclamation"
+      "key": "bathroom",
+      "value": "Salle de bains"
     },
     {
-      "key": "no_thanks",
-      "value": "Pas de remerciement"
+      "key": "reading_room",
+      "value": "Salle de lecture"
+    },
+    {
+      "key": "frontyard",
+      "value": "Cour avant"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Placer l'escalier"
+    },
+    {
+      "key": "boy_room",
+      "value": "Chambre de garçon"
+    },
+    {
+      "key": "girl_room",
+      "value": "Chambre de fille"
+    },
+    {
+      "key": "kitchen",
+      "value": "Cuisine"
+    },
+    {
+      "key": "laundry",
+      "value": "Blanchisserie"
+    },
+    {
+      "key": "living_room",
+      "value": "Salle de séjour"
+    },
+    {
+      "key": "reading_room",
+      "value": "Salle de lecture"
+    },
+    {
+      "key": "study_room",
+      "value": "Salle d'étude"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Plancher de pose"
+    },
+    {
+      "key": "install_window",
+      "value": "Installer une fenêtre"
+    },
+    {
+      "key": "arrange_furniture",
+      "value": "Disposer des meubles"
+    },
+    {
+      "key": "add_bathtub",
+      "value": "Ajouter une baignoire"
+    },
+    {
+      "key": "add_decoration",
+      "value": "Ajouter une décoration"
+    },
+    {
+      "key": "place_bed",
+      "value": "Lit d'appoint"
+    },
+    {
+      "key": "hang_paintings",
+      "value": "Accrocher les peintures"
+    },
+    {
+      "key": "place_pet_food",
+      "value": "Place Pet Food"
+    },
+    {
+      "key": "place_coffee_table",
+      "value": "Table basse Place"
+    },
+    {
+      "key": "paint_floor",
+      "value": "Peinture au sol"
+    },
+    {
+      "key": "build_stairs",
+      "value": "Construire un escalier"
+    },
+    {
+      "key": "install_doors_windows",
+      "value": "Installer des portes et des fenêtres"
+    },
+    {
+      "key": "arrange_floor",
+      "value": "Disposer de l'étage"
+    },
+    {
+      "key": "place_plants",
+      "value": "Placer les plantes"
+    },
+    {
+      "key": "place_bookshelf",
+      "value": "Place Bookshelf"
+    },
+    {
+      "key": "place_toys",
+      "value": "Place Toys"
+    },
+    {
+      "key": "arrange_books",
+      "value": "Classer les livres"
+    },
+    {
+      "key": "scatter_clouds",
+      "value": "Disperser les nuages"
+    },
+    {
+      "key": "scatter_stars",
+      "value": "Étoiles de dispersion"
+    },
+    {
+      "key": "build_kitchen_counter",
+      "value": "Construire un comptoir de cuisine"
+    },
+    {
+      "key": "place_fridge",
+      "value": "Placez le réfrigérateur"
+    },
+    {
+      "key": "arrange_plates",
+      "value": "Disposer les assiettes"
+    },
+    {
+      "key": "place_washing_machine",
+      "value": "Place Machine à laver"
+    },
+    {
+      "key": "place_dryer",
+      "value": "Place Dryer"
+    },
+    {
+      "key": "place_shelves",
+      "value": "Placer des étagères"
+    },
+    {
+      "key": "place_coat_racks",
+      "value": "Placez les porte-manteaux"
+    },
+    {
+      "key": "place_ironing_board",
+      "value": "Placez la table à repasser"
+    },
+    {
+      "key": "place_sofas",
+      "value": "Place Sofas"
+    },
+    {
+      "key": "place_desk",
+      "value": "Place Desk"
     }
   ]
 }

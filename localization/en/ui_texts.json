@@ -29,24 +29,20 @@
       "value": "Area Progress"
     },
     {
-      "key": "frontyard",
-      "value": "Front Yard"
+      "key": "no_thanks",
+      "value": "No Thanks"
     },
     {
-      "key": "place_stairs",
-      "value": "Place the stairs!"
+      "key": "claim",
+      "value": "Claim"
     },
     {
       "key": "do_it",
       "value": "Do It!"
     },
     {
-      "key": "reading_room",
-      "value": "Reading Room"
-    },
-    {
-      "key": "lay_floor",
-      "value": "Lay the floor!"
+      "key": "tap_to_claim",
+      "value": "Tap To Claim"
     },
     {
       "key": "quit",
@@ -77,16 +73,168 @@
       "value": "Bonus"
     },
     {
-      "key": "tap_to_claim",
-      "value": "Tap To Claim"
+      "key": "bedroom",
+      "value": "Bedroom"
     },
     {
-      "key": "claim",
-      "value": "Claim"
+      "key": "bathroom",
+      "value": "Bathroom"
     },
     {
-      "key": "no_thanks",
-      "value": "No Thanks"
+      "key": "reading_room",
+      "value": "Reading Room"
+    },
+    {
+      "key": "frontyard",
+      "value": "Front Yard"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Place the stairs"
+    },
+    {
+      "key": "boy_room",
+      "value": "Boy Room"
+    },
+    {
+      "key": "girl_room",
+      "value": "Girl Room"
+    },
+    {
+      "key": "kitchen",
+      "value": "Kitchen"
+    },
+    {
+      "key": "laundry",
+      "value": "Laundry"
+    },
+    {
+      "key": "living_room",
+      "value": "Living Room"
+    },
+    {
+      "key": "reading_room",
+      "value": "Reading Room"
+    },
+    {
+      "key": "study_room",
+      "value": "Study Room"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Lay Floor"
+    },
+    {
+      "key": "install_window",
+      "value": "Install Window"
+    },
+    {
+      "key": "arrange_furniture",
+      "value": "Arrange Furniture"
+    },
+    {
+      "key": "add_bathtub",
+      "value": "Add Bathtub"
+    },
+    {
+      "key": "add_decoration",
+      "value": "Add Decoration"
+    },
+    {
+      "key": "place_bed",
+      "value": "Place Bed"
+    },
+    {
+      "key": "hang_paintings",
+      "value": "Hang Paintings"
+    },
+    {
+      "key": "place_pet_food",
+      "value": "Place Pet Food"
+    },
+    {
+      "key": "place_coffee_table",
+      "value": "Place Coffee Table"
+    },
+    {
+      "key": "paint_floor",
+      "value": "Paint Floor"
+    },
+    {
+      "key": "build_stairs",
+      "value": "Build Stairs"
+    },
+    {
+      "key": "install_doors_windows",
+      "value": "Install Doors and Windows"
+    },
+    {
+      "key": "arrange_floor",
+      "value": "Arrange Floor"
+    },
+    {
+      "key": "place_plants",
+      "value": "Place Plants"
+    },
+    {
+      "key": "place_bookshelf",
+      "value": "Place Bookshelf"
+    },
+    {
+      "key": "place_toys",
+      "value": "Place Toys"
+    },
+    {
+      "key": "arrange_books",
+      "value": "Arrange Books"
+    },
+    {
+      "key": "scatter_clouds",
+      "value": "Scatter Clouds"
+    },
+    {
+      "key": "scatter_stars",
+      "value": "Scatter Stars"
+    },
+    {
+      "key": "build_kitchen_counter",
+      "value": "Build Kitchen Counter"
+    },
+    {
+      "key": "place_fridge",
+      "value": "Place Fridge"
+    },
+    {
+      "key": "arrange_plates",
+      "value": "Arrange Plates"
+    },
+    {
+      "key": "place_washing_machine",
+      "value": "Place Washing Machine"
+    },
+    {
+      "key": "place_dryer",
+      "value": "Place Dryer"
+    },
+    {
+      "key": "place_shelves",
+      "value": "Place Shelves"
+    },
+    {
+      "key": "place_coat_racks",
+      "value": "Place Coat Racks"
+    },
+    {
+      "key": "place_ironing_board",
+      "value": "Place Ironing Board"
+    },
+    {
+      "key": "place_sofas",
+      "value": "Place Sofas"
+    },
+    {
+      "key": "place_desk",
+      "value": "Place Desk"
     }
   ]
 }

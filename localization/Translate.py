@@ -39,7 +39,7 @@ def translate_text(text, target_lang):
         return response.json()["translations"][0]["text"]
     else:
         print(f"Hata ({target_lang}):", response.text)
-        return text
+        return ""
 
 # Satırları dolaş (2. satırdan itibaren)
 for row in ws.iter_rows(min_row=2, max_row=ws.max_row):
