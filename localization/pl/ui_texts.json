@@ -1,0 +1,240 @@
+{
+  "entries": [
+    {
+      "key": "settings",
+      "value": "Ustawienia"
+    },
+    {
+      "key": "level_complete",
+      "value": "Kompletny!"
+    },
+    {
+      "key": "connecting",
+      "value": "Łączenie..."
+    },
+    {
+      "key": "loading",
+      "value": "Ładowanie..."
+    },
+    {
+      "key": "play",
+      "value": "Grać"
+    },
+    {
+      "key": "area",
+      "value": "Obszar"
+    },
+    {
+      "key": "area_progress",
+      "value": "Postęp w obszarze"
+    },
+    {
+      "key": "no_thanks",
+      "value": "Nie, dzięki"
+    },
+    {
+      "key": "claim",
+      "value": "Roszczenie"
+    },
+    {
+      "key": "do_it",
+      "value": "Zrób to!"
+    },
+    {
+      "key": "tap_to_claim",
+      "value": "Dotknij, aby zgłosić roszczenie"
+    },
+    {
+      "key": "quit",
+      "value": "Odejdź"
+    },
+    {
+      "key": "hammer_note",
+      "value": "Wybierz pole, aby otworzyć listy"
+    },
+    {
+      "key": "level",
+      "value": "Poziom"
+    },
+    {
+      "key": "next",
+      "value": "Następny"
+    },
+    {
+      "key": "previous",
+      "value": "Poprzedni"
+    },
+    {
+      "key": "home",
+      "value": "Strona główna"
+    },
+    {
+      "key": "bonus",
+      "value": "Bonus"
+    },
+    {
+      "key": "bedroom",
+      "value": "Sypialnia"
+    },
+    {
+      "key": "bathroom",
+      "value": "Łazienka"
+    },
+    {
+      "key": "reading_room",
+      "value": "Czytelnia"
+    },
+    {
+      "key": "frontyard",
+      "value": "Front Yard"
+    },
+    {
+      "key": "place_stairs",
+      "value": "Umieść schody"
+    },
+    {
+      "key": "boy_room",
+      "value": "Pokój chłopca"
+    },
+    {
+      "key": "girl_room",
+      "value": "Pokój dziewczynki"
+    },
+    {
+      "key": "kitchen",
+      "value": "Kuchnia"
+    },
+    {
+      "key": "laundry",
+      "value": "Pranie"
+    },
+    {
+      "key": "living_room",
+      "value": "Pokój dzienny"
+    },
+    {
+      "key": "reading_room",
+      "value": "Czytelnia"
+    },
+    {
+      "key": "study_room",
+      "value": "Pokój do nauki"
+    },
+    {
+      "key": "lay_floor",
+      "value": "Lay Floor"
+    },
+    {
+      "key": "install_window",
+      "value": "Instalacja okna"
+    },
+    {
+      "key": "arrange_furniture",
+      "value": "Rozmieść meble"
+    },
+    {
+      "key": "add_bathtub",
+      "value": "Dodaj wannę"
+    },
+    {
+      "key": "add_decoration",
+      "value": "Dodaj dekorację"
+    },
+    {
+      "key": "place_bed",
+      "value": "Miejsce Łóżko"
+    },
+    {
+      "key": "hang_paintings",
+      "value": "Wieszanie obrazów"
+    },
+    {
+      "key": "place_pet_food",
+      "value": "Umieść karmę dla zwierząt"
+    },
+    {
+      "key": "place_coffee_table",
+      "value": "Stolik kawowy Place"
+    },
+    {
+      "key": "paint_floor",
+      "value": "Farba podłogowa"
+    },
+    {
+      "key": "build_stairs",
+      "value": "Budowa schodów"
+    },
+    {
+      "key": "install_doors_windows",
+      "value": "Montaż drzwi i okien"
+    },
+    {
+      "key": "arrange_floor",
+      "value": "Ułóż podłogę"
+    },
+    {
+      "key": "place_plants",
+      "value": "Miejsce Rośliny"
+    },
+    {
+      "key": "place_bookshelf",
+      "value": "Miejsce Półka na książki"
+    },
+    {
+      "key": "place_toys",
+      "value": "Miejsce Zabawki"
+    },
+    {
+      "key": "arrange_books",
+      "value": "Układanie książek"
+    },
+    {
+      "key": "scatter_clouds",
+      "value": "Rozproszone chmury"
+    },
+    {
+      "key": "scatter_stars",
+      "value": "Gwiazdy rozproszone"
+    },
+    {
+      "key": "build_kitchen_counter",
+      "value": "Budowa blatu kuchennego"
+    },
+    {
+      "key": "place_fridge",
+      "value": "Miejsce Lodówka"
+    },
+    {
+      "key": "arrange_plates",
+      "value": "Układanie płyt"
+    },
+    {
+      "key": "place_washing_machine",
+      "value": "Miejsce Pralka"
+    },
+    {
+      "key": "place_dryer",
+      "value": "Miejsce Suszarka"
+    },
+    {
+      "key": "place_shelves",
+      "value": "Umieść półki"
+    },
+    {
+      "key": "place_coat_racks",
+      "value": "Umieść wieszaki na ubrania"
+    },
+    {
+      "key": "place_ironing_board",
+      "value": "Miejsce na deskę do prasowania"
+    },
+    {
+      "key": "place_sofas",
+      "value": "Sofy Place"
+    },
+    {
+      "key": "place_desk",
+      "value": "Miejsce Biurko"
+    }
+  ]
+}
