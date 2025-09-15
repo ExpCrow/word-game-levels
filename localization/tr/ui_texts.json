@@ -239,6 +239,14 @@
     {
       "key": "next_area",
       "value": "Sonraki Bölge"
+    },
+    {
+      "key": "loading_ad",
+      "value": "Reklam Yükleniyor"
+    },
+    {
+      "key": "ad_not_ready",
+      "value": "Reklam Hazır Değil"
     }
   ]
 }

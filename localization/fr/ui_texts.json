@@ -239,6 +239,14 @@
     {
       "key": "next_area",
       "value": "Domaine suivant"
+    },
+    {
+      "key": "loading_ad",
+      "value": "Chargement de l'annonce"
+    },
+    {
+      "key": "ad_not_ready",
+      "value": "L'annonce n'est pas prête"
     }
   ]
 }

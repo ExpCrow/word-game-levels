@@ -239,6 +239,14 @@
     {
       "key": "next_area",
       "value": "Nächster Bereich"
+    },
+    {
+      "key": "loading_ad",
+      "value": "Anzeige laden"
+    },
+    {
+      "key": "ad_not_ready",
+      "value": "Anzeige nicht bereit"
     }
   ]
 }

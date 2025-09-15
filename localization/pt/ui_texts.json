@@ -239,6 +239,14 @@
     {
       "key": "next_area",
       "value": "Próxima área"
+    },
+    {
+      "key": "loading_ad",
+      "value": "Carregando anúncio"
+    },
+    {
+      "key": "ad_not_ready",
+      "value": "Anúncio não pronto"
     }
   ]
 }

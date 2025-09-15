@@ -239,6 +239,14 @@
     {
       "key": "next_area",
       "value": "Next Area"
+    },
+    {
+      "key": "loading_ad",
+      "value": "Loading Ad"
+    },
+    {
+      "key": "ad_not_ready",
+      "value": "Ad Not Ready"
     }
   ]
 }
