@@ -235,6 +235,10 @@
     {
       "key": "place_desk",
       "value": "Place Desk"
+    },
+    {
+      "key": "next_area",
+      "value": "Next Area"
     }
   ]
 }

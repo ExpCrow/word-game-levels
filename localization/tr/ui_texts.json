@@ -90,7 +90,7 @@
     },
     {
       "key": "place_stairs",
-      "value": "Merdivenleri yap"
+      "value": "Merdivenleri Yap"
     },
     {
       "key": "boy_room",
@@ -235,6 +235,10 @@
     {
       "key": "place_desk",
       "value": "Çalışma Masasını Yerleştir"
+    },
+    {
+      "key": "next_area",
+      "value": "Sonraki Bölge"
     }
   ]
 }

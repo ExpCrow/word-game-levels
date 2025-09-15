@@ -235,6 +235,10 @@
     {
       "key": "place_desk",
       "value": "Local de trabalho"
+    },
+    {
+      "key": "next_area",
+      "value": "Próxima área"
     }
   ]
 }

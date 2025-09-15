@@ -1,0 +1,16 @@
+
+[2025-09-13 12:53:43] Güncelleme Raporu
+🔼 Versiyonu artan diller: en, tr, fr, de, ru, pt, pl
+
+[2025-09-13 12:54:51] Güncelleme Raporu
+⏸ Değişmeyen diller: en (v1), tr (v1), fr (v1), de (v1), ru (v1), pt (v1), pl (v1)
+
+[2025-09-13 12:55:34] Güncelleme Raporu
+🔼 Versiyonu artan diller: en (v2), tr (v2), fr (v2), de (v2), ru (v2), pt (v2), pl (v2)
+
+[2025-09-13 12:56:20] Güncelleme Raporu
+🔼 Versiyonu artan diller: tr (v3)
+⏸ Değişmeyen diller: en (v2), fr (v2), de (v2), ru (v2), pt (v2), pl (v2)
+
+[2025-09-13 15:13:29] Güncelleme Raporu
+🔼 Versiyonu artan diller: en (v3), tr (v4), fr (v3), de (v3), ru (v3), pt (v3), pl (v3)

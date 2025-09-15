@@ -235,6 +235,10 @@
     {
       "key": "place_desk",
       "value": "Platz Schreibtisch"
+    },
+    {
+      "key": "next_area",
+      "value": "Nächster Bereich"
     }
   ]
 }

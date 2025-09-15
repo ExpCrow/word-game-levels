@@ -235,6 +235,10 @@
     {
       "key": "place_desk",
       "value": "Miejsce Biurko"
+    },
+    {
+      "key": "next_area",
+      "value": "Następny obszar"
     }
   ]
 }
