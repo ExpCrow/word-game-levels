@@ -159,6 +159,298 @@
           "meaning": "To consume food."
         }
       ]
+    },
+    {
+      "id": 15,
+      "letters": [
+        "L",
+        "O",
+        "N",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "LANE",
+          "meaning": "Narrow road."
+        },
+        {
+          "word": "LOAN",
+          "meaning": "Money lent; the act of lending."
+        },
+        {
+          "word": "ALONE",
+          "meaning": "By oneself; without others."
+        },
+        {
+          "word": "LEAN",
+          "meaning": "To incline or bend."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ONE",
+          "meaning": "The number 1."
+        },
+        {
+          "word": "NOEL",
+          "meaning": "Christmas; the celebration of the birth of Jesus Christ."
+        },
+        {
+          "word": "LEA",
+          "meaning": "A meadow or grassy field."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "letters": [
+        "S",
+        "C",
+        "N",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "CENT",
+          "meaning": "A coin worth one-hundredth of a dollar."
+        },
+        {
+          "word": "SET",
+          "meaning": "Group, collection; to put or place."
+        },
+        {
+          "word": "NET",
+          "meaning": "Mesh; actual amount; Internet."
+        },
+        {
+          "word": "SCENT",
+          "meaning": "Smell."
+        },
+        {
+          "word": "NEST",
+          "meaning": "A bird’s home."
+        },
+        {
+          "word": "SENT",
+          "meaning": "Past tense of “send.”"
+        }
+      ],
+      "extra": [
+        {
+          "word": "TEN",
+          "meaning": "The number 10."
+        },
+        {
+          "word": "CENTS",
+          "meaning": "Plural of “cent”; coins worth one-hundredth of a dollar."
+        },
+        {
+          "word": "NETS",
+          "meaning": "The Internet (plural)."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "letters": [
+        "P",
+        "Y",
+        "L",
+        "A",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "PLAY",
+          "meaning": "To engage in a game."
+        },
+        {
+          "word": "PAY",
+          "meaning": "To give money for something."
+        },
+        {
+          "word": "LAY",
+          "meaning": "To put or place."
+        },
+        {
+          "word": "PLY",
+          "meaning": "Layer."
+        },
+        {
+          "word": "APP",
+          "meaning": "Application."
+        },
+        {
+          "word": "PAL",
+          "meaning": "Friend, buddy."
+        },
+        {
+          "word": "APPLY",
+          "meaning": "To put into practice."
+        }
+      ],
+      "extra": [
+        {
+          "word": "YAP",
+          "meaning": "A short, sharp bark (of a small dog)."
+        },
+        {
+          "word": "LAP",
+          "meaning": "The front part of the thighs when sitting."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "letters": [
+        "L",
+        "A",
+        "M",
+        "I",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "MAIL",
+          "meaning": "Letters or parcels sent."
+        },
+        {
+          "word": "CLAIM",
+          "meaning": "To state as true."
+        },
+        {
+          "word": "AIM",
+          "meaning": "To point or direct; goal or target."
+        },
+        {
+          "word": "CLAM",
+          "meaning": "A type of shellfish."
+        },
+        {
+          "word": "CALM",
+          "meaning": "Peaceful, quiet."
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAM",
+          "meaning": "To escape or run away."
+        },
+        {
+          "word": "MAC",
+          "meaning": "Raincoat; (informally)."
+        },
+        {
+          "word": "MALIC",
+          "meaning": "Relating to or containing malic acid; sour or acidic."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "letters": [
+        "H",
+        "A",
+        "C",
+        "K",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "HACK",
+          "meaning": "Unauthorized computer access."
+        },
+        {
+          "word": "SACK",
+          "meaning": "A usually rectangular-shaped bag."
+        },
+        {
+          "word": "HACKS",
+          "meaning": "Plural of ''hack.''"
+        },
+        {
+          "word": "SHACK",
+          "meaning": "A small, simple building."
+        },
+        {
+          "word": "HAS",
+          "meaning": "Third person singular of “have.''"
+        },
+        {
+          "word": "CASH",
+          "meaning": "Money in the form of coins or banknotes."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAC",
+          "meaning": "A pouch in an animal or plant."
+        },
+        {
+          "word": "ASH",
+          "meaning": "Something that symbolizes grief."
+        },
+        {
+          "word": "SKA",
+          "meaning": "A music genre originating in Jamaica."
+        },
+        {
+          "word": "ASK",
+          "meaning": "To request information or help."
+        },
+        {
+          "word": "AS",
+          "meaning": "Used to show role or function."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "letters": [
+        "D",
+        "N",
+        "K",
+        "R",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "DRINK",
+          "meaning": "To swallow liquid."
+        },
+        {
+          "word": "INK",
+          "meaning": "Colored liquid used for writing or printing."
+        },
+        {
+          "word": "KID",
+          "meaning": "Child."
+        },
+        {
+          "word": "KIN",
+          "meaning": "Relatives, family members."
+        },
+        {
+          "word": "RID",
+          "meaning": "To free or remove from something unwanted."
+        },
+        {
+          "word": "KIND",
+          "meaning": "Nice, gentle; type or sort."
+        }
+      ],
+      "extra": [
+        {
+          "word": "DIN",
+          "meaning": " A loud continued noise."
+        },
+        {
+          "word": "IN",
+          "meaning": "Inside; included."
+        }
+      ]
     }
   ]
 }

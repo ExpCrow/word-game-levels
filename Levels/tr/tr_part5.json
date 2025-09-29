@@ -1,0 +1,364 @@
+{
+  "levels": [
+    {
+      "id": 41,
+      "letters": [
+        "D",
+        "G",
+        "Y",
+        "U",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "DUYU",
+          "meaning": "Duyulama etkinliğinin farkına varan içsel bir güçtür"
+        },
+        {
+          "word": "DUY",
+          "meaning": "Elektrik ampulünün takıldığı, bakır ya da pirinçten yapılmış, yivli araç."
+        },
+        {
+          "word": "UYDU",
+          "meaning": "Bir gökcisminin çekiminde kalarak onun çevresinde dolanan ve onunla birlikte Güneş çevresinde dönen daha küçük gökcismi."
+        }
+      ],
+      "extra": [
+        {
+          "word": "DUYGU",
+          "meaning": "Bir olay, kimse ya da nesnenin insanın iç dünyasında oluşturduğu, uyandırdığı yankı, etki, tepki, izlenim."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "letters": [
+        "K",
+        "E",
+        "Ç",
+        "Ç",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "KEÇİ",
+          "meaning": "Gevişgetirenlerden, yeryüzünün her yerinde eti, sütü, derisi ve kılı için yetiştirilen, memeli evcil hayvan."
+        },
+        {
+          "word": "ÇEK",
+          "meaning": "Bir ödeme aracı"
+        },
+        {
+          "word": "ÇİÇEK",
+          "meaning": "Bir bitkinin, üreme organlarını taşıyan, genellikle hoş kokulu ve renkli bölümü."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇEKİÇ",
+          "meaning": "Madenleri dövmek, çivi çakmak gibi işlerde kullanılan, belli uzunlukta bir sapla dövecek maden bir bölümden oluşan araç."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "letters": [
+        "U",
+        "R",
+        "N",
+        "S",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "RUS",
+          "meaning": "Rusya’da yaşayan Doğu Slav halkı ya da bu halktan olan"
+        },
+        {
+          "word": "SORU",
+          "meaning": "Bir şey öğrenmek için birine yöneltilen ve yanıt gerektiren söz ya da yazı."
+        },
+        {
+          "word": "SUR",
+          "meaning": "Kale duvarı, yüksek duvar."
+        },
+        {
+          "word": "ONUR",
+          "meaning": "Kişinin kendi varlığına, kendi kişiliğine karşı beslediği saygı, insanı insan yapan iç değer."
+        },
+        {
+          "word": "SORUN",
+          "meaning": "Olumlu ya da olumsuz bir sonuca ulaştırılması gereken durum."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SON",
+          "meaning": "En arkada, en geride bulunan."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "letters": [
+        "B",
+        "R",
+        "İ",
+        "E",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "BİR",
+          "meaning": "Sayıların ilki."
+        },
+        {
+          "word": "BİBER",
+          "meaning": "Patlıcangillerden, Türkiye’de çok yetiştirilen bir bitki."
+        },
+        {
+          "word": "İBRE",
+          "meaning": "Kimi ölçü araçlarında sayı ya da im gösteren devingen iğne."
+        }
+      ],
+      "extra": [
+        {
+          "word": "BERİ",
+          "meaning": "Konuşana göre, önünde bulunan iki uzaklıktan kendisine yakın olanı."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "letters": [
+        "H",
+        "P",
+        "E",
+        "S",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "PİS",
+          "meaning": "Üzeri kirle kaplı olan, kirli, iğrendirici."
+        },
+        {
+          "word": "HİS",
+          "meaning": "Yaşanılan, tanık olunan ya da gözlemlenen şeylerin kişinin kalbinde yarattığı etkiye his denir"
+        },
+        {
+          "word": "PES",
+          "meaning": "Yenilgiyi kabul ettiğini belirtmek için ya da birinin şaşırtıcı bir davranışı karşısında şaşkınlık duyulduğunu anlatmak için kullanılır."
+        },
+        {
+          "word": "HEPSİ",
+          "meaning": "Eksik olmamak üzere, bütünü, tümü."
+        },
+        {
+          "word": "HEP",
+          "meaning": "Her zaman, sürekli olarak, boyuna, aralıksız bir biçimde, daima."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SEPİ",
+          "meaning": "Postu, deriyi kullanılabilecek duruma getirmek için uygulanan işlemlerin tümü."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "letters": [
+        "K",
+        "İ",
+        "T",
+        "İ",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "BİT",
+          "meaning": "Yarımkanatlılar alttakımından, insan ve memeli hayvanların vücudunda asalak olarak yaşayan ufak böcek."
+        },
+        {
+          "word": "BİTİK",
+          "meaning": "Hastalıktan ya da yorgunluktan gücü tükenmiş."
+        },
+        {
+          "word": "BİTKİ",
+          "meaning": "Yosun, ot, ağaç gibi canlı varlıkların ortak adı."
+        },
+        {
+          "word": "TİK",
+          "meaning": "Bir alışkanlık olarak ikide bir yinelenen gülünç, sıkıcı söz ya da el, kol, yüz devinimi."
+        },
+        {
+          "word": "İBİK",
+          "meaning": "Horoz, hindi, çavuşkuşu ve benzeri hayvanların tepesindeki kırmızı renkli, etli ve tırtıllı deri uzantısı."
+        },
+        {
+          "word": "İKİ",
+          "meaning": "Birden sonra gelen sayının adı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "KİT",
+          "meaning": "Macun, kilit, anahtar ya da ucuz"
+        },
+        {
+          "word": "İTİ",
+          "meaning": "Belli bir amaca erişmek, belli bir eyleme girişmek için duyumsanan güçlü ve sürekli, dayanılmaz tepi."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "K",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "BACAK",
+          "meaning": "Vücudun kasıktan tabana değin olan ve yürümeye yarayan bölümü."
+        },
+        {
+          "word": "BACA",
+          "meaning": "Dumanı ya da kirli havayı çekip dışarıya vermeye yarayan maden ya da kâgir yol."
+        },
+        {
+          "word": "KABA",
+          "meaning": "Kalın ya da taneleri iri."
+        }
+      ],
+      "extra": [
+        {
+          "word": "CAKA",
+          "meaning": "Kendini başkalarına beğendirme çabası, çalım, gösteriş, fiyaka."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "letters": [
+        "R",
+        "U",
+        "B",
+        "D",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "BODUR",
+          "meaning": "Enine göre boyu kısa olan, kısa boylu ve tıknaz."
+        },
+        {
+          "word": "ORDU",
+          "meaning": "Bir devletin silahlı kuvvetlerinin tümü."
+        },
+        {
+          "word": "BORU",
+          "meaning": "Bakırdan yapılmış, perdesiz üflemeli çalgı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "OBUR",
+          "meaning": "Çok yemek yediği halde doymak bilmeyen, gereğinden çok yiyen"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "letters": [
+        "V",
+        "İ",
+        "D",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "VAN",
+          "meaning": "İlerlemeye öncülük edecek konumdaki herhangi bir grubun en öndeki veya ön bölümü"
+        },
+        {
+          "word": "VADİ",
+          "meaning": "İki dağ arasında bulunan geçit."
+        },
+        {
+          "word": "DİN",
+          "meaning": "Karşılık vermek, itaat etmek, âdet, hayat tarzı ve yoldur."
+        },
+        {
+          "word": "DİVAN",
+          "meaning": "Kol koyacak yeri olmayan, arkalıksız, üstü minderli ve yastıklı olabilen kerevet, arkalıksız kanape."
+        },
+        {
+          "word": "VİDA",
+          "meaning": "Döndürülerek bir yere sokulan burmalı çivi."
+        },
+        {
+          "word": "ANİ",
+          "meaning": "Bir anda, birdenbire oluveren, apansız."
+        }
+      ],
+      "extra": [
+        {
+          "word": "DAV",
+          "meaning": "Afrika’nın doğusunda ve güneyinde yaşayan, kaplan postuna benzer postu az çizgili olan bir zebra türü."
+        },
+        {
+          "word": "ADİ",
+          "meaning": "Hiçbir özelliği, özgünlüğü olmayan, olağan, sıradan."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "letters": [
+        "Ü",
+        "G",
+        "Ö",
+        "R",
+        "Z"
+      ],
+      "answers": [
+        {
+          "word": "GÖZ",
+          "meaning": "Görmeyi sağlayan organ."
+        },
+        {
+          "word": "ÖZÜR",
+          "meaning": "Bozukluk, eksiklik, elverişsizlik, sakatlık."
+        },
+        {
+          "word": "GÜR",
+          "meaning": "Bol, verimli."
+        },
+        {
+          "word": "ÖRGÜ",
+          "meaning": "Örmek eylemi ya da biçimi."
+        },
+        {
+          "word": "GÜZ",
+          "meaning": "Bol, verimli."
+        },
+        {
+          "word": "ÖZGÜR",
+          "meaning": "Serbest  bağımsız"
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÖZGÜ",
+          "meaning": "Belli bir kimsede ya da şeyde bulunan, yalnız onun özelliğini taşıyan."
+        }
+      ]
+    }
+  ]
+}

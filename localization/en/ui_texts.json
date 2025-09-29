@@ -247,6 +247,170 @@
     {
       "key": "ad_not_ready",
       "value": "Ad Not Ready"
+    },
+    {
+      "key": "mission",
+      "value": "Mission"
+    },
+    {
+      "key": "task_find_words",
+      "value": "Find 5 words"
+    },
+    {
+      "key": "task_find_extra",
+      "value": "Find 5 extra words"
+    },
+    {
+      "key": "task_reveal",
+      "value": "Reveal 5 letters"
+    },
+    {
+      "key": "task_complete",
+      "value": "Complete 5 levels"
+    },
+    {
+      "key": "task_complete_flawless_levels",
+      "value": "Complete 10 flawless levels"
+    },
+    {
+      "key": "task_find_correct_words_in_a_row",
+      "value": "Find 5 correct words in a row"
+    },
+    {
+      "key": "task_complete_flawless_levels_in_a_row",
+      "value": "Complete 5 flawless levels in a row"
+    },
+    {
+      "key": "task_use",
+      "value": "Use 5 hints"
+    },
+    {
+      "key": "task_complete_level_without_using_a_hint",
+      "value": "Complete 5 level without using a hint"
+    },
+    {
+      "key": "task_earn_gold",
+      "value": "Earn 5 gold"
+    },
+    {
+      "key": "task_spend_gold",
+      "value": "Spend 5 gold"
+    },
+    {
+      "key": "task_earn_energy",
+      "value": "Earn 5 energy"
+    },
+    {
+      "key": "task_spend_energy",
+      "value": "Spend 5 energy"
+    },
+    {
+      "key": "task_collect_keys",
+      "value": "Collect 5 keys"
+    },
+    {
+      "key": "task_open_chest",
+      "value": "Open 5 chests"
+    },
+    {
+      "key": "task_open_premium_chests",
+      "value": "Open 5 premium chests"
+    },
+    {
+      "key": "task_complete_rooms",
+      "value": "Complete 5 rooms"
+    },
+    {
+      "key": "task_place_furniture_items",
+      "value": "Place 5 furniture items"
+    },
+    {
+      "key": "task_add_decoration_objects",
+      "value": "Add 5 decoration objects"
+    },
+    {
+      "key": "task_earn_stars",
+      "value": "Earn 5 stars"
+    },
+    {
+      "key": "task_log_in_for_days",
+      "value": "Log in for 5 days"
+    },
+    {
+      "key": "task_invite",
+      "value": "Invite 5 friends"
+    },
+    {
+      "key": "task_share",
+      "value": "Share 5 scores"
+    },
+    {
+      "key": "task_spin_the_slot",
+      "value": "Spin the slot 5 times"
+    },
+    {
+      "key": "task_earn_rewards_from_the_slot",
+      "value": "Earn 5 rewards from the slot"
+    },
+    {
+      "key": "task_throw_darts",
+      "value": "Throw 5 darts"
+    },
+    {
+      "key": "task_earn_rewards_from_darts",
+      "value": "Earn 5 rewards from darts"
+    },
+    {
+      "key": "task_hit_consecutive_shots_in_darts",
+      "value": "Hit 5 consecutive shots in darts"
+    },
+    {
+      "key": "task_spin_the_wheel_times",
+      "value": "Spin the wheel 5 times"
+    },
+    {
+      "key": "task_earn_rewards_from_the_wheel",
+      "value": "Earn 5 rewards from the wheel"
+    },
+    {
+      "key": "task_complete_mini_games",
+      "value": "Complete 5 mini games"
+    },
+    {
+      "key": "task_spend_mini_game_tokens",
+      "value": "Spend 5 mini game tokens"
+    },
+    {
+      "key": "task_earn_rewards_from_mini_games",
+      "value": "Earn 5 rewards from mini games"
+    },
+    {
+      "key": "task_claim_daily_reward_times",
+      "value": "Claim daily reward 5 times"
+    },
+    {
+      "key": "task_claim_weekly_reward_times",
+      "value": "Claim weekly reward 5 times"
+    },
+    {
+      "key": "task_claim_hourly_reward_times",
+      "value": "Claim hourly reward 5 times"
+    },
+    {
+      "key": "task_open_different_types_of_chests",
+      "value": "Open 5 different types of chests"
+    },
+    {
+      "key": "task_play_different_mini_games",
+      "value": "Play 5 different mini games"
+    },
+    {
+      "key": "task_complete_task",
+      "value": "Complete 5 tasks"
+    },
+    {
+      "key": "task_spend_stars",
+      "value": "Spend 5 stars for rooms"
     }
   ]
 }

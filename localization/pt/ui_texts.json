@@ -247,6 +247,170 @@
     {
       "key": "ad_not_ready",
       "value": "Anúncio não pronto"
+    },
+    {
+      "key": "mission",
+      "value": "Missão"
+    },
+    {
+      "key": "task_find_words",
+      "value": "Encontrar 5 palavras"
+    },
+    {
+      "key": "task_find_extra",
+      "value": "Encontrar 5 palavras extra"
+    },
+    {
+      "key": "task_reveal",
+      "value": "Revelar 5 letras"
+    },
+    {
+      "key": "task_complete",
+      "value": "Completar 5 níveis"
+    },
+    {
+      "key": "task_complete_flawless_levels",
+      "value": "Completar 10 níveis sem falhas"
+    },
+    {
+      "key": "task_find_correct_words_in_a_row",
+      "value": "Encontrar 5 palavras corretas numa fila"
+    },
+    {
+      "key": "task_complete_flawless_levels_in_a_row",
+      "value": "Completar 5 níveis sem falhas seguidos"
+    },
+    {
+      "key": "task_use",
+      "value": "Utilizar 5 dicas"
+    },
+    {
+      "key": "task_complete_level_without_using_a_hint",
+      "value": "Completar 5 níveis sem utilizar uma pista"
+    },
+    {
+      "key": "task_earn_gold",
+      "value": "Ganhar 5 de ouro"
+    },
+    {
+      "key": "task_spend_gold",
+      "value": "Gastar 5 ouro"
+    },
+    {
+      "key": "task_earn_energy",
+      "value": "Ganhar 5 de energia"
+    },
+    {
+      "key": "task_spend_energy",
+      "value": "Gastar 5 de energia"
+    },
+    {
+      "key": "task_collect_keys",
+      "value": "Recolher 5 chaves"
+    },
+    {
+      "key": "task_open_chest",
+      "value": "Abrir 5 baús"
+    },
+    {
+      "key": "task_open_premium_chests",
+      "value": "Abrir 5 baús de prémio"
+    },
+    {
+      "key": "task_complete_rooms",
+      "value": "Completar 5 quartos"
+    },
+    {
+      "key": "task_place_furniture_items",
+      "value": "Colocar 5 peças de mobiliário"
+    },
+    {
+      "key": "task_add_decoration_objects",
+      "value": "Adicionar 5 objectos de decoração"
+    },
+    {
+      "key": "task_earn_stars",
+      "value": "Ganhar 5 estrelas"
+    },
+    {
+      "key": "task_log_in_for_days",
+      "value": "Iniciar sessão durante 5 dias"
+    },
+    {
+      "key": "task_invite",
+      "value": "Convidar 5 amigos"
+    },
+    {
+      "key": "task_share",
+      "value": "Partilhar 5 resultados"
+    },
+    {
+      "key": "task_spin_the_slot",
+      "value": "Rodar a slot 5 vezes"
+    },
+    {
+      "key": "task_earn_rewards_from_the_slot",
+      "value": "Ganhar 5 prémios na slot"
+    },
+    {
+      "key": "task_throw_darts",
+      "value": "Atirar 5 dardos"
+    },
+    {
+      "key": "task_earn_rewards_from_darts",
+      "value": "Ganhar 5 recompensas com dardos"
+    },
+    {
+      "key": "task_hit_consecutive_shots_in_darts",
+      "value": "Acertar 5 tiros consecutivos em dardos"
+    },
+    {
+      "key": "task_spin_the_wheel_times",
+      "value": "Girar a roda 5 vezes"
+    },
+    {
+      "key": "task_earn_rewards_from_the_wheel",
+      "value": "Ganhar 5 prémios da roda"
+    },
+    {
+      "key": "task_complete_mini_games",
+      "value": "Completar 5 minijogos"
+    },
+    {
+      "key": "task_spend_mini_game_tokens",
+      "value": "Gastar 5 fichas de minijogos"
+    },
+    {
+      "key": "task_earn_rewards_from_mini_games",
+      "value": "Ganhe 5 recompensas de mini-jogos"
+    },
+    {
+      "key": "task_claim_daily_reward_times",
+      "value": "Pedir recompensa diária 5 vezes"
+    },
+    {
+      "key": "task_claim_weekly_reward_times",
+      "value": "Pedir recompensa semanal 5 vezes"
+    },
+    {
+      "key": "task_claim_hourly_reward_times",
+      "value": "Reivindicar a recompensa horária 5 vezes"
+    },
+    {
+      "key": "task_open_different_types_of_chests",
+      "value": "Abra 5 tipos diferentes de baús"
+    },
+    {
+      "key": "task_play_different_mini_games",
+      "value": "Joga 5 mini-jogos diferentes"
+    },
+    {
+      "key": "task_complete_task",
+      "value": "Completar 5 tarefas"
+    },
+    {
+      "key": "task_spend_stars",
+      "value": "Gastar 5 estrelas nos quartos"
     }
   ]
 }

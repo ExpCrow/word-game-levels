@@ -247,6 +247,170 @@
     {
       "key": "ad_not_ready",
       "value": "L'annonce n'est pas prête"
+    },
+    {
+      "key": "mission",
+      "value": "La mission"
+    },
+    {
+      "key": "task_find_words",
+      "value": "Trouvez 5 mots"
+    },
+    {
+      "key": "task_find_extra",
+      "value": "Trouvez 5 mots supplémentaires"
+    },
+    {
+      "key": "task_reveal",
+      "value": "Révéler 5 lettres"
+    },
+    {
+      "key": "task_complete",
+      "value": "Terminer 5 niveaux"
+    },
+    {
+      "key": "task_complete_flawless_levels",
+      "value": "Terminez 10 niveaux sans faute"
+    },
+    {
+      "key": "task_find_correct_words_in_a_row",
+      "value": "Trouver 5 mots corrects à la suite"
+    },
+    {
+      "key": "task_complete_flawless_levels_in_a_row",
+      "value": "Terminer 5 niveaux sans faute d'affilée"
+    },
+    {
+      "key": "task_use",
+      "value": "Utiliser 5 indices"
+    },
+    {
+      "key": "task_complete_level_without_using_a_hint",
+      "value": "Terminer 5 niveaux sans utiliser d'indice"
+    },
+    {
+      "key": "task_earn_gold",
+      "value": "Gagner 5 pièces d'or"
+    },
+    {
+      "key": "task_spend_gold",
+      "value": "Dépenser 5 pièces d'or"
+    },
+    {
+      "key": "task_earn_energy",
+      "value": "Gagnez 5 euros d'énergie"
+    },
+    {
+      "key": "task_spend_energy",
+      "value": "Dépenser 5 énergies"
+    },
+    {
+      "key": "task_collect_keys",
+      "value": "Collecter 5 clés"
+    },
+    {
+      "key": "task_open_chest",
+      "value": "Ouvrir 5 coffres"
+    },
+    {
+      "key": "task_open_premium_chests",
+      "value": "Ouvrez 5 coffres à primes"
+    },
+    {
+      "key": "task_complete_rooms",
+      "value": "Compléter 5 pièces"
+    },
+    {
+      "key": "task_place_furniture_items",
+      "value": "Placer 5 meubles"
+    },
+    {
+      "key": "task_add_decoration_objects",
+      "value": "Ajouter 5 objets de décoration"
+    },
+    {
+      "key": "task_earn_stars",
+      "value": "Gagner 5 étoiles"
+    },
+    {
+      "key": "task_log_in_for_days",
+      "value": "Se connecter pendant 5 jours"
+    },
+    {
+      "key": "task_invite",
+      "value": "Inviter 5 amis"
+    },
+    {
+      "key": "task_share",
+      "value": "Partager 5 notes"
+    },
+    {
+      "key": "task_spin_the_slot",
+      "value": "Faire tourner la machine à sous 5 fois"
+    },
+    {
+      "key": "task_earn_rewards_from_the_slot",
+      "value": "Gagnez 5 récompenses grâce à la machine à sous"
+    },
+    {
+      "key": "task_throw_darts",
+      "value": "Lancer 5 fléchettes"
+    },
+    {
+      "key": "task_earn_rewards_from_darts",
+      "value": "Obtenez 5 récompenses grâce aux fléchettes"
+    },
+    {
+      "key": "task_hit_consecutive_shots_in_darts",
+      "value": "Réussir 5 tirs consécutifs aux fléchettes"
+    },
+    {
+      "key": "task_spin_the_wheel_times",
+      "value": "Faire tourner la roue 5 fois"
+    },
+    {
+      "key": "task_earn_rewards_from_the_wheel",
+      "value": "Obtenez 5 récompenses grâce à la roue"
+    },
+    {
+      "key": "task_complete_mini_games",
+      "value": "Terminez 5 mini-jeux"
+    },
+    {
+      "key": "task_spend_mini_game_tokens",
+      "value": "Dépenser 5 jetons de mini-jeu"
+    },
+    {
+      "key": "task_earn_rewards_from_mini_games",
+      "value": "Gagnez 5 récompenses grâce aux mini-jeux"
+    },
+    {
+      "key": "task_claim_daily_reward_times",
+      "value": "Réclamer 5 fois la récompense quotidienne"
+    },
+    {
+      "key": "task_claim_weekly_reward_times",
+      "value": "Réclamer 5 fois la récompense hebdomadaire"
+    },
+    {
+      "key": "task_claim_hourly_reward_times",
+      "value": "Réclamer la récompense horaire 5 fois"
+    },
+    {
+      "key": "task_open_different_types_of_chests",
+      "value": "Ouvrez 5 types de coffres différents"
+    },
+    {
+      "key": "task_play_different_mini_games",
+      "value": "Jouez à 5 mini-jeux différents"
+    },
+    {
+      "key": "task_complete_task",
+      "value": "Effectuer 5 tâches"
+    },
+    {
+      "key": "task_spend_stars",
+      "value": "Dépenser 5 étoiles pour les chambres"
     }
   ]
 }

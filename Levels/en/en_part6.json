@@ -1,0 +1,420 @@
+{
+  "levels": [
+    {
+      "id": 51,
+      "letters": [
+        "H",
+        "D",
+        "I",
+        "U",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "HUM",
+          "meaning": NaN
+        },
+        {
+          "word": "HIM",
+          "meaning": NaN
+        },
+        {
+          "word": "HUMID",
+          "meaning": NaN
+        },
+        {
+          "word": "HID",
+          "meaning": NaN
+        },
+        {
+          "word": "DIM",
+          "meaning": NaN
+        },
+        {
+          "word": "MID",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MUD",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "letters": [
+        "C",
+        "R",
+        "A",
+        "K",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ACT",
+          "meaning": NaN
+        },
+        {
+          "word": "CAT",
+          "meaning": NaN
+        },
+        {
+          "word": "CAR",
+          "meaning": NaN
+        },
+        {
+          "word": "TRACK",
+          "meaning": NaN
+        },
+        {
+          "word": "RACK",
+          "meaning": NaN
+        },
+        {
+          "word": "RAT",
+          "meaning": NaN
+        },
+        {
+          "word": "ART",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "CART",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "letters": [
+        "H",
+        "S",
+        "U",
+        "E",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "SUE",
+          "meaning": NaN
+        },
+        {
+          "word": "HOSE",
+          "meaning": NaN
+        },
+        {
+          "word": "USE",
+          "meaning": NaN
+        },
+        {
+          "word": "HOUSE",
+          "meaning": NaN
+        },
+        {
+          "word": "SHOE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SHE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "letters": [
+        "G",
+        "A",
+        "R",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "EARN",
+          "meaning": NaN
+        },
+        {
+          "word": "ANGER",
+          "meaning": NaN
+        },
+        {
+          "word": "RAGE",
+          "meaning": NaN
+        },
+        {
+          "word": "NEAR",
+          "meaning": NaN
+        },
+        {
+          "word": "GEAR",
+          "meaning": NaN
+        },
+        {
+          "word": "RANGE",
+          "meaning": NaN
+        },
+        {
+          "word": "RANG",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "GAR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "letters": [
+        "D",
+        "N",
+        "H",
+        "A",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "HAND",
+          "meaning": NaN
+        },
+        {
+          "word": "HAD",
+          "meaning": NaN
+        },
+        {
+          "word": "DAY",
+          "meaning": NaN
+        },
+        {
+          "word": "HAY",
+          "meaning": NaN
+        },
+        {
+          "word": "HANDY",
+          "meaning": NaN
+        },
+        {
+          "word": "ANY",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AND",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "letters": [
+        "O",
+        "R",
+        "U",
+        "S",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "YOURS",
+          "meaning": NaN
+        },
+        {
+          "word": "SOUR",
+          "meaning": NaN
+        },
+        {
+          "word": "YOUR",
+          "meaning": NaN
+        },
+        {
+          "word": "OUR",
+          "meaning": NaN
+        },
+        {
+          "word": "SOY",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "YOU",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "letters": [
+        "I",
+        "D",
+        "A",
+        "R",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "ROAD",
+          "meaning": NaN
+        },
+        {
+          "word": "AID",
+          "meaning": NaN
+        },
+        {
+          "word": "RAID",
+          "meaning": NaN
+        },
+        {
+          "word": "RADIO",
+          "meaning": NaN
+        },
+        {
+          "word": "AIR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ROD",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "letters": [
+        "T",
+        "S",
+        "U",
+        "N",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "RUST",
+          "meaning": NaN
+        },
+        {
+          "word": "NUT",
+          "meaning": NaN
+        },
+        {
+          "word": "STUN",
+          "meaning": NaN
+        },
+        {
+          "word": "SUN",
+          "meaning": NaN
+        },
+        {
+          "word": "TURNS",
+          "meaning": NaN
+        },
+        {
+          "word": "RUN",
+          "meaning": NaN
+        },
+        {
+          "word": "TURN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RUNS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "letters": [
+        "T",
+        "S",
+        "H",
+        "S",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "HOT",
+          "meaning": NaN
+        },
+        {
+          "word": "HOST",
+          "meaning": NaN
+        },
+        {
+          "word": "SHOTS",
+          "meaning": NaN
+        },
+        {
+          "word": "HOSTS",
+          "meaning": NaN
+        },
+        {
+          "word": "TOSS",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SHOT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "letters": [
+        "E",
+        "N",
+        "D",
+        "Y",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "END",
+          "meaning": NaN
+        },
+        {
+          "word": "DEN",
+          "meaning": NaN
+        },
+        {
+          "word": "NEED",
+          "meaning": NaN
+        },
+        {
+          "word": "NEEDY",
+          "meaning": NaN
+        },
+        {
+          "word": "EYE",
+          "meaning": NaN
+        },
+        {
+          "word": "DENY",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DYE",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

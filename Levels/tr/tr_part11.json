@@ -1,0 +1,394 @@
+{
+  "levels": [
+    {
+      "id": 101,
+      "letters": [
+        "S",
+        "T",
+        "S",
+        "E",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "SERT",
+          "meaning": NaN
+        },
+        {
+          "word": "TER",
+          "meaning": NaN
+        },
+        {
+          "word": "SET",
+          "meaning": NaN
+        },
+        {
+          "word": "TERS",
+          "meaning": NaN
+        },
+        {
+          "word": "SES",
+          "meaning": NaN
+        },
+        {
+          "word": "REST",
+          "meaning": NaN
+        },
+        {
+          "word": "STRES",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SER",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "letters": [
+        "A",
+        "N",
+        "V",
+        "D",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "DİN",
+          "meaning": NaN
+        },
+        {
+          "word": "ADİ",
+          "meaning": NaN
+        },
+        {
+          "word": "ANİ",
+          "meaning": NaN
+        },
+        {
+          "word": "DİVAN",
+          "meaning": NaN
+        },
+        {
+          "word": "VADİ",
+          "meaning": NaN
+        },
+        {
+          "word": "VİDA",
+          "meaning": NaN
+        },
+        {
+          "word": "VAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "NİDA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "letters": [
+        "U",
+        "S",
+        "U",
+        "L",
+        "Ç"
+      ],
+      "answers": [
+        {
+          "word": "USLU",
+          "meaning": NaN
+        },
+        {
+          "word": "USUL",
+          "meaning": NaN
+        },
+        {
+          "word": "SUÇ",
+          "meaning": NaN
+        },
+        {
+          "word": "SUÇLU",
+          "meaning": NaN
+        },
+        {
+          "word": "ULUS",
+          "meaning": NaN
+        },
+        {
+          "word": "ULU",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SULU",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "letters": [
+        "H",
+        "A",
+        "A",
+        "K",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "HALK",
+          "meaning": NaN
+        },
+        {
+          "word": "HALKA",
+          "meaning": NaN
+        },
+        {
+          "word": "HALA",
+          "meaning": NaN
+        },
+        {
+          "word": "AHLAK",
+          "meaning": NaN
+        },
+        {
+          "word": "HAL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "HAK",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "letters": [
+        "P",
+        "İ",
+        "A",
+        "T",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "PATİK",
+          "meaning": NaN
+        },
+        {
+          "word": "PATİ",
+          "meaning": NaN
+        },
+        {
+          "word": "TAKİP",
+          "meaning": NaN
+        },
+        {
+          "word": "KATİP",
+          "meaning": NaN
+        },
+        {
+          "word": "KİTAP",
+          "meaning": NaN
+        },
+        {
+          "word": "KATİ",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ATİK",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "letters": [
+        "B",
+        "İ",
+        "E",
+        "N",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "YENİ",
+          "meaning": NaN
+        },
+        {
+          "word": "NİYE",
+          "meaning": NaN
+        },
+        {
+          "word": "YİNE",
+          "meaning": NaN
+        },
+        {
+          "word": "NEY",
+          "meaning": NaN
+        },
+        {
+          "word": "BEYİN",
+          "meaning": NaN
+        },
+        {
+          "word": "BİN",
+          "meaning": NaN
+        },
+        {
+          "word": "BEN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BEY",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "letters": [
+        "C",
+        "A",
+        "S",
+        "K",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "AKS",
+          "meaning": NaN
+        },
+        {
+          "word": "ASIK",
+          "meaning": NaN
+        },
+        {
+          "word": "SIK",
+          "meaning": NaN
+        },
+        {
+          "word": "ASKI",
+          "meaning": NaN
+        },
+        {
+          "word": "SICAK",
+          "meaning": NaN
+        },
+        {
+          "word": "KAS",
+          "meaning": NaN
+        },
+        {
+          "word": "KISA",
+          "meaning": NaN
+        },
+        {
+          "word": "ISKA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ACI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "letters": [
+        "L",
+        "İ",
+        "D",
+        "Z",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "DİZEL",
+          "meaning": NaN
+        },
+        {
+          "word": "DELİ",
+          "meaning": NaN
+        },
+        {
+          "word": "DİZ",
+          "meaning": NaN
+        },
+        {
+          "word": "DİL",
+          "meaning": NaN
+        },
+        {
+          "word": "ZİL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DİZE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "letters": [
+        "A",
+        "Z",
+        "A",
+        "R",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "ARPA",
+          "meaning": NaN
+        },
+        {
+          "word": "ARA",
+          "meaning": NaN
+        },
+        {
+          "word": "ARZ",
+          "meaning": NaN
+        },
+        {
+          "word": "PAZAR",
+          "meaning": NaN
+        },
+        {
+          "word": "AZAP",
+          "meaning": NaN
+        },
+        {
+          "word": "PARA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ZAR",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "levels": [
+    {
+      "id": 21,
+      "letters": [
+        "W",
+        "H",
+        "E",
+        "N",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "WHEN",
+          "meaning": "At what time."
+        },
+        {
+          "word": "HEN",
+          "meaning": "A female chicken."
+        },
+        {
+          "word": "WIN",
+          "meaning": "To be victorious."
+        },
+        {
+          "word": "NEW",
+          "meaning": "Recently made."
+        },
+        {
+          "word": "WINE",
+          "meaning": "An alcoholic drink made from fermented grapes."
+        },
+        {
+          "word": "WHINE",
+          "meaning": "To complain in a high-pitched, annoying way."
+        }
+      ],
+      "extra": [
+        {
+          "word": "WEN",
+          "meaning": "A lump or cyst on the skin."
+        },
+        {
+          "word": "HEW",
+          "meaning": "To chop or cut something."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "letters": [
+        "L",
+        "A",
+        "D",
+        "Y",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "LADY",
+          "meaning": "A polite or formal term for a woman."
+        },
+        {
+          "word": "LAD",
+          "meaning": "A boy or young man."
+        },
+        {
+          "word": "LID",
+          "meaning": "A cover or top for a container."
+        },
+        {
+          "word": "LAID",
+          "meaning": "Past tense of “lay” – put or placed."
+        },
+        {
+          "word": "DAILY",
+          "meaning": "Happening, done, or produced every day."
+        },
+        {
+          "word": "DAY",
+          "meaning": "A 24-hour period; daytime."
+        },
+        {
+          "word": "AID",
+          "meaning": "Help, support; to help."
+        },
+        {
+          "word": "DIAL",
+          "meaning": "To make a phone call."
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAY",
+          "meaning": "To put or place something down."
+        },
+        {
+          "word": "AIL",
+          "meaning": "To cause pain, trouble, or illness."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "letters": [
+        "G",
+        "I",
+        "N",
+        "R",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "GIN",
+          "meaning": "An alcoholic drink made from juniper berries."
+        },
+        {
+          "word": "RIB",
+          "meaning": "One of the curved bones in the chest."
+        },
+        {
+          "word": "RING",
+          "meaning": "Circular band worn on a finger."
+        },
+        {
+          "word": "BRING",
+          "meaning": "To carry or take something to a place."
+        },
+        {
+          "word": "RIG",
+          "meaning": "Equipment or setup."
+        },
+        {
+          "word": "GRIN",
+          "meaning": "To smile broadly."
+        },
+        {
+          "word": "BIN",
+          "meaning": "A container for storing trash or waste."
+        },
+        {
+          "word": "BIG",
+          "meaning": "Large in size."
+        }
+      ],
+      "extra": [
+        {
+          "word": "NIB",
+          "meaning": "The tip of a pen."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "letters": [
+        "S",
+        "E",
+        "E",
+        "K",
+        "W"
+      ],
+      "answers": [
+        {
+          "word": "SEEK",
+          "meaning": "To search for something."
+        },
+        {
+          "word": "SEW",
+          "meaning": "To join or repair with a needle and thread."
+        },
+        {
+          "word": "WEEK",
+          "meaning": "A period of seven days."
+        },
+        {
+          "word": "SEE",
+          "meaning": "To perceive with the eyes."
+        },
+        {
+          "word": "WEEKS",
+          "meaning": "Plural of ''week.''"
+        },
+        {
+          "word": "WE",
+          "meaning": "The speaker and at least one other person."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 25,
+      "letters": [
+        "F",
+        "L",
+        "O",
+        "U",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "FLOUR",
+          "meaning": "A powder made by grinding grains, used for baking."
+        },
+        {
+          "word": "FOR",
+          "meaning": "Used to indicate purpose or reason."
+        },
+        {
+          "word": "OUR",
+          "meaning": "Belonging to or associated with us"
+        },
+        {
+          "word": "FUR",
+          "meaning": "The thick hair covering the bodies of some animals."
+        },
+        {
+          "word": "FOUR",
+          "meaning": "The number 4."
+        },
+        {
+          "word": "FOUL",
+          "meaning": "Offensive to the senses."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 26,
+      "letters": [
+        "V",
+        "E",
+        "R",
+        "Y",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "VERY",
+          "meaning": "To a high degree."
+        },
+        {
+          "word": "EVERY",
+          "meaning": "Used to refer to all members of a group."
+        },
+        {
+          "word": "EVE",
+          "meaning": "Evening."
+        },
+        {
+          "word": "RYE",
+          "meaning": "A hardy annual grass."
+        },
+        {
+          "word": "EYE",
+          "meaning": "The organ of sight."
+        }
+      ],
+      "extra": [
+        {
+          "word": "VEE",
+          "meaning": "The letter V."
+        },
+        {
+          "word": "REV",
+          "meaning": "To increase the running speed of an engine."
+        },
+        {
+          "word": "ERE",
+          "meaning": "Preceding in time."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "letters": [
+        "T",
+        "H",
+        "O",
+        "O",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "BOOT",
+          "meaning": "A type of footwear that covers the foot and ankle."
+        },
+        {
+          "word": "HOT",
+          "meaning": "Having a high temperature."
+        },
+        {
+          "word": "BOT",
+          "meaning": "A software application that performs automated tasks."
+        },
+        {
+          "word": "BOOTH",
+          "meaning": "A small enclosed space for a particular purpose"
+        },
+        {
+          "word": "HOBO",
+          "meaning": "A homeless person who travels to find work."
+        },
+        {
+          "word": "BOTH",
+          "meaning": "The one as well as the other."
+        },
+        {
+          "word": "HOOT",
+          "meaning": "The sound made by an owl."
+        }
+      ],
+      "extra": [
+        {
+          "word": "HOB",
+          "meaning": "A cooking surface on a stove."
+        },
+        {
+          "word": "BOHO",
+          "meaning": "A style characterized by bohemian."
+        },
+        {
+          "word": "TOO",
+          "meaning": "Also."
+        },
+        {
+          "word": "THO",
+          "meaning": "Less common spelling of though."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "L",
+        "O",
+        "V",
+        "E",
+        "W"
+      ],
+      "answers": [
+        {
+          "word": "VOWEL",
+          "meaning": "A speech sound made without closing the mouth."
+        },
+        {
+          "word": "LOVE",
+          "meaning": "A deep feeling of affection."
+        },
+        {
+          "word": "VOW",
+          "meaning": "A serious promise or pledge."
+        },
+        {
+          "word": "OWL",
+          "meaning": "A nocturnal bird of prey with large eyes."
+        },
+        {
+          "word": "LOW",
+          "meaning": "Not high; small in amount or level."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 29,
+      "letters": [
+        "O",
+        "T",
+        "F",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "FAT",
+          "meaning": "Having a large amount of excess flesh."
+        },
+        {
+          "word": "FLOAT",
+          "meaning": "To rest or move on the surface of a liquid."
+        },
+        {
+          "word": "LOT",
+          "meaning": "A large amount or number."
+        },
+        {
+          "word": "LOAF",
+          "meaning": "A shaped or molded mass of bread."
+        },
+        {
+          "word": "OAT",
+          "meaning": "A cereal grain."
+        },
+        {
+          "word": "FLAT",
+          "meaning": "Having a level surface; not curved or raised."
+        },
+        {
+          "word": "LOFT",
+          "meaning": "An upper room or floor."
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAT",
+          "meaning": "Exercise bar."
+        },
+        {
+          "word": "ALTO",
+          "meaning": "The second highest voice part in a 4-part chorus."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "H",
+        "S",
+        "B",
+        "U",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "BUSH",
+          "meaning": "A short, thick plant."
+        },
+        {
+          "word": "HUB",
+          "meaning": "he central part of a circular object."
+        },
+        {
+          "word": "BUS",
+          "meaning": "A large vehicle for carrying many passengers."
+        },
+        {
+          "word": "LUSH",
+          "meaning": "Having rich growth of plants."
+        },
+        {
+          "word": "BLUSH",
+          "meaning": "To become red in the face from shame or shyness."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SUB",
+          "meaning": "Substitute."
+        }
+      ]
+    }
+  ]
+}

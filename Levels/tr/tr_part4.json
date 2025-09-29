@@ -1,0 +1,380 @@
+{
+  "levels": [
+    {
+      "id": 31,
+      "letters": [
+        "E",
+        "A",
+        "B",
+        "Y",
+        "Z"
+      ],
+      "answers": [
+        {
+          "word": "BEZ",
+          "meaning": "Pamuk ya da keten ipliğinden yapılmış dokuma."
+        },
+        {
+          "word": "BAY",
+          "meaning": "Erkeklerin ad veya soyadlarının önüne gelen saygı sözcüğüdür"
+        },
+        {
+          "word": "BEY",
+          "meaning": "Erkek adlarının sonuna getirilen bir saygı sanı."
+        },
+        {
+          "word": "YAZ",
+          "meaning": "21 Haziranda başlayıp 23 Eylüle değin süren, ilkbaharla sonbahar arasında yer alan, yılın en sıcak mevsimi."
+        },
+        {
+          "word": "BEYAZ",
+          "meaning": "Süt, pamuk, kar gibi şeylerin rengi."
+        }
+      ],
+      "extra": [
+        {
+          "word": "BAZ",
+          "meaning": "Suda iyonlaştıklarında ortama OH− (hidroksit) iyonu ve elektron çifti verebilen maddelerdir"
+        },
+        {
+          "word": "ABE",
+          "meaning": "Seslenme ve dikkati çekme ünlemi."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "letters": [
+        "N",
+        "S",
+        "A",
+        "O",
+        "Ğ"
+      ],
+      "answers": [
+        {
+          "word": "SOĞAN",
+          "meaning": "Bahçelerde yetiştirilen ıtırlı bir bitki."
+        },
+        {
+          "word": "SAĞ",
+          "meaning": "Yönlerden biri"
+        },
+        {
+          "word": "SON",
+          "meaning": "Kesin bir şekilde; kesin veya kati bir şekilde"
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAN",
+          "meaning": "Ün, şan, şöhret."
+        },
+        {
+          "word": "NAS",
+          "meaning": "Bir ulusun ekonomik faaliyetlerini ölçmek için eksiksiz ve tutarlı muhasebe tekniklerinin uygulanması"
+        },
+        {
+          "word": "ONA",
+          "meaning": "Adılının yönelme durumu."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "letters": [
+        "B",
+        "Ç",
+        "E",
+        "K",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "KEÇİ",
+          "meaning": "Gevişgetirenlerden, yeryüzünün her yerinde eti, sütü, derisi ve kılı için yetiştirilen, memeli evcil hayvan."
+        },
+        {
+          "word": "BEKÇİ",
+          "meaning": "Bir şeyi ya da bir yeri bekleyip korumakla görevli kimse."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇEK",
+          "meaning": "Bir ödeme aracı "
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "letters": [
+        "E",
+        "J",
+        "N",
+        "T",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "NOT",
+          "meaning": "Bir şeyi anımsamak ya da birine anımsatmak için yazılan kısa yazı."
+        },
+        {
+          "word": "TON",
+          "meaning": "Metrik birim sisteminde 1000 kilograma eşit bir kütle birimidir"
+        },
+        {
+          "word": "JETON",
+          "meaning": NaN
+        },
+        {
+          "word": "OJE",
+          "meaning": "Kadınların tırnak boyamakta kullandıkları cila."
+        },
+        {
+          "word": "TEN",
+          "meaning": "İnsan vücudunun dış yüzü."
+        },
+        {
+          "word": "JET",
+          "meaning": "Hızlı"
+        }
+      ],
+      "extra": [
+        {
+          "word": "NET",
+          "meaning": "Bütün çizgileri belirgin olan, iyi görünen ya da iyi duyulan"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "letters": [
+        "P",
+        "K",
+        "Ö",
+        "E",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "KÖPEK",
+          "meaning": "İnsana bağlı, evcil memeli hayvan."
+        },
+        {
+          "word": "KEK",
+          "meaning": "Un, şeker ve yumurta karışımı, genellikle içine çekirdeksiz kuru üzüm, kakao vb. de konularak yapılan, fırında pişirilen tatlı çörek."
+        },
+        {
+          "word": "KÖK",
+          "meaning": "Bir kelimenin anlamını taşıyan ve ek alarak yeni kelimeler türetilebilen en temel parçasıdır."
+        },
+        {
+          "word": "KEP",
+          "meaning": "Sipersiz hafif başlık, şapka."
+        }
+      ],
+      "extra": [
+        {
+          "word": "PEK",
+          "meaning": "Dayanıklı, güçlü, sağlam."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "letters": [
+        "B",
+        "N",
+        "İ",
+        "O",
+        "Z"
+      ],
+      "answers": [
+        {
+          "word": "BOZ",
+          "meaning": "Açık toprakrengi."
+        },
+        {
+          "word": "BİN",
+          "meaning": "Dokuz yüz doksan dokuzdan bir artık olan, on kere yüz."
+        },
+        {
+          "word": "BİZON",
+          "meaning": "Amerika anakarasında yaşayan, koyu kıllı, çok iri bir cins hörgüçlü yabanöküzü."
+        }
+      ],
+      "extra": [
+        {
+          "word": "BİZON",
+          "meaning": "Çoğul birinci kişi adılı."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "letters": [
+        "A",
+        "Y",
+        "R",
+        "A",
+        "Z"
+      ],
+      "answers": [
+        {
+          "word": "AZAR",
+          "meaning": "Birine kusurundan dolayı söylenen sert söz ya da sözler."
+        },
+        {
+          "word": "YAZAR",
+          "meaning": "Bilim, sanat ve yazın alanlarında kitap yazan kimse."
+        },
+        {
+          "word": "AYAZ",
+          "meaning": "Duru, pırıl pırıl havada çıkan kuru, keskin soğuk."
+        },
+        {
+          "word": "AYAR",
+          "meaning": "Bir aygıtın, bir düzeneğin çalışmasını düzene koyma işi."
+        },
+        {
+          "word": "YARA",
+          "meaning": "Vücutta, keskin bir şeyle bir vuruşta oluşan derin kesik ya da zedelenme."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ARA",
+          "meaning": "İki yeri, iki nesneyi, iki şeyi birbirinden ayıran uzaklık, açıklık, boşluk."
+        },
+        {
+          "word": "ZAR",
+          "meaning": "Vücûdun çeşitli yerlerindeki ince deri: “Beyin zarları.”"
+        },
+        {
+          "word": "YAR",
+          "meaning": "Dimdik duran kaya."
+        },
+        {
+          "word": "YAZ",
+          "meaning": "21 Haziranda başlayıp 23 Eylüle değin süren, ilkbaharla sonbahar arasında yer alan, yılın en sıcak mevsimi"
+        },
+        {
+          "word": "RAY",
+          "meaning": "Birbirine eklenmiş çeliklerden oluşan, birbirine koşut biçimdeki çelik yol."
+        },
+        {
+          "word": "ZARA",
+          "meaning": "İspanyol merkezli giyim ve aksesuar markasıdır."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "letters": [
+        "V",
+        "P",
+        "A",
+        "L",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "PİLAV",
+          "meaning": "Pirinçtan yapılan ve yapıldığı maddenin adıyla anılan bir yemek; örneğin pirinç pilavı, kuskus pilavı gibi."
+        },
+        {
+          "word": "PİL",
+          "meaning": "Kimyasal bir tepkime sırasında açığa çıkan erkeyi doğrudan doğruya elektrik erkesine dönüştüren aygıt."
+        },
+        {
+          "word": "LAV",
+          "meaning": "Genellikle yanardağ ağzından aşağılara doğru akan kızgın, sıvı durumunda kayaç maddeleri."
+        },
+        {
+          "word": "VALİ",
+          "meaning": "Bir ilde işleri hükümet adına yöneten en yetkili yönetici."
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAP",
+          "meaning": "Ağır ve yumuşak bir cismin düştüğü anda çıkan sesi anlatır."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "letters": [
+        "A",
+        "R",
+        "A",
+        "R",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "ARA",
+          "meaning": "İki yeri, iki nesneyi, iki şeyi birbirinden ayıran uzaklık, açıklık, boşluk."
+        },
+        {
+          "word": "RADAR",
+          "meaning": "Gönderdiği radyo dalgalarının bir engele çarpıp geri dönmesi yoluyla o engelin uzaklığını ve konumunu belirleyen aygıt."
+        },
+        {
+          "word": "DAR",
+          "meaning": "İçine alacağı şeye göre ölçüleri yetersiz olan, geniş ya da bol olmayan."
+        },
+        {
+          "word": "ADA",
+          "meaning": "Deniz, göl ya da akarsuda bulunan, dört bir yanı su ile çevrili kara parçası."
+        },
+        {
+          "word": "DARA",
+          "meaning": "Kabıyla birlikte tartılan bir nesnenin kabının ağırlığı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ARDA",
+          "meaning": "Maden yüzeyine işleme, sert şeyleri yontma gibi işlerde kullanılan çelik kalem."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "letters": [
+        "B",
+        "L",
+        "Ü",
+        "M",
+        "Ö"
+      ],
+      "answers": [
+        {
+          "word": "BÖLÜM",
+          "meaning": "Bir bütünü oluşturan parçaların her biri,"
+        },
+        {
+          "word": "BÖLÜ",
+          "meaning": "Bölme işlemini gösteren işaretin adı ve okunuşu"
+        },
+        {
+          "word": "ÖLÜM",
+          "meaning": "İnsan, hayvan, bitki gibi herhangi bir canlının yaşamının tam ve kesin bir biçimde sona ermesi."
+        },
+        {
+          "word": "ÖLÜ",
+          "meaning": "Yaşamı sona ermiş bulunan, artık yaşamıyor olan."
+        }
+      ],
+      "extra": [
+        {
+          "word": "MÜL",
+          "meaning": "Bir kişinin özel mülkiyetinde olan taşınır ya da taşınmaz varlıkları ifade eder."
+        }
+      ]
+    }
+  ]
+}

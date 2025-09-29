@@ -1,0 +1,288 @@
+{
+  "levels": [
+    {
+      "id": 21,
+      "letters": [
+        "Ü",
+        "A",
+        "R",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "YAR",
+          "meaning": "Sevgili, dost"
+        },
+        {
+          "word": "RÜYA",
+          "meaning": "Hayal veya düş"
+        },
+        {
+          "word": "RAY",
+          "meaning": "Bİrbirine koşut biçimdeki çelik yol"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 22,
+      "letters": [
+        "U",
+        "K",
+        "O",
+        "Ş"
+      ],
+      "answers": [
+        {
+          "word": "KUŞ",
+          "meaning": "İki kanatlı uçucu hayvanların ortak adı."
+        },
+        {
+          "word": "KOŞU",
+          "meaning": "Koşarak yapılan yarış."
+        },
+        {
+          "word": "ŞOK",
+          "meaning": "Birdenbire gelişen karmaşık belirtilerin tümü."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 23,
+      "letters": [
+        "İ",
+        "N",
+        "A",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "BİNA",
+          "meaning": "Çok bölmeli yapı"
+        },
+        {
+          "word": "BİN",
+          "meaning": "Dokuz yüz doksan dokuzdan bir artık olan"
+        },
+        {
+          "word": "ANİ",
+          "meaning": "Birdenbire oluveren"
+        },
+        {
+          "word": "ABİ",
+          "meaning": "Büyük erkek kardeş"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 24,
+      "letters": [
+        "A",
+        "Y",
+        "I",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "AYIP",
+          "meaning": "Töre kurallarına aykırı olan"
+        },
+        {
+          "word": "PAY",
+          "meaning": "Eşit bölüm"
+        },
+        {
+          "word": "YAPI",
+          "meaning": "Yapılmakta olan konut"
+        },
+        {
+          "word": "AYI",
+          "meaning": "Yabanıl bir hayvan"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 25,
+      "letters": [
+        "N",
+        "İ",
+        "D",
+        "Ç"
+      ],
+      "answers": [
+        {
+          "word": "ÇİN",
+          "meaning": "Asyada bir ülke "
+        },
+        {
+          "word": "DİN",
+          "meaning": "Tanrı düşüncesine dayalı toplumsal bir kurum."
+        },
+        {
+          "word": "DİNÇ",
+          "meaning": "Gücü ve sağlığı yerinde"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 26,
+      "letters": [
+        "D",
+        "A",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "DAMA",
+          "meaning": "İki kişi arasında oynanan bir oyun"
+        },
+        {
+          "word": "ADAM",
+          "meaning": "Genel anlamda insan, insanoğlu."
+        },
+        {
+          "word": "DAM",
+          "meaning": "Üzeri toprak kaplı köy evi."
+        },
+        {
+          "word": "AMA",
+          "meaning": "İki cümleyi birbirine bağlar."
+        },
+        {
+          "word": "ADA",
+          "meaning": "Dört bir yanı su ile çevrili kara parçası."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 27,
+      "letters": [
+        "Ç",
+        "E",
+        "L",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "ÇİLE",
+          "meaning": "Sıkıntı, zahmet, güçlük."
+        },
+        {
+          "word": "İLÇE",
+          "meaning": "Bir kaymakamca yönetilen bölüm"
+        },
+        {
+          "word": "ÇİL",
+          "meaning": "Açık kahverengi küçük benekler."
+        },
+        {
+          "word": "ELÇİ",
+          "meaning": "Bir devleti başka bir devlet katında temsil eden kimse."
+        }
+      ],
+      "extra": [
+        {
+          "word": "İLE",
+          "meaning": "Sözcüğün sonuna getirilerek urum bildiren tümleçler oluşturmaya yarar"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "A",
+        "Y",
+        "B",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "BOYA",
+          "meaning": "Renk vermek için içlerine katılan renkli madde."
+        },
+        {
+          "word": "BOY",
+          "meaning": "iki kenar arasında kalan uzun bölüm."
+        },
+        {
+          "word": "OBA",
+          "meaning": "Bir göçebe topluluğunun konak yeri."
+        },
+        {
+          "word": "BAY",
+          "meaning": "Malı mülkü, parası çok olan"
+        },
+        {
+          "word": "OYA",
+          "meaning": "İnce dantel."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 29,
+      "letters": [
+        "Z",
+        "A",
+        "C",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "CEZA",
+          "meaning": "Uygun olmayan tepki"
+        },
+        {
+          "word": "EZA",
+          "meaning": "Sıkıntı verme, sıkıntı çektirme"
+        },
+        {
+          "word": "ECZA",
+          "meaning": "Kimyasal maddelerin genel adı."
+        },
+        {
+          "word": "CAZ",
+          "meaning": "Afrika halk müziğiyle batı halk müziğinin bir karışımı"
+        }
+      ],
+      "extra": [
+        {
+          "word": "ACE",
+          "meaning": "Tek nokta ile işaretlenmiş lan oyun kağıdı veya zarı."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "Ğ",
+        "T",
+        "Ü",
+        "S",
+        "Ö"
+      ],
+      "answers": [
+        {
+          "word": "SÜT",
+          "meaning": "Bazı bitkilerin türlü organlarında bulunan beyaz renkte öz su."
+        },
+        {
+          "word": "SÖĞÜT",
+          "meaning": "Boylu ağaç veya bodur çalı halinde, çoğunluğu kışın yaprak döken, ender olarak da her dem yeşil kalan odunsu bitkiler."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÖĞÜT",
+          "meaning": "Uygun bir yol göstermek"
+        }
+      ]
+    }
+  ]
+}

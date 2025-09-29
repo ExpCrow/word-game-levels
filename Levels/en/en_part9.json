@@ -1,0 +1,455 @@
+{
+  "levels": [
+    {
+      "id": 81,
+      "letters": [
+        "R",
+        "U",
+        "B",
+        "G",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "BUG",
+          "meaning": NaN
+        },
+        {
+          "word": "GUY",
+          "meaning": NaN
+        },
+        {
+          "word": "BUY",
+          "meaning": NaN
+        },
+        {
+          "word": "RUG",
+          "meaning": NaN
+        },
+        {
+          "word": "RUBY",
+          "meaning": NaN
+        },
+        {
+          "word": "BURY",
+          "meaning": NaN
+        },
+        {
+          "word": "RUGBY",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RUB",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "letters": [
+        "E",
+        "L",
+        "K",
+        "S",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "SILK",
+          "meaning": NaN
+        },
+        {
+          "word": "LIE",
+          "meaning": NaN
+        },
+        {
+          "word": "ISLE",
+          "meaning": NaN
+        },
+        {
+          "word": "SKI",
+          "meaning": NaN
+        },
+        {
+          "word": "LIKE",
+          "meaning": NaN
+        },
+        {
+          "word": "LIKES",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "LIES",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "letters": [
+        "T",
+        "N",
+        "E",
+        "O",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "TEN",
+          "meaning": NaN
+        },
+        {
+          "word": "NOTE",
+          "meaning": NaN
+        },
+        {
+          "word": "TOE",
+          "meaning": NaN
+        },
+        {
+          "word": "TOKEN",
+          "meaning": NaN
+        },
+        {
+          "word": "TONE",
+          "meaning": NaN
+        },
+        {
+          "word": "TON",
+          "meaning": NaN
+        },
+        {
+          "word": "ONE",
+          "meaning": NaN
+        },
+        {
+          "word": "KNOT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "NET",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "letters": [
+        "C",
+        "R",
+        "B",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "CRAB",
+          "meaning": NaN
+        },
+        {
+          "word": "CARE",
+          "meaning": NaN
+        },
+        {
+          "word": "ACRE",
+          "meaning": NaN
+        },
+        {
+          "word": "BEAR",
+          "meaning": NaN
+        },
+        {
+          "word": "RACE",
+          "meaning": NaN
+        },
+        {
+          "word": "BRACE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BARE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "letters": [
+        "U",
+        "O",
+        "F",
+        "M",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "FUR",
+          "meaning": NaN
+        },
+        {
+          "word": "FOR",
+          "meaning": NaN
+        },
+        {
+          "word": "FROM",
+          "meaning": NaN
+        },
+        {
+          "word": "FORUM",
+          "meaning": NaN
+        },
+        {
+          "word": "RUM",
+          "meaning": NaN
+        },
+        {
+          "word": "FORM",
+          "meaning": NaN
+        },
+        {
+          "word": "FOUR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "OUR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "letters": [
+        "S",
+        "C",
+        "K",
+        "H",
+        "E",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "SET",
+          "meaning": NaN
+        },
+        {
+          "word": "SHE",
+          "meaning": NaN
+        },
+        {
+          "word": "TECH",
+          "meaning": NaN
+        },
+        {
+          "word": "SKETCH",
+          "meaning": NaN
+        },
+        {
+          "word": "CHEST",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "THE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "letters": [
+        "M",
+        "O",
+        "D",
+        "E",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "DOME",
+          "meaning": NaN
+        },
+        {
+          "word": "MODE",
+          "meaning": NaN
+        },
+        {
+          "word": "DOVE",
+          "meaning": NaN
+        },
+        {
+          "word": "MOVE",
+          "meaning": NaN
+        },
+        {
+          "word": "MOVED",
+          "meaning": NaN
+        },
+        {
+          "word": "DEMO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DOE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "letters": [
+        "I",
+        "N",
+        "R",
+        "W",
+        "N",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "WIRE",
+          "meaning": NaN
+        },
+        {
+          "word": "WINE",
+          "meaning": NaN
+        },
+        {
+          "word": "REIN",
+          "meaning": NaN
+        },
+        {
+          "word": "INN",
+          "meaning": NaN
+        },
+        {
+          "word": "WIN",
+          "meaning": NaN
+        },
+        {
+          "word": "WINNER",
+          "meaning": NaN
+        },
+        {
+          "word": "NEW",
+          "meaning": NaN
+        },
+        {
+          "word": "INNER",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "NINE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "letters": [
+        "T",
+        "O",
+        "M",
+        "H",
+        "S",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "HOT",
+          "meaning": NaN
+        },
+        {
+          "word": "SHOT",
+          "meaning": NaN
+        },
+        {
+          "word": "SHOOT",
+          "meaning": NaN
+        },
+        {
+          "word": "HOST",
+          "meaning": NaN
+        },
+        {
+          "word": "HOOT",
+          "meaning": NaN
+        },
+        {
+          "word": "SMOOTH",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MOST",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "letters": [
+        "A",
+        "T",
+        "S",
+        "W",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "SAT",
+          "meaning": NaN
+        },
+        {
+          "word": "SAW",
+          "meaning": NaN
+        },
+        {
+          "word": "SWAN",
+          "meaning": NaN
+        },
+        {
+          "word": "WANTS",
+          "meaning": NaN
+        },
+        {
+          "word": "ANT",
+          "meaning": NaN
+        },
+        {
+          "word": "WANT",
+          "meaning": NaN
+        },
+        {
+          "word": "ANTS",
+          "meaning": NaN
+        },
+        {
+          "word": "TAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "WAS",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

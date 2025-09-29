@@ -1,0 +1,413 @@
+{
+  "levels": [
+    {
+      "id": 71,
+      "letters": [
+        "N",
+        "A",
+        "P",
+        "S",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "ANİ",
+          "meaning": NaN
+        },
+        {
+          "word": "NASİP",
+          "meaning": NaN
+        },
+        {
+          "word": "ASİ",
+          "meaning": NaN
+        },
+        {
+          "word": "SAP",
+          "meaning": NaN
+        },
+        {
+          "word": "PİS",
+          "meaning": NaN
+        },
+        {
+          "word": "PAS",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "letters": [
+        "T",
+        "O",
+        "U",
+        "N",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "TOK",
+          "meaning": NaN
+        },
+        {
+          "word": "KONU",
+          "meaning": NaN
+        },
+        {
+          "word": "TON",
+          "meaning": NaN
+        },
+        {
+          "word": "KONUT",
+          "meaning": NaN
+        },
+        {
+          "word": "NOT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "KOT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "letters": [
+        "K",
+        "A",
+        "N",
+        "A",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "BANK",
+          "meaning": NaN
+        },
+        {
+          "word": "KAN",
+          "meaning": NaN
+        },
+        {
+          "word": "KABAN",
+          "meaning": NaN
+        },
+        {
+          "word": "ANA",
+          "meaning": NaN
+        },
+        {
+          "word": "BANKA",
+          "meaning": NaN
+        },
+        {
+          "word": "BAKAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "KABA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "letters": [
+        "K",
+        "I",
+        "T",
+        "K",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ATKI",
+          "meaning": NaN
+        },
+        {
+          "word": "TAKI",
+          "meaning": NaN
+        },
+        {
+          "word": "KATKI",
+          "meaning": NaN
+        },
+        {
+          "word": "ATIK",
+          "meaning": NaN
+        },
+        {
+          "word": "KAT",
+          "meaning": NaN
+        },
+        {
+          "word": "KATI",
+          "meaning": NaN
+        },
+        {
+          "word": "KITA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "KITA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "letters": [
+        "T",
+        "A",
+        "R",
+        "M",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "TUR",
+          "meaning": NaN
+        },
+        {
+          "word": "TURA",
+          "meaning": NaN
+        },
+        {
+          "word": "MART",
+          "meaning": NaN
+        },
+        {
+          "word": "ARMUT",
+          "meaning": NaN
+        },
+        {
+          "word": "MAT",
+          "meaning": NaN
+        },
+        {
+          "word": "TAM",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ART",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "letters": [
+        "S",
+        "N",
+        "K",
+        "E",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "SEN",
+          "meaning": NaN
+        },
+        {
+          "word": "ENSE",
+          "meaning": NaN
+        },
+        {
+          "word": "KESE",
+          "meaning": NaN
+        },
+        {
+          "word": "SENE",
+          "meaning": NaN
+        },
+        {
+          "word": "EKSEN",
+          "meaning": NaN
+        },
+        {
+          "word": "KENE",
+          "meaning": NaN
+        },
+        {
+          "word": "ESNEK",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SEK",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "letters": [
+        "K",
+        "R",
+        "U",
+        "K",
+        "K",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "KOR",
+          "meaning": NaN
+        },
+        {
+          "word": "KORU",
+          "meaning": NaN
+        },
+        {
+          "word": "KUR",
+          "meaning": NaN
+        },
+        {
+          "word": "KORKU",
+          "meaning": NaN
+        },
+        {
+          "word": "OKUR",
+          "meaning": NaN
+        },
+        {
+          "word": "KOKU",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "KORUK",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "letters": [
+        "A",
+        "B",
+        "A",
+        "S",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "BAS",
+          "meaning": NaN
+        },
+        {
+          "word": "HAS",
+          "meaning": NaN
+        },
+        {
+          "word": "SABAH",
+          "meaning": NaN
+        },
+        {
+          "word": "SABAH",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ASA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "letters": [
+        "C",
+        "V",
+        "A",
+        "S",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "SAVCI",
+          "meaning": NaN
+        },
+        {
+          "word": "CIVA",
+          "meaning": NaN
+        },
+        {
+          "word": "AVCI",
+          "meaning": NaN
+        },
+        {
+          "word": "SIVA",
+          "meaning": NaN
+        },
+        {
+          "word": "SAV",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ACI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "letters": [
+        "E",
+        "Y",
+        "Ü",
+        "M",
+        "Z"
+      ],
+      "answers": [
+        {
+          "word": "YÜZ",
+          "meaning": NaN
+        },
+        {
+          "word": "MÜZE",
+          "meaning": NaN
+        },
+        {
+          "word": "ÜYE",
+          "meaning": NaN
+        },
+        {
+          "word": "YÜZME",
+          "meaning": NaN
+        },
+        {
+          "word": "YEM",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MEY",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

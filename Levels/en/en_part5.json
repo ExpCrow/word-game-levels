@@ -1,0 +1,418 @@
+{
+  "levels": [
+    {
+      "id": 41,
+      "letters": [
+        "A",
+        "L",
+        "P",
+        "P",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "APE",
+          "meaning": "A large primate without a tail."
+        },
+        {
+          "word": "PLEA",
+          "meaning": "A serious request."
+        },
+        {
+          "word": "LEAP",
+          "meaning": "To jump a long distance or height."
+        },
+        {
+          "word": "LAP",
+          "meaning": "The front of the thighs when sitting."
+        },
+        {
+          "word": "APPLE",
+          "meaning": "A round fruit with red, green, or yellow skin."
+        },
+        {
+          "word": "PEA",
+          "meaning": "A small round green seed eaten as a vegetable"
+        },
+        {
+          "word": "PAL",
+          "meaning": "A friend or companion."
+        },
+        {
+          "word": "PALE",
+          "meaning": "Light in color or lacking brightness."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ALE",
+          "meaning": "A type of beer."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "letters": [
+        "K",
+        "A",
+        "N",
+        "T",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "THANK",
+          "meaning": NaN
+        },
+        {
+          "word": "HAT",
+          "meaning": NaN
+        },
+        {
+          "word": "ANT",
+          "meaning": NaN
+        },
+        {
+          "word": "TANK",
+          "meaning": NaN
+        },
+        {
+          "word": "TAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 43,
+      "letters": [
+        "E",
+        "U",
+        "T",
+        "R",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "CUE",
+          "meaning": NaN
+        },
+        {
+          "word": "CURE",
+          "meaning": NaN
+        },
+        {
+          "word": "CUTER",
+          "meaning": NaN
+        },
+        {
+          "word": "TRUE",
+          "meaning": NaN
+        },
+        {
+          "word": "RUE",
+          "meaning": NaN
+        },
+        {
+          "word": "CUTE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "CUT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "letters": [
+        "T",
+        "G",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "GET",
+          "meaning": NaN
+        },
+        {
+          "word": "TEA",
+          "meaning": NaN
+        },
+        {
+          "word": "EAT",
+          "meaning": NaN
+        },
+        {
+          "word": "AGE",
+          "meaning": NaN
+        },
+        {
+          "word": "TAG",
+          "meaning": NaN
+        },
+        {
+          "word": "GATE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ATE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "letters": [
+        "F",
+        "I",
+        "S",
+        "T",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "FIRST",
+          "meaning": NaN
+        },
+        {
+          "word": "FITS",
+          "meaning": NaN
+        },
+        {
+          "word": "FIST",
+          "meaning": NaN
+        },
+        {
+          "word": "SIR",
+          "meaning": NaN
+        },
+        {
+          "word": "STIR",
+          "meaning": NaN
+        },
+        {
+          "word": "FIT",
+          "meaning": NaN
+        },
+        {
+          "word": "RIFT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SIT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "letters": [
+        "P",
+        "R",
+        "H",
+        "O",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "CHOP",
+          "meaning": NaN
+        },
+        {
+          "word": "CROP",
+          "meaning": NaN
+        },
+        {
+          "word": "PORCH",
+          "meaning": NaN
+        },
+        {
+          "word": "HOP",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "COP",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "letters": [
+        "T",
+        "O",
+        "F",
+        "N",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "NET",
+          "meaning": NaN
+        },
+        {
+          "word": "FONT",
+          "meaning": NaN
+        },
+        {
+          "word": "OFTEN",
+          "meaning": NaN
+        },
+        {
+          "word": "TON",
+          "meaning": NaN
+        },
+        {
+          "word": "TOE",
+          "meaning": NaN
+        },
+        {
+          "word": "TONE",
+          "meaning": NaN
+        },
+        {
+          "word": "NOTE",
+          "meaning": NaN
+        },
+        {
+          "word": "ONE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TEN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "letters": [
+        "S",
+        "H",
+        "U",
+        "R",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "RUSH",
+          "meaning": NaN
+        },
+        {
+          "word": "BUSH",
+          "meaning": NaN
+        },
+        {
+          "word": "BUS",
+          "meaning": NaN
+        },
+        {
+          "word": "RUB",
+          "meaning": NaN
+        },
+        {
+          "word": "BRUSH",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "HUB",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "letters": [
+        "S",
+        "S",
+        "R",
+        "B",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "BARS",
+          "meaning": NaN
+        },
+        {
+          "word": "BASS",
+          "meaning": NaN
+        },
+        {
+          "word": "BRA",
+          "meaning": NaN
+        },
+        {
+          "word": "BRASS",
+          "meaning": NaN
+        },
+        {
+          "word": "BAR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ABS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "letters": [
+        "D",
+        "L",
+        "C",
+        "O",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "LOUD",
+          "meaning": NaN
+        },
+        {
+          "word": "CLOUD",
+          "meaning": NaN
+        },
+        {
+          "word": "COLD",
+          "meaning": NaN
+        },
+        {
+          "word": "COD",
+          "meaning": NaN
+        },
+        {
+          "word": "COULD",
+          "meaning": NaN
+        },
+        {
+          "word": "OLD",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DUO",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

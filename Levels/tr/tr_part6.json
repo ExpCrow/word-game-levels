@@ -1,0 +1,434 @@
+{
+  "levels": [
+    {
+      "id": 51,
+      "letters": [
+        "E",
+        "K",
+        "A",
+        "R",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "KAP",
+          "meaning": "Tencere, tabak, tava, sahan gibi mutfak eşyasının ortak adı."
+        },
+        {
+          "word": "PARKE",
+          "meaning": "Yapılarda yer döşemesinde kullanılan, küçük ve kendine özgü biçimli tahta parçası."
+        },
+        {
+          "word": "PEK",
+          "meaning": "Dayanıklı, güçlü, sağlam."
+        },
+        {
+          "word": "KAR",
+          "meaning": "Havada bulunan su buharının donmasıyla oluşarak yeryüzüne yağan beyaz ve hafif buz billurları."
+        },
+        {
+          "word": "KEP",
+          "meaning": "Sipersiz hafif başlık, şapka."
+        },
+        {
+          "word": "PARK",
+          "meaning": "Taşıtların park edildiği yer, otopark."
+        },
+        {
+          "word": "AKREP",
+          "meaning": "Sıcak ve nemli yerlerde yaşayan, kıvrık ve kalkık kuyruğunda ağılı bir iğnesi bulunan bir böcek."
+        },
+        {
+          "word": "KARE",
+          "meaning": "Kenarları ve açıları birbirine eşit olan dörtgen."
+        }
+      ],
+      "extra": [
+        {
+          "word": "PAK",
+          "meaning": "Arı duru, arınmış, temiz."
+        },
+        {
+          "word": "KER",
+          "meaning": "Kuvvet ve kudret'"
+        },
+        {
+          "word": "RAP",
+          "meaning": "Ansızın, birdenbire durmak anlamına gelen"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "letters": [
+        "İ",
+        "T",
+        "B",
+        "U",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "BİT",
+          "meaning": "Bütün kuşkularını açıklamak."
+        },
+        {
+          "word": "TİK",
+          "meaning": "Herhangi bir kas kümesinin istençdışı devinimi."
+        },
+        {
+          "word": "BUTİK",
+          "meaning": "Giyim ve süs eşyası satılan küçük dükkân."
+        },
+        {
+          "word": "BUT",
+          "meaning": "İnsan vücudunda, kalçadan dize değin olan bölüm."
+        }
+      ],
+      "extra": [
+        {
+          "word": "KUT",
+          "meaning": "İyilik getiren şey, uğur, baht, talih."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "letters": [
+        "Z",
+        "A",
+        "T",
+        "O",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "ZAM",
+          "meaning": "Bir şeyin fiyatına ek yapma, fiyatını artırma."
+        },
+        {
+          "word": "TAM",
+          "meaning": "Eksiksiz, kesintisiz."
+        },
+        {
+          "word": "ZAT",
+          "meaning": "Kimse, kişi."
+        },
+        {
+          "word": "MAT",
+          "meaning": "Parlak olmayan, donuk."
+        },
+        {
+          "word": "MAZOT",
+          "meaning": "Ham petrolün damıtılmasıyla elde edilen ürünlerden biri olan ve yakıt olarak kullanılan, kalınca bir akaryakıt."
+        },
+        {
+          "word": "ATOM",
+          "meaning": "Gerçekliği, nesneyi oluşturan ve artık bölünemez, bozulamaz olarak tasarlanan en küçük, ana öğe."
+        },
+        {
+          "word": "TOZ",
+          "meaning": "Çok küçük ve hafif parçacıklara bölünmüş, un ufak olmuş toprak."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AZOT",
+          "meaning": "Simgesi N, atom sayısı 7, atom ağırlığı 14.01 olan, havanın beşte dördünü oluşturan, rengi, kokusu, tadı olmayan bir element."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "letters": [
+        "C",
+        "N",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "CAN",
+          "meaning": "Yaşama, yaşam."
+        },
+        {
+          "word": "CANAN",
+          "meaning": NaN
+        },
+        {
+          "word": "ANA",
+          "meaning": NaN
+        },
+        {
+          "word": "ANCA",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 55,
+      "letters": [
+        "E",
+        "C",
+        "T",
+        "K",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "TEK",
+          "meaning": NaN
+        },
+        {
+          "word": "TEKE",
+          "meaning": NaN
+        },
+        {
+          "word": "ETEK",
+          "meaning": NaN
+        },
+        {
+          "word": "CEGET",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ECE",
+          "meaning": NaN
+        },
+        {
+          "word": "KETE",
+          "meaning": NaN
+        },
+        {
+          "word": "CET",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "letters": [
+        "E",
+        "A",
+        "M",
+        "D",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "ADEM",
+          "meaning": NaN
+        },
+        {
+          "word": "EDA",
+          "meaning": NaN
+        },
+        {
+          "word": "DAM",
+          "meaning": NaN
+        },
+        {
+          "word": "DEM",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MADDE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "letters": [
+        "N",
+        "R",
+        "Ç",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ÇIRA",
+          "meaning": NaN
+        },
+        {
+          "word": "NAR",
+          "meaning": NaN
+        },
+        {
+          "word": "ÇINAR",
+          "meaning": NaN
+        },
+        {
+          "word": "ARI",
+          "meaning": NaN
+        },
+        {
+          "word": "ANI",
+          "meaning": NaN
+        },
+        {
+          "word": "AÇI",
+          "meaning": NaN
+        },
+        {
+          "word": "ÇAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇAR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "letters": [
+        "A",
+        "G",
+        "O",
+        "N",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "NAR",
+          "meaning": NaN
+        },
+        {
+          "word": "GAR",
+          "meaning": NaN
+        },
+        {
+          "word": "ORAN",
+          "meaning": NaN
+        },
+        {
+          "word": "ORGAN",
+          "meaning": NaN
+        },
+        {
+          "word": "ARGO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ONAR",
+          "meaning": NaN
+        },
+        {
+          "word": "ORA",
+          "meaning": NaN
+        },
+        {
+          "word": "ORG",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "letters": [
+        "T",
+        "S",
+        "H",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "HASAT",
+          "meaning": NaN
+        },
+        {
+          "word": "HASTA",
+          "meaning": NaN
+        },
+        {
+          "word": "HATA",
+          "meaning": NaN
+        },
+        {
+          "word": "SAHA",
+          "meaning": NaN
+        },
+        {
+          "word": "TASA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "HAS",
+          "meaning": NaN
+        },
+        {
+          "word": "TAS",
+          "meaning": NaN
+        },
+        {
+          "word": "SAH",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "letters": [
+        "Ğ",
+        "A",
+        "I",
+        "R",
+        "Ç"
+      ],
+      "answers": [
+        {
+          "word": "ARI",
+          "meaning": NaN
+        },
+        {
+          "word": "AĞIR",
+          "meaning": NaN
+        },
+        {
+          "word": "ÇIĞ",
+          "meaning": NaN
+        },
+        {
+          "word": "ÇAĞRI",
+          "meaning": NaN
+        },
+        {
+          "word": "AĞRI",
+          "meaning": NaN
+        },
+        {
+          "word": "AÇI",
+          "meaning": NaN
+        },
+        {
+          "word": "ÇIRA",
+          "meaning": NaN
+        },
+        {
+          "word": "ÇAĞ",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇAR",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "levels": [
+    {
+      "id": 81,
+      "letters": [
+        "U",
+        "Z",
+        "O",
+        "K",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "KOZ",
+          "meaning": NaN
+        },
+        {
+          "word": "DOKU",
+          "meaning": NaN
+        },
+        {
+          "word": "DOKUZ",
+          "meaning": NaN
+        },
+        {
+          "word": "KOD",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DOZ",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "letters": [
+        "K",
+        "R",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "KIR",
+          "meaning": NaN
+        },
+        {
+          "word": "KAR",
+          "meaning": NaN
+        },
+        {
+          "word": "IRAK",
+          "meaning": NaN
+        },
+        {
+          "word": "IRK",
+          "meaning": NaN
+        },
+        {
+          "word": "ARI",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RAKI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "letters": [
+        "Y",
+        "K",
+        "O",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "KOY",
+          "meaning": NaN
+        },
+        {
+          "word": "OYMAK",
+          "meaning": NaN
+        },
+        {
+          "word": "MAYO",
+          "meaning": NaN
+        },
+        {
+          "word": "OYA",
+          "meaning": NaN
+        },
+        {
+          "word": "KOMA",
+          "meaning": NaN
+        },
+        {
+          "word": "OYMAK",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "YOK",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "letters": [
+        "K",
+        "A",
+        "D",
+        "Y",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "AYAK",
+          "meaning": NaN
+        },
+        {
+          "word": "YAKA",
+          "meaning": NaN
+        },
+        {
+          "word": "DAYAK",
+          "meaning": NaN
+        },
+        {
+          "word": "ADAY",
+          "meaning": NaN
+        },
+        {
+          "word": "ADAK",
+          "meaning": NaN
+        },
+        {
+          "word": "ADA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "KAYA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "letters": [
+        "N",
+        "B",
+        "İ",
+        "E",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "BEN",
+          "meaning": NaN
+        },
+        {
+          "word": "BİN",
+          "meaning": NaN
+        },
+        {
+          "word": "İNEK",
+          "meaning": NaN
+        },
+        {
+          "word": "EKİN",
+          "meaning": NaN
+        },
+        {
+          "word": "KİN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BİNEK",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "letters": [
+        "R",
+        "N",
+        "S",
+        "U",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "RUS",
+          "meaning": NaN
+        },
+        {
+          "word": "SON",
+          "meaning": NaN
+        },
+        {
+          "word": "ONUR",
+          "meaning": NaN
+        },
+        {
+          "word": "SORUN",
+          "meaning": NaN
+        },
+        {
+          "word": "SUR",
+          "meaning": NaN
+        },
+        {
+          "word": "SORU",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "NUR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "letters": [
+        "T",
+        "N",
+        "N",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ANTEN",
+          "meaning": NaN
+        },
+        {
+          "word": "NANE",
+          "meaning": NaN
+        },
+        {
+          "word": "TANE",
+          "meaning": NaN
+        },
+        {
+          "word": "TEN",
+          "meaning": NaN
+        },
+        {
+          "word": "ANT",
+          "meaning": NaN
+        },
+        {
+          "word": "ANNE",
+          "meaning": NaN
+        },
+        {
+          "word": "NET",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TAN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "letters": [
+        "I",
+        "R",
+        "H",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ART",
+          "meaning": NaN
+        },
+        {
+          "word": "HATIR",
+          "meaning": NaN
+        },
+        {
+          "word": "ARTI",
+          "meaning": NaN
+        },
+        {
+          "word": "ARI",
+          "meaning": NaN
+        },
+        {
+          "word": "AHIR",
+          "meaning": NaN
+        },
+        {
+          "word": "TIR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "HAT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "letters": [
+        "U",
+        "N",
+        "O",
+        "K",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "ODUN",
+          "meaning": NaN
+        },
+        {
+          "word": "DONUK",
+          "meaning": NaN
+        },
+        {
+          "word": "KONU",
+          "meaning": NaN
+        },
+        {
+          "word": "KOD",
+          "meaning": NaN
+        },
+        {
+          "word": "DOKUZ",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DON",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "letters": [
+        "B",
+        "Z",
+        "A",
+        "Ğ",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "BOZ",
+          "meaning": NaN
+        },
+        {
+          "word": "BOĞAZ",
+          "meaning": NaN
+        },
+        {
+          "word": "BOĞA",
+          "meaning": NaN
+        },
+        {
+          "word": "OBA",
+          "meaning": NaN
+        },
+        {
+          "word": "BAĞ",
+          "meaning": NaN
+        },
+        {
+          "word": "BOZA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BAZ",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

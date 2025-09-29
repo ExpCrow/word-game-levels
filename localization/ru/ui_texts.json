@@ -247,6 +247,170 @@
     {
       "key": "ad_not_ready",
       "value": "Объявление не готово"
+    },
+    {
+      "key": "mission",
+      "value": "Миссия"
+    },
+    {
+      "key": "task_find_words",
+      "value": "Найдите 5 слов"
+    },
+    {
+      "key": "task_find_extra",
+      "value": "Найдите 5 лишних слов"
+    },
+    {
+      "key": "task_reveal",
+      "value": "Откровение 5 букв"
+    },
+    {
+      "key": "task_complete",
+      "value": "Пройдите 5 уровней"
+    },
+    {
+      "key": "task_complete_flawless_levels",
+      "value": "Пройдите 10 безупречных уровней"
+    },
+    {
+      "key": "task_find_correct_words_in_a_row",
+      "value": "Найдите 5 правильных слов подряд"
+    },
+    {
+      "key": "task_complete_flawless_levels_in_a_row",
+      "value": "Пройдите 5 безупречных уровней подряд"
+    },
+    {
+      "key": "task_use",
+      "value": "Используйте 5 подсказок"
+    },
+    {
+      "key": "task_complete_level_without_using_a_hint",
+      "value": "Пройдите 5 уровней без использования подсказок"
+    },
+    {
+      "key": "task_earn_gold",
+      "value": "Заработать 5 золотых"
+    },
+    {
+      "key": "task_spend_gold",
+      "value": "Потратьте 5 золотых"
+    },
+    {
+      "key": "task_earn_energy",
+      "value": "Заработать 5 энергии"
+    },
+    {
+      "key": "task_spend_energy",
+      "value": "Потратьте 5 энергии"
+    },
+    {
+      "key": "task_collect_keys",
+      "value": "Соберите 5 ключей"
+    },
+    {
+      "key": "task_open_chest",
+      "value": "Откройте 5 сундуков"
+    },
+    {
+      "key": "task_open_premium_chests",
+      "value": "Откройте 5 премиальных сундуков"
+    },
+    {
+      "key": "task_complete_rooms",
+      "value": "Завершите 5 комнат"
+    },
+    {
+      "key": "task_place_furniture_items",
+      "value": "Разместите 5 предметов мебели"
+    },
+    {
+      "key": "task_add_decoration_objects",
+      "value": "Добавьте 5 предметов декора"
+    },
+    {
+      "key": "task_earn_stars",
+      "value": "Заработайте 5 звезд"
+    },
+    {
+      "key": "task_log_in_for_days",
+      "value": "Войдите в систему на 5 дней"
+    },
+    {
+      "key": "task_invite",
+      "value": "Пригласите 5 друзей"
+    },
+    {
+      "key": "task_share",
+      "value": "Поделиться 5 баллов"
+    },
+    {
+      "key": "task_spin_the_slot",
+      "value": "Вращайте слот 5 раз"
+    },
+    {
+      "key": "task_earn_rewards_from_the_slot",
+      "value": "Заработайте 5 вознаграждений от слота"
+    },
+    {
+      "key": "task_throw_darts",
+      "value": "Бросьте 5 дротиков"
+    },
+    {
+      "key": "task_earn_rewards_from_darts",
+      "value": "Заработайте 5 наград в дартсе"
+    },
+    {
+      "key": "task_hit_consecutive_shots_in_darts",
+      "value": "Попадите 5 раз подряд в дартс"
+    },
+    {
+      "key": "task_spin_the_wheel_times",
+      "value": "Вращайте колесо 5 раз"
+    },
+    {
+      "key": "task_earn_rewards_from_the_wheel",
+      "value": "Заработайте 5 вознаграждений на колесе"
+    },
+    {
+      "key": "task_complete_mini_games",
+      "value": "Пройдите 5 мини-игр"
+    },
+    {
+      "key": "task_spend_mini_game_tokens",
+      "value": "Потратьте 5 жетонов мини-игр"
+    },
+    {
+      "key": "task_earn_rewards_from_mini_games",
+      "value": "Заработайте 5 наград в мини-играх"
+    },
+    {
+      "key": "task_claim_daily_reward_times",
+      "value": "Получите ежедневное вознаграждение 5 раз"
+    },
+    {
+      "key": "task_claim_weekly_reward_times",
+      "value": "Получите еженедельное вознаграждение 5 раз"
+    },
+    {
+      "key": "task_claim_hourly_reward_times",
+      "value": "Получите почасовую награду 5 раз"
+    },
+    {
+      "key": "task_open_different_types_of_chests",
+      "value": "Откройте 5 различных типов сундуков"
+    },
+    {
+      "key": "task_play_different_mini_games",
+      "value": "Играйте в 5 различных мини-игр"
+    },
+    {
+      "key": "task_complete_task",
+      "value": "Выполните 5 заданий"
+    },
+    {
+      "key": "task_spend_stars",
+      "value": "Потратьте 5 звезд на номера"
     }
   ]
 }

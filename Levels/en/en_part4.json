@@ -1,0 +1,382 @@
+{
+  "levels": [
+    {
+      "id": 31,
+      "letters": [
+        "C",
+        "Y",
+        "D",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "CANDY",
+          "meaning": "Sweet food made with sugar."
+        },
+        {
+          "word": "DAY",
+          "meaning": "A 24-hour period."
+        },
+        {
+          "word": "ANY",
+          "meaning": "One or some, no matter which."
+        },
+        {
+          "word": "CAN",
+          "meaning": "To be able to do something."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AND",
+          "meaning": "Used to join words or ideas."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "letters": [
+        "H",
+        "T",
+        "I",
+        "S",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "SIGH",
+          "meaning": "To exhale audibly in relief, sadness, or tiredness."
+        },
+        {
+          "word": "THIS",
+          "meaning": "Referring to a specific thing nearby."
+        },
+        {
+          "word": "HIT",
+          "meaning": "To strike someone or something."
+        },
+        {
+          "word": "SIT",
+          "meaning": "To be seated."
+        },
+        {
+          "word": "HITS",
+          "meaning": "Strikes someone or something."
+        },
+        {
+          "word": "SIGHT",
+          "meaning": "The ability to see."
+        }
+      ],
+      "extra": [
+        {
+          "word": "HIS",
+          "meaning": "Belonging to a male person."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "letters": [
+        "T",
+        "R",
+        "N",
+        "P",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "TRIP",
+          "meaning": "A journey from one place to another."
+        },
+        {
+          "word": "PIN",
+          "meaning": "A small sharp object used to fasten things."
+        },
+        {
+          "word": "RIP",
+          "meaning": "To tear something quickly or forcefully."
+        },
+        {
+          "word": "PIT",
+          "meaning": "A hole, shaft, or cavity in the ground."
+        },
+        {
+          "word": "TIN",
+          "meaning": "A metal container or the metal itself."
+        },
+        {
+          "word": "TIP",
+          "meaning": "A small piece of advice or suggestion."
+        },
+        {
+          "word": "PRINT",
+          "meaning": "To produce text or images on paper."
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 34,
+      "letters": [
+        "B",
+        "L",
+        "E",
+        "N",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "BLEND",
+          "meaning": "To mix things together."
+        },
+        {
+          "word": "BED",
+          "meaning": "A piece of furniture for sleeping."
+        },
+        {
+          "word": "BEND",
+          "meaning": "To shape something into a curve."
+        },
+        {
+          "word": "LED",
+          "meaning": "To guide or show the way."
+        },
+        {
+          "word": "LEND",
+          "meaning": "To give something temporarily."
+        },
+        {
+          "word": "END",
+          "meaning": "The final part of something."
+        }
+      ],
+      "extra": [
+        {
+          "word": "DEN",
+          "meaning": "A hidden or secluded place."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "letters": [
+        "R",
+        "P",
+        "W",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "RAW",
+          "meaning": "Not cooked or processed."
+        },
+        {
+          "word": "WAR",
+          "meaning": "A state of armed conflict between groups"
+        },
+        {
+          "word": "PAW",
+          "meaning": "The foot of an animal with claws."
+        },
+        {
+          "word": "WRAP",
+          "meaning": "To cover something by folding or winding it."
+        }
+      ],
+      "extra": [
+        {
+          "word": "RAP",
+          "meaning": "A music style with rhythmic speech."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "letters": [
+        "L",
+        "L",
+        "S",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ALL",
+          "meaning": "The whole quantity or extent of something."
+        },
+        {
+          "word": "SALT",
+          "meaning": "A white substance used to season or preserve food."
+        },
+        {
+          "word": "STALL",
+          "meaning": "A small booth or compartment."
+        },
+        {
+          "word": "LAST",
+          "meaning": "To continue for a period of time."
+        },
+        {
+          "word": "TALL",
+          "meaning": "Having great height."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAT",
+          "meaning": "Past tense and past participle of \"sit.''"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "letters": [
+        "W",
+        "F",
+        "E",
+        "R",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "FREE",
+          "meaning": "Not under control or cost."
+        },
+        {
+          "word": "WERE",
+          "meaning": "Past tense of be for plural subjects."
+        },
+        {
+          "word": "REEF",
+          "meaning": "A ridge of rocks or coral in the sea."
+        },
+        {
+          "word": "FEE",
+          "meaning": "A payment for services."
+        },
+        {
+          "word": "FEWER",
+          "meaning": "A smaller number of things."
+        }
+      ],
+      "extra": [
+        {
+          "word": "FEW",
+          "meaning": "A small number of."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "letters": [
+        "S",
+        "P",
+        "I",
+        "S",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "SHIPS",
+          "meaning": "Boats used for traveling on water."
+        },
+        {
+          "word": "HIS",
+          "meaning": "Belonging to a male person."
+        },
+        {
+          "word": "SIPS",
+          "meaning": "Small amounts of liquid taken into the mouth."
+        },
+        {
+          "word": "SIP",
+          "meaning": "A small mouthful of a drink."
+        }
+      ],
+      "extra": [
+        {
+          "word": "HIP",
+          "meaning": "The side of the body between waist and thigh."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "letters": [
+        "O",
+        "G",
+        "N",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "LONG",
+          "meaning": "Measuring a great distance from end to end."
+        },
+        {
+          "word": "AGO",
+          "meaning": "Earlier than now."
+        },
+        {
+          "word": "LOG",
+          "meaning": "A bulky piece of a fallen tree."
+        },
+        {
+          "word": "LOAN",
+          "meaning": "Something lent, especially money."
+        },
+        {
+          "word": "GOAL",
+          "meaning": "Something aimed for."
+        },
+        {
+          "word": "ALONG",
+          "meaning": "Moving in a line or in company with."
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAG",
+          "meaning": "To fall behind or delay."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "letters": [
+        "T",
+        "M",
+        "P",
+        "Y",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "YET",
+          "meaning": "Up to now; nevertheless."
+        },
+        {
+          "word": "EMPTY",
+          "meaning": "Containing nothing."
+        },
+        {
+          "word": "TYPE",
+          "meaning": "A category of things with common features."
+        },
+        {
+          "word": "PET",
+          "meaning": "An animal kept for companionship."
+        }
+      ],
+      "extra": [
+        {
+          "word": "MET",
+          "meaning": "Past tense of ''meet'' (to come together)."
+        }
+      ]
+    }
+  ]
+}

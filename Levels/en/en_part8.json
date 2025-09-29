@@ -1,0 +1,488 @@
+{
+  "levels": [
+    {
+      "id": 71,
+      "letters": [
+        "I",
+        "G",
+        "D",
+        "N",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "RID",
+          "meaning": NaN
+        },
+        {
+          "word": "GRID",
+          "meaning": NaN
+        },
+        {
+          "word": "RIG",
+          "meaning": NaN
+        },
+        {
+          "word": "GRIN",
+          "meaning": NaN
+        },
+        {
+          "word": "DIG",
+          "meaning": NaN
+        },
+        {
+          "word": "RING",
+          "meaning": NaN
+        },
+        {
+          "word": "GRIND",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "GIN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "letters": [
+        "C",
+        "A",
+        "M",
+        "L",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "CAM",
+          "meaning": NaN
+        },
+        {
+          "word": "CAP",
+          "meaning": NaN
+        },
+        {
+          "word": "MAP",
+          "meaning": NaN
+        },
+        {
+          "word": "CAMP",
+          "meaning": NaN
+        },
+        {
+          "word": "CLAMP",
+          "meaning": NaN
+        },
+        {
+          "word": "LAMP",
+          "meaning": NaN
+        },
+        {
+          "word": "PAL",
+          "meaning": NaN
+        },
+        {
+          "word": "CALM",
+          "meaning": NaN
+        },
+        {
+          "word": "CLAM",
+          "meaning": NaN
+        },
+        {
+          "word": "PALM",
+          "meaning": NaN
+        },
+        {
+          "word": "CLAP",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAP",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "letters": [
+        "A",
+        "B",
+        "T",
+        "H",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "HAT",
+          "meaning": NaN
+        },
+        {
+          "word": "BAT",
+          "meaning": NaN
+        },
+        {
+          "word": "BATH",
+          "meaning": NaN
+        },
+        {
+          "word": "BIT",
+          "meaning": NaN
+        },
+        {
+          "word": "HABIT",
+          "meaning": NaN
+        },
+        {
+          "word": "BAIT",
+          "meaning": NaN
+        },
+        {
+          "word": "HIT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TAB",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "letters": [
+        "E",
+        "L",
+        "R",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "TALE",
+          "meaning": NaN
+        },
+        {
+          "word": "LATE",
+          "meaning": NaN
+        },
+        {
+          "word": "ALTER",
+          "meaning": NaN
+        },
+        {
+          "word": "TEAR",
+          "meaning": NaN
+        },
+        {
+          "word": "REAL",
+          "meaning": NaN
+        },
+        {
+          "word": "EARL",
+          "meaning": NaN
+        },
+        {
+          "word": "RATE",
+          "meaning": NaN
+        },
+        {
+          "word": "ALERT",
+          "meaning": NaN
+        },
+        {
+          "word": "LATER",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ATE",
+          "meaning": NaN
+        },
+        {
+          "word": "ERA",
+          "meaning": NaN
+        },
+        {
+          "word": "EAT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "letters": [
+        "A",
+        "C",
+        "H",
+        "S",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "HAS",
+          "meaning": NaN
+        },
+        {
+          "word": "ASH",
+          "meaning": NaN
+        },
+        {
+          "word": "SCAR",
+          "meaning": NaN
+        },
+        {
+          "word": "CRASH",
+          "meaning": NaN
+        },
+        {
+          "word": "ARCH",
+          "meaning": NaN
+        },
+        {
+          "word": "RASH",
+          "meaning": NaN
+        },
+        {
+          "word": "CASH",
+          "meaning": NaN
+        },
+        {
+          "word": "CAR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "CARS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "letters": [
+        "E",
+        "U",
+        "S",
+        "R",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "SUE",
+          "meaning": NaN
+        },
+        {
+          "word": "SURE",
+          "meaning": NaN
+        },
+        {
+          "word": "USES",
+          "meaning": NaN
+        },
+        {
+          "word": "SUES",
+          "meaning": NaN
+        },
+        {
+          "word": "USE",
+          "meaning": NaN
+        },
+        {
+          "word": "USERS",
+          "meaning": NaN
+        },
+        {
+          "word": "USER",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RUE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "letters": [
+        "N",
+        "K",
+        "E",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "SEEN",
+          "meaning": NaN
+        },
+        {
+          "word": "SEEK",
+          "meaning": NaN
+        },
+        {
+          "word": "KNEE",
+          "meaning": NaN
+        },
+        {
+          "word": "KNEES",
+          "meaning": NaN
+        },
+        {
+          "word": "SEE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "KEEN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "letters": [
+        "I",
+        "S",
+        "P",
+        "T",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "SIP",
+          "meaning": NaN
+        },
+        {
+          "word": "SPIT",
+          "meaning": NaN
+        },
+        {
+          "word": "LIT",
+          "meaning": NaN
+        },
+        {
+          "word": "SPLIT",
+          "meaning": NaN
+        },
+        {
+          "word": "LIST",
+          "meaning": NaN
+        },
+        {
+          "word": "SIT",
+          "meaning": NaN
+        },
+        {
+          "word": "SLIP",
+          "meaning": NaN
+        },
+        {
+          "word": "LIP",
+          "meaning": NaN
+        },
+        {
+          "word": "TIP",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PIT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "letters": [
+        "L",
+        "L",
+        "A",
+        "B",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ALE",
+          "meaning": NaN
+        },
+        {
+          "word": "ABLE",
+          "meaning": NaN
+        },
+        {
+          "word": "BELL",
+          "meaning": NaN
+        },
+        {
+          "word": "LABEL",
+          "meaning": NaN
+        },
+        {
+          "word": "BALL",
+          "meaning": NaN
+        },
+        {
+          "word": "ALL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "LAB",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "letters": [
+        "O",
+        "O",
+        "R",
+        "P",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "PRO",
+          "meaning": NaN
+        },
+        {
+          "word": "POOR",
+          "meaning": NaN
+        },
+        {
+          "word": "PROM",
+          "meaning": NaN
+        },
+        {
+          "word": "PROMO",
+          "meaning": NaN
+        },
+        {
+          "word": "ROOM",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MOP",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

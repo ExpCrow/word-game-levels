@@ -247,6 +247,170 @@
     {
       "key": "ad_not_ready",
       "value": "Anzeige nicht bereit"
+    },
+    {
+      "key": "mission",
+      "value": "Mission"
+    },
+    {
+      "key": "task_find_words",
+      "value": "5 Wörter finden"
+    },
+    {
+      "key": "task_find_extra",
+      "value": "5 zusätzliche Wörter finden"
+    },
+    {
+      "key": "task_reveal",
+      "value": "5 Buchstaben aufdecken"
+    },
+    {
+      "key": "task_complete",
+      "value": "5 Level abschließen"
+    },
+    {
+      "key": "task_complete_flawless_levels",
+      "value": "Schließe 10 makellose Level ab"
+    },
+    {
+      "key": "task_find_correct_words_in_a_row",
+      "value": "Finde 5 richtige Wörter in einer Reihe"
+    },
+    {
+      "key": "task_complete_flawless_levels_in_a_row",
+      "value": "Schließe 5 fehlerfreie Level in Folge ab"
+    },
+    {
+      "key": "task_use",
+      "value": "5 Hinweise verwenden"
+    },
+    {
+      "key": "task_complete_level_without_using_a_hint",
+      "value": "Schließe 5 Level ab, ohne einen Hinweis zu benutzen"
+    },
+    {
+      "key": "task_earn_gold",
+      "value": "Verdiene 5 Gold"
+    },
+    {
+      "key": "task_spend_gold",
+      "value": "5 Gold ausgeben"
+    },
+    {
+      "key": "task_earn_energy",
+      "value": "5 Energie verdienen"
+    },
+    {
+      "key": "task_spend_energy",
+      "value": "5 Energie ausgeben"
+    },
+    {
+      "key": "task_collect_keys",
+      "value": "5 Schlüssel sammeln"
+    },
+    {
+      "key": "task_open_chest",
+      "value": "5 Truhen öffnen"
+    },
+    {
+      "key": "task_open_premium_chests",
+      "value": "5 Prämientruhen öffnen"
+    },
+    {
+      "key": "task_complete_rooms",
+      "value": "5 Räume vervollständigen"
+    },
+    {
+      "key": "task_place_furniture_items",
+      "value": "5 Möbelstücke platzieren"
+    },
+    {
+      "key": "task_add_decoration_objects",
+      "value": "5 Dekorationsobjekte hinzufügen"
+    },
+    {
+      "key": "task_earn_stars",
+      "value": "5 Sterne verdienen"
+    },
+    {
+      "key": "task_log_in_for_days",
+      "value": "Anmeldung für 5 Tage"
+    },
+    {
+      "key": "task_invite",
+      "value": "5 Freunde einladen"
+    },
+    {
+      "key": "task_share",
+      "value": "Teilen Sie 5 Partituren"
+    },
+    {
+      "key": "task_spin_the_slot",
+      "value": "Drehen Sie den Schlitz 5 Mal"
+    },
+    {
+      "key": "task_earn_rewards_from_the_slot",
+      "value": "Verdiene 5 Belohnungen am Spielautomaten"
+    },
+    {
+      "key": "task_throw_darts",
+      "value": "Wirf 5 Darts"
+    },
+    {
+      "key": "task_earn_rewards_from_darts",
+      "value": "Verdiene 5 Belohnungen mit Darts"
+    },
+    {
+      "key": "task_hit_consecutive_shots_in_darts",
+      "value": "5 aufeinanderfolgende Schüsse im Darts treffen"
+    },
+    {
+      "key": "task_spin_the_wheel_times",
+      "value": "Drehen Sie das Rad 5 Mal"
+    },
+    {
+      "key": "task_earn_rewards_from_the_wheel",
+      "value": "Verdiene 5 Belohnungen mit dem Rad"
+    },
+    {
+      "key": "task_complete_mini_games",
+      "value": "Schließe 5 Minispiele ab"
+    },
+    {
+      "key": "task_spend_mini_game_tokens",
+      "value": "5 Minispielmarken ausgeben"
+    },
+    {
+      "key": "task_earn_rewards_from_mini_games",
+      "value": "Verdiene 5 Belohnungen aus Minispielen"
+    },
+    {
+      "key": "task_claim_daily_reward_times",
+      "value": "Tägliche Belohnung 5 Mal beanspruchen"
+    },
+    {
+      "key": "task_claim_weekly_reward_times",
+      "value": "Wöchentliche Belohnung 5 Mal beanspruchen"
+    },
+    {
+      "key": "task_claim_hourly_reward_times",
+      "value": "5 Mal stündliche Belohnung beanspruchen"
+    },
+    {
+      "key": "task_open_different_types_of_chests",
+      "value": "Öffne 5 verschiedene Arten von Truhen"
+    },
+    {
+      "key": "task_play_different_mini_games",
+      "value": "Spiele 5 verschiedene Minispiele"
+    },
+    {
+      "key": "task_complete_task",
+      "value": "5 Aufgaben erledigen"
+    },
+    {
+      "key": "task_spend_stars",
+      "value": "Geben Sie 5 Sterne für Zimmer aus"
     }
   ]
 }

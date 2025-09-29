@@ -53,7 +53,7 @@
       ],
       "answers": [
         {
-          "word": "CANLI",
+          "word": "CANLI ",
           "meaning": "Hayat sahibi."
         },
         {
@@ -244,6 +244,116 @@
           "meaning": "Akma yeri"
         }
       ]
+    },
+    {
+      "id": 16,
+      "letters": [
+        "T",
+        "U",
+        "Ş"
+      ],
+      "answers": [
+        {
+          "word": "TUŞ",
+          "meaning": "Küçük düğme"
+        },
+        {
+          "word": "ŞUT",
+          "meaning": "Futbol terimi"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 17,
+      "letters": [
+        "Ş",
+        "A",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "AŞK",
+          "meaning": "Derin sevgi"
+        },
+        {
+          "word": "KAŞ",
+          "meaning": "Yüz organı"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 18,
+      "letters": [
+        "E",
+        "N",
+        "E",
+        "Ş"
+      ],
+      "answers": [
+        {
+          "word": "NEŞE",
+          "meaning": "Sevinç,iç huzuru"
+        },
+        {
+          "word": "ŞEN",
+          "meaning": "Canlı, hareketli, coşkulu"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 19,
+      "letters": [
+        "M",
+        "A",
+        "C",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "CAM",
+          "meaning": "Saydam madde"
+        },
+        {
+          "word": "AMCA",
+          "meaning": "Baba kardeşi"
+        },
+        {
+          "word": "AMA",
+          "meaning": "Bağlaç"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 20,
+      "letters": [
+        "T",
+        "İ",
+        "M",
+        "Ü"
+      ],
+      "answers": [
+        {
+          "word": "TİM",
+          "meaning": "Birkaç kişilik polis ekibi."
+        },
+        {
+          "word": "TÜM",
+          "meaning": "Yarım olmayan"
+        },
+        {
+          "word": "ÜMİT",
+          "meaning": "Ummaktan doğan güven duygusu,"
+        },
+        {
+          "word": "MİT",
+          "meaning": "Kuşaktan kuşağa yayılan"
+        }
+      ],
+      "extra": []
     }
   ]
 }
