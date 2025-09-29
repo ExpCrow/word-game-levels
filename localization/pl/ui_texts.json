@@ -254,19 +254,19 @@
     },
     {
       "key": "task_find_words",
-      "value": "Znajdź 5 słów"
+      "value": "Znajdź * słów"
     },
     {
       "key": "task_find_extra",
-      "value": "Znajdź 5 dodatkowych słów"
+      "value": "Znajdź * dodatkowych słów"
     },
     {
       "key": "task_reveal",
-      "value": "Ujawnij 5 liter"
+      "value": "Ujawnij * liter"
     },
     {
       "key": "task_complete",
-      "value": "Ukończ 5 poziomów"
+      "value": "Ukończ * poziomów"
     },
     {
       "key": "task_complete_flawless_levels",
@@ -274,143 +274,143 @@
     },
     {
       "key": "task_find_correct_words_in_a_row",
-      "value": "Znajdź 5 poprawnych słów w rzędzie"
+      "value": "Znajdź * poprawnych słów w rzędzie"
     },
     {
       "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Ukończ 5 bezbłędnych poziomów z rzędu"
+      "value": "Ukończ * bezbłędnych poziomów z rzędu"
     },
     {
       "key": "task_use",
-      "value": "Użyj 5 wskazówek"
+      "value": "Użyj * wskazówek"
     },
     {
       "key": "task_complete_level_without_using_a_hint",
-      "value": "Ukończ 5 poziomów bez korzystania z podpowiedzi"
+      "value": "Ukończ * poziomów bez korzystania z podpowiedzi"
     },
     {
       "key": "task_earn_gold",
-      "value": "Zdobądź 5 sztuk złota"
+      "value": "Zdobądź * sztuk złota"
     },
     {
       "key": "task_spend_gold",
-      "value": "Wydaj 5 sztuk złota"
+      "value": "Wydaj * sztuk złota"
     },
     {
       "key": "task_earn_energy",
-      "value": "Zdobądź 5 energii"
+      "value": "Zdobądź * energii"
     },
     {
       "key": "task_spend_energy",
-      "value": "Wydać 5 energii"
+      "value": "Wydać * energii"
     },
     {
       "key": "task_collect_keys",
-      "value": "Zbierz 5 kluczy"
+      "value": "Zbierz * kluczy"
     },
     {
       "key": "task_open_chest",
-      "value": "Otwórz 5 skrzyń"
+      "value": "Otwórz * skrzyń"
     },
     {
       "key": "task_open_premium_chests",
-      "value": "Otwórz 5 skrzyń premium"
+      "value": "Otwórz * skrzyń premium"
     },
     {
       "key": "task_complete_rooms",
-      "value": "Ukończono 5 pokoi"
+      "value": "Ukończono * pokoi"
     },
     {
       "key": "task_place_furniture_items",
-      "value": "Umieść 5 mebli"
+      "value": "Umieść * mebli"
     },
     {
       "key": "task_add_decoration_objects",
-      "value": "Dodaj 5 obiektów dekoracyjnych"
+      "value": "Dodaj * obiektów dekoracyjnych"
     },
     {
       "key": "task_earn_stars",
-      "value": "Zdobądź 5 gwiazdek"
+      "value": "Zdobądź * gwiazdek"
     },
     {
       "key": "task_log_in_for_days",
-      "value": "Zaloguj się na 5 dni"
+      "value": "Zaloguj się na * dni"
     },
     {
       "key": "task_invite",
-      "value": "Zaproś 5 znajomych"
+      "value": "Zaproś * znajomych"
     },
     {
       "key": "task_share",
-      "value": "Udostępnij 5 wyników"
+      "value": "Udostępnij * wyników"
     },
     {
       "key": "task_spin_the_slot",
-      "value": "Zakręć slotem 5 razy"
+      "value": "Zakręć slotem * razy"
     },
     {
       "key": "task_earn_rewards_from_the_slot",
-      "value": "Zdobądź 5 nagród z automatu"
+      "value": "Zdobądź * nagród z automatu"
     },
     {
       "key": "task_throw_darts",
-      "value": "Rzut 5 rzutkami"
+      "value": "Rzut * rzutkami"
     },
     {
       "key": "task_earn_rewards_from_darts",
-      "value": "Zdobądź 5 nagród za rzutki"
+      "value": "Zdobądź * nagród za rzutki"
     },
     {
       "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Trafienie 5 kolejnych strzałów w rzutki"
+      "value": "Trafienie * kolejnych strzałów w rzutki"
     },
     {
       "key": "task_spin_the_wheel_times",
-      "value": "Zakręć kołem 5 razy"
+      "value": "Zakręć kołem * razy"
     },
     {
       "key": "task_earn_rewards_from_the_wheel",
-      "value": "Zdobądź 5 nagród z koła"
+      "value": "Zdobądź * nagród z koła"
     },
     {
       "key": "task_complete_mini_games",
-      "value": "Ukończ 5 minigier"
+      "value": "Ukończ * minigier"
     },
     {
       "key": "task_spend_mini_game_tokens",
-      "value": "Wydaj 5 żetonów minigry"
+      "value": "Wydaj * żetonów minigry"
     },
     {
       "key": "task_earn_rewards_from_mini_games",
-      "value": "Zdobądź 5 nagród w minigrach"
+      "value": "Zdobądź * nagród w minigrach"
     },
     {
       "key": "task_claim_daily_reward_times",
-      "value": "Odbierz nagrodę dzienną 5 razy"
+      "value": "Odbierz nagrodę dzienną * razy"
     },
     {
       "key": "task_claim_weekly_reward_times",
-      "value": "Odbierz nagrodę tygodniową 5 razy"
+      "value": "Odbierz nagrodę tygodniową * razy"
     },
     {
       "key": "task_claim_hourly_reward_times",
-      "value": "Odbierz nagrodę godzinową 5 razy"
+      "value": "Odbierz nagrodę godzinową * razy"
     },
     {
       "key": "task_open_different_types_of_chests",
-      "value": "Otwórz 5 różnych rodzajów skrzyń"
+      "value": "Otwórz * różnych rodzajów skrzyń"
     },
     {
       "key": "task_play_different_mini_games",
-      "value": "Zagraj w 5 różnych minigier"
+      "value": "Zagraj w * różnych minigier"
     },
     {
       "key": "task_complete_task",
-      "value": "Ukończ 5 zadań"
+      "value": "Ukończ * zadań"
     },
     {
       "key": "task_spend_stars",
-      "value": "Wydać 5 gwiazdek na pokoje"
+      "value": "Wydać * gwiazdek na pokoje"
     }
   ]
 }

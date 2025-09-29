@@ -254,19 +254,19 @@
     },
     {
       "key": "task_find_words",
-      "value": "Find 5 words"
+      "value": "Find * words"
     },
     {
       "key": "task_find_extra",
-      "value": "Find 5 extra words"
+      "value": "Find * extra words"
     },
     {
       "key": "task_reveal",
-      "value": "Reveal 5 letters"
+      "value": "Reveal * letters"
     },
     {
       "key": "task_complete",
-      "value": "Complete 5 levels"
+      "value": "Complete * levels"
     },
     {
       "key": "task_complete_flawless_levels",
@@ -274,143 +274,143 @@
     },
     {
       "key": "task_find_correct_words_in_a_row",
-      "value": "Find 5 correct words in a row"
+      "value": "Find * correct words in a row"
     },
     {
       "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Complete 5 flawless levels in a row"
+      "value": "Complete * flawless levels in a row"
     },
     {
       "key": "task_use",
-      "value": "Use 5 hints"
+      "value": "Use * hints"
     },
     {
       "key": "task_complete_level_without_using_a_hint",
-      "value": "Complete 5 level without using a hint"
+      "value": "Complete * level without using a hint"
     },
     {
       "key": "task_earn_gold",
-      "value": "Earn 5 gold"
+      "value": "Earn * gold"
     },
     {
       "key": "task_spend_gold",
-      "value": "Spend 5 gold"
+      "value": "Spend * gold"
     },
     {
       "key": "task_earn_energy",
-      "value": "Earn 5 energy"
+      "value": "Earn * energy"
     },
     {
       "key": "task_spend_energy",
-      "value": "Spend 5 energy"
+      "value": "Spend * energy"
     },
     {
       "key": "task_collect_keys",
-      "value": "Collect 5 keys"
+      "value": "Collect * keys"
     },
     {
       "key": "task_open_chest",
-      "value": "Open 5 chests"
+      "value": "Open * chests"
     },
     {
       "key": "task_open_premium_chests",
-      "value": "Open 5 premium chests"
+      "value": "Open * premium chests"
     },
     {
       "key": "task_complete_rooms",
-      "value": "Complete 5 rooms"
+      "value": "Complete * rooms"
     },
     {
       "key": "task_place_furniture_items",
-      "value": "Place 5 furniture items"
+      "value": "Place * furniture items"
     },
     {
       "key": "task_add_decoration_objects",
-      "value": "Add 5 decoration objects"
+      "value": "Add * decoration objects"
     },
     {
       "key": "task_earn_stars",
-      "value": "Earn 5 stars"
+      "value": "Earn * stars"
     },
     {
       "key": "task_log_in_for_days",
-      "value": "Log in for 5 days"
+      "value": "Log in for * days"
     },
     {
       "key": "task_invite",
-      "value": "Invite 5 friends"
+      "value": "Invite * friends"
     },
     {
       "key": "task_share",
-      "value": "Share 5 scores"
+      "value": "Share * scores"
     },
     {
       "key": "task_spin_the_slot",
-      "value": "Spin the slot 5 times"
+      "value": "Spin the slot * times"
     },
     {
       "key": "task_earn_rewards_from_the_slot",
-      "value": "Earn 5 rewards from the slot"
+      "value": "Earn * rewards from the slot"
     },
     {
       "key": "task_throw_darts",
-      "value": "Throw 5 darts"
+      "value": "Throw * darts"
     },
     {
       "key": "task_earn_rewards_from_darts",
-      "value": "Earn 5 rewards from darts"
+      "value": "Earn * rewards from darts"
     },
     {
       "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Hit 5 consecutive shots in darts"
+      "value": "Hit * consecutive shots in darts"
     },
     {
       "key": "task_spin_the_wheel_times",
-      "value": "Spin the wheel 5 times"
+      "value": "Spin the wheel * times"
     },
     {
       "key": "task_earn_rewards_from_the_wheel",
-      "value": "Earn 5 rewards from the wheel"
+      "value": "Earn * rewards from the wheel"
     },
     {
       "key": "task_complete_mini_games",
-      "value": "Complete 5 mini games"
+      "value": "Complete * mini games"
     },
     {
       "key": "task_spend_mini_game_tokens",
-      "value": "Spend 5 mini game tokens"
+      "value": "Spend * mini game tokens"
     },
     {
       "key": "task_earn_rewards_from_mini_games",
-      "value": "Earn 5 rewards from mini games"
+      "value": "Earn * rewards from mini games"
     },
     {
       "key": "task_claim_daily_reward_times",
-      "value": "Claim daily reward 5 times"
+      "value": "Claim daily reward * times"
     },
     {
       "key": "task_claim_weekly_reward_times",
-      "value": "Claim weekly reward 5 times"
+      "value": "Claim weekly reward * times"
     },
     {
       "key": "task_claim_hourly_reward_times",
-      "value": "Claim hourly reward 5 times"
+      "value": "Claim hourly reward * times"
     },
     {
       "key": "task_open_different_types_of_chests",
-      "value": "Open 5 different types of chests"
+      "value": "Open * different types of chests"
     },
     {
       "key": "task_play_different_mini_games",
-      "value": "Play 5 different mini games"
+      "value": "Play * different mini games"
     },
     {
       "key": "task_complete_task",
-      "value": "Complete 5 tasks"
+      "value": "Complete * tasks"
     },
     {
       "key": "task_spend_stars",
-      "value": "Spend 5 stars for rooms"
+      "value": "Spend * stars for rooms"
     }
   ]
 }

@@ -254,19 +254,19 @@
     },
     {
       "key": "task_find_words",
-      "value": "Trouvez 5 mots"
+      "value": "Trouvez * mots"
     },
     {
       "key": "task_find_extra",
-      "value": "Trouvez 5 mots supplémentaires"
+      "value": "Trouvez * mots supplémentaires"
     },
     {
       "key": "task_reveal",
-      "value": "Révéler 5 lettres"
+      "value": "Révéler * lettres"
     },
     {
       "key": "task_complete",
-      "value": "Terminer 5 niveaux"
+      "value": "Terminer * niveaux"
     },
     {
       "key": "task_complete_flawless_levels",
@@ -274,143 +274,143 @@
     },
     {
       "key": "task_find_correct_words_in_a_row",
-      "value": "Trouver 5 mots corrects à la suite"
+      "value": "Trouver * mots corrects à la suite"
     },
     {
       "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Terminer 5 niveaux sans faute d'affilée"
+      "value": "Terminer * niveaux sans faute d'affilée"
     },
     {
       "key": "task_use",
-      "value": "Utiliser 5 indices"
+      "value": "Utiliser * indices"
     },
     {
       "key": "task_complete_level_without_using_a_hint",
-      "value": "Terminer 5 niveaux sans utiliser d'indice"
+      "value": "Terminer * niveaux sans utiliser d'indice"
     },
     {
       "key": "task_earn_gold",
-      "value": "Gagner 5 pièces d'or"
+      "value": "Gagner * pièces d'or"
     },
     {
       "key": "task_spend_gold",
-      "value": "Dépenser 5 pièces d'or"
+      "value": "Dépenser * pièces d'or"
     },
     {
       "key": "task_earn_energy",
-      "value": "Gagnez 5 euros d'énergie"
+      "value": "Gagnez * euros d'énergie"
     },
     {
       "key": "task_spend_energy",
-      "value": "Dépenser 5 énergies"
+      "value": "Dépenser * énergies"
     },
     {
       "key": "task_collect_keys",
-      "value": "Collecter 5 clés"
+      "value": "Collecter * clés"
     },
     {
       "key": "task_open_chest",
-      "value": "Ouvrir 5 coffres"
+      "value": "Ouvrir * coffres"
     },
     {
       "key": "task_open_premium_chests",
-      "value": "Ouvrez 5 coffres à primes"
+      "value": "Ouvrez * coffres à primes"
     },
     {
       "key": "task_complete_rooms",
-      "value": "Compléter 5 pièces"
+      "value": "Compléter * pièces"
     },
     {
       "key": "task_place_furniture_items",
-      "value": "Placer 5 meubles"
+      "value": "Placer * meubles"
     },
     {
       "key": "task_add_decoration_objects",
-      "value": "Ajouter 5 objets de décoration"
+      "value": "Ajouter * objets de décoration"
     },
     {
       "key": "task_earn_stars",
-      "value": "Gagner 5 étoiles"
+      "value": "Gagner * étoiles"
     },
     {
       "key": "task_log_in_for_days",
-      "value": "Se connecter pendant 5 jours"
+      "value": "Se connecter pendant * jours"
     },
     {
       "key": "task_invite",
-      "value": "Inviter 5 amis"
+      "value": "Inviter * amis"
     },
     {
       "key": "task_share",
-      "value": "Partager 5 notes"
+      "value": "Partager * notes"
     },
     {
       "key": "task_spin_the_slot",
-      "value": "Faire tourner la machine à sous 5 fois"
+      "value": "Faire tourner la machine à sous * fois"
     },
     {
       "key": "task_earn_rewards_from_the_slot",
-      "value": "Gagnez 5 récompenses grâce à la machine à sous"
+      "value": "Gagnez * récompenses grâce à la machine à sous"
     },
     {
       "key": "task_throw_darts",
-      "value": "Lancer 5 fléchettes"
+      "value": "Lancer * fléchettes"
     },
     {
       "key": "task_earn_rewards_from_darts",
-      "value": "Obtenez 5 récompenses grâce aux fléchettes"
+      "value": "Obtenez * récompenses grâce aux fléchettes"
     },
     {
       "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Réussir 5 tirs consécutifs aux fléchettes"
+      "value": "Réussir * tirs consécutifs aux fléchettes"
     },
     {
       "key": "task_spin_the_wheel_times",
-      "value": "Faire tourner la roue 5 fois"
+      "value": "Faire tourner la roue * fois"
     },
     {
       "key": "task_earn_rewards_from_the_wheel",
-      "value": "Obtenez 5 récompenses grâce à la roue"
+      "value": "Obtenez * récompenses grâce à la roue"
     },
     {
       "key": "task_complete_mini_games",
-      "value": "Terminez 5 mini-jeux"
+      "value": "Terminez * mini-jeux"
     },
     {
       "key": "task_spend_mini_game_tokens",
-      "value": "Dépenser 5 jetons de mini-jeu"
+      "value": "Dépenser * jetons de mini-jeu"
     },
     {
       "key": "task_earn_rewards_from_mini_games",
-      "value": "Gagnez 5 récompenses grâce aux mini-jeux"
+      "value": "Gagnez * récompenses grâce aux mini-jeux"
     },
     {
       "key": "task_claim_daily_reward_times",
-      "value": "Réclamer 5 fois la récompense quotidienne"
+      "value": "Réclamer * fois la récompense quotidienne"
     },
     {
       "key": "task_claim_weekly_reward_times",
-      "value": "Réclamer 5 fois la récompense hebdomadaire"
+      "value": "Réclamer * fois la récompense hebdomadaire"
     },
     {
       "key": "task_claim_hourly_reward_times",
-      "value": "Réclamer la récompense horaire 5 fois"
+      "value": "Réclamer la récompense horaire * fois"
     },
     {
       "key": "task_open_different_types_of_chests",
-      "value": "Ouvrez 5 types de coffres différents"
+      "value": "Ouvrez * types de coffres différents"
     },
     {
       "key": "task_play_different_mini_games",
-      "value": "Jouez à 5 mini-jeux différents"
+      "value": "Jouez à * mini-jeux différents"
     },
     {
       "key": "task_complete_task",
-      "value": "Effectuer 5 tâches"
+      "value": "Effectuer * tâches"
     },
     {
       "key": "task_spend_stars",
-      "value": "Dépenser 5 étoiles pour les chambres"
+      "value": "Dépenser * étoiles pour les chambres"
     }
   ]
 }

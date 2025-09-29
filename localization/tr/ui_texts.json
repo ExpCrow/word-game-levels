@@ -254,19 +254,19 @@
     },
     {
       "key": "task_find_words",
-      "value": "5 kelime bulun"
+      "value": "* kelime bulun"
     },
     {
       "key": "task_find_extra",
-      "value": "Fazladan 5 kelime bulun"
+      "value": "Fazladan * kelime bulun"
     },
     {
       "key": "task_reveal",
-      "value": "5 harfi açığa çıkar"
+      "value": "* harfi açığa çıkar"
     },
     {
       "key": "task_complete",
-      "value": "5 seviyeyi tamamlayın"
+      "value": "* seviyeyi tamamlayın"
     },
     {
       "key": "task_complete_flawless_levels",
@@ -274,143 +274,143 @@
     },
     {
       "key": "task_find_correct_words_in_a_row",
-      "value": "Arka arkaya 5 doğru kelime bulun"
+      "value": "Arka arkaya * doğru kelime bulun"
     },
     {
       "key": "task_complete_flawless_levels_in_a_row",
-      "value": "5 kusursuz seviyeyi arka arkaya tamamlayın"
+      "value": "* kusursuz seviyeyi arka arkaya tamamlayın"
     },
     {
       "key": "task_use",
-      "value": "5 ipucu kullanın"
+      "value": "* ipucu kullanın"
     },
     {
       "key": "task_complete_level_without_using_a_hint",
-      "value": "İpucu kullanmadan 5 seviyeyi tamamlayın"
+      "value": "İpucu kullanmadan * seviyeyi tamamlayın"
     },
     {
       "key": "task_earn_gold",
-      "value": "5 altın kazanın"
+      "value": "* altın kazanın"
     },
     {
       "key": "task_spend_gold",
-      "value": "5 altın harcayın"
+      "value": "* altın harcayın"
     },
     {
       "key": "task_earn_energy",
-      "value": "5 enerji kazanın"
+      "value": "* enerji kazanın"
     },
     {
       "key": "task_spend_energy",
-      "value": "5 enerji harcayın"
+      "value": "* enerji harcayın"
     },
     {
       "key": "task_collect_keys",
-      "value": "5 anahtar toplayın"
+      "value": "* anahtar toplayın"
     },
     {
       "key": "task_open_chest",
-      "value": "5 sandık aç"
+      "value": "* sandık aç"
     },
     {
       "key": "task_open_premium_chests",
-      "value": "5 premium sandığı açın"
+      "value": "* premium sandığı açın"
     },
     {
       "key": "task_complete_rooms",
-      "value": "5 odayı tamamlayın"
+      "value": "* odayı tamamlayın"
     },
     {
       "key": "task_place_furniture_items",
-      "value": "5 mobilya öğesi yerleştirin"
+      "value": "* mobilya öğesi yerleştirin"
     },
     {
       "key": "task_add_decoration_objects",
-      "value": "5 dekorasyon nesnesi ekleyin"
+      "value": "* dekorasyon nesnesi ekleyin"
     },
     {
       "key": "task_earn_stars",
-      "value": "5 yıldız kazanın"
+      "value": "* yıldız kazanın"
     },
     {
       "key": "task_log_in_for_days",
-      "value": "5 gün boyunca oturum açın"
+      "value": "* gün boyunca oturum açın"
     },
     {
       "key": "task_invite",
-      "value": "5 arkadaşınızı davet edin"
+      "value": "* arkadaşınızı davet edin"
     },
     {
       "key": "task_share",
-      "value": "5 skoru paylaşın"
+      "value": "* skoru paylaşın"
     },
     {
       "key": "task_spin_the_slot",
-      "value": "Slotu 5 kez döndürün"
+      "value": "Slotu * kez döndürün"
     },
     {
       "key": "task_earn_rewards_from_the_slot",
-      "value": "Slottan 5 ödül kazanın"
+      "value": "Slottan * ödül kazanın"
     },
     {
       "key": "task_throw_darts",
-      "value": "5 dart atın"
+      "value": "* dart atın"
     },
     {
       "key": "task_earn_rewards_from_darts",
-      "value": "Darttan 5 ödül kazanın"
+      "value": "Darttan * ödül kazanın"
     },
     {
       "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Dartta art arda 5 atış yapmak"
+      "value": "Dartta art arda * atış yapmak"
     },
     {
       "key": "task_spin_the_wheel_times",
-      "value": "Çarkı 5 kez çevirin"
+      "value": "Çarkı * kez çevirin"
     },
     {
       "key": "task_earn_rewards_from_the_wheel",
-      "value": "Çarktan 5 ödül kazanın"
+      "value": "Çarktan * ödül kazanın"
     },
     {
       "key": "task_complete_mini_games",
-      "value": "5 mini oyunu tamamlayın"
+      "value": "* mini oyunu tamamlayın"
     },
     {
       "key": "task_spend_mini_game_tokens",
-      "value": "5 mini oyun jetonu harcayın"
+      "value": "* mini oyun jetonu harcayın"
     },
     {
       "key": "task_earn_rewards_from_mini_games",
-      "value": "Mini oyunlardan 5 ödül kazanın"
+      "value": "Mini oyunlardan * ödül kazanın"
     },
     {
       "key": "task_claim_daily_reward_times",
-      "value": "Günlük ödülü 5 kez talep edin"
+      "value": "Günlük ödülü * kez talep edin"
     },
     {
       "key": "task_claim_weekly_reward_times",
-      "value": "Haftalık ödülü 5 kez talep edin"
+      "value": "Haftalık ödülü * kez talep edin"
     },
     {
       "key": "task_claim_hourly_reward_times",
-      "value": "Saatlik ödülü 5 kez talep edin"
+      "value": "Saatlik ödülü * kez talep edin"
     },
     {
       "key": "task_open_different_types_of_chests",
-      "value": "5 farklı türde sandık açın"
+      "value": "* farklı türde sandık açın"
     },
     {
       "key": "task_play_different_mini_games",
-      "value": "5 farklı mini oyun oynayın"
+      "value": "* farklı mini oyun oynayın"
     },
     {
       "key": "task_complete_task",
-      "value": "5 görevi tamamlayın"
+      "value": "* görevi tamamlayın"
     },
     {
       "key": "task_spend_stars",
-      "value": "Odalar için 5 yıldız harcayın"
+      "value": "Odalar için * yıldız harcayın"
     }
   ]
 }
