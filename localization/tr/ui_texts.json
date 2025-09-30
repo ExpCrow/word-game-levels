@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "10 kusursuz seviyeyi tamamlayın"
+      "value": "* kusursuz seviyeyi tamamlayın"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Arka arkaya * doğru kelime bulun"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "* kusursuz seviyeyi arka arkaya tamamlayın"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "* ipucu kullanın"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Odalar için * yıldız harcayın"
+    },
+    {
+      "key": "throw",
+      "value": "Atmak"
     }
   ]
 }

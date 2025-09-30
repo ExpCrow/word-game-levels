@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Schließe 10 makellose Level ab"
+      "value": "Schließe * makellose Level ab"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Finde * richtige Wörter in einer Reihe"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Schließe * fehlerfreie Level in Folge ab"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "* Hinweise verwenden"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Geben Sie * Sterne für Zimmer aus"
+    },
+    {
+      "key": "throw",
+      "value": "Werfen"
     }
   ]
 }

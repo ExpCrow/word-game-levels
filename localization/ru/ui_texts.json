@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Пройдите 10 безупречных уровней"
+      "value": "Пройдите * безупречных уровней"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Найдите * правильных слов подряд"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Пройдите * безупречных уровней подряд"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "Используйте * подсказок"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Потратьте * звезд на номера"
+    },
+    {
+      "key": "throw",
+      "value": "Бросок"
     }
   ]
 }

@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Completar 10 níveis sem falhas"
+      "value": "Completar * níveis sem falhas"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Encontrar * palavras corretas numa fila"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Completar * níveis sem falhas seguidos"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "Utilizar * dicas"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Gastar * estrelas nos quartos"
+    },
+    {
+      "key": "throw",
+      "value": "Atirar"
     }
   ]
 }

@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Ukończ 10 bezbłędnych poziomów"
+      "value": "Ukończ * bezbłędnych poziomów"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Znajdź * poprawnych słów w rzędzie"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Ukończ * bezbłędnych poziomów z rzędu"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "Użyj * wskazówek"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Wydać * gwiazdek na pokoje"
+    },
+    {
+      "key": "throw",
+      "value": "Rzut"
     }
   ]
 }

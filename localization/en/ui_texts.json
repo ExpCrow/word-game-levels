@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Complete 10 flawless levels"
+      "value": "Complete * flawless levels"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Find * correct words in a row"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Complete * flawless levels in a row"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "Use * hints"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Spend * stars for rooms"
+    },
+    {
+      "key": "throw",
+      "value": "Throw"
     }
   ]
 }

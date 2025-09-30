@@ -270,18 +270,14 @@
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Terminez 10 niveaux sans faute"
+      "value": "Terminez * niveaux sans faute"
     },
     {
       "key": "task_find_correct_words_in_a_row",
       "value": "Trouver * mots corrects à la suite"
     },
     {
-      "key": "task_complete_flawless_levels_in_a_row",
-      "value": "Terminer * niveaux sans faute d'affilée"
-    },
-    {
-      "key": "task_use",
+      "key": "task_use_hint",
       "value": "Utiliser * indices"
     },
     {
@@ -411,6 +407,10 @@
     {
       "key": "task_spend_stars",
       "value": "Dépenser * étoiles pour les chambres"
+    },
+    {
+      "key": "throw",
+      "value": "Lancer"
     }
   ]
 }

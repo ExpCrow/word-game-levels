@@ -23,3 +23,6 @@
 
 [2025-09-29 11:20:54] Güncelleme Raporu
 🔼 Versiyonu artan diller: en (v6), tr (v7), fr (v6), de (v6), ru (v6), pt (v6), pl (v6)
+
+[2025-09-30 13:34:58] Güncelleme Raporu
+🔼 Versiyonu artan diller: en (v7), tr (v8), fr (v7), de (v7), ru (v7), pt (v7), pl (v7)
