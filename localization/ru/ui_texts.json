@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Бросок"
+    },
+    {
+      "key": "congratulations",
+      "value": "Поздравляю!"
+    },
+    {
+      "key": "spin",
+      "value": "Спин"
+    },
+    {
+      "key": "drop",
+      "value": "Капля"
     }
   ]
 }

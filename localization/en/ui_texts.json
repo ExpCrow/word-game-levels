@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Throw"
+    },
+    {
+      "key": "congratulations",
+      "value": "Congratulations!"
+    },
+    {
+      "key": "spin",
+      "value": "Spin"
+    },
+    {
+      "key": "drop",
+      "value": "Drop"
     }
   ]
 }

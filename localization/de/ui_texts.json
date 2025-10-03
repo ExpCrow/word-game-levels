@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Werfen"
+    },
+    {
+      "key": "congratulations",
+      "value": "Herzlichen Glückwunsch!"
+    },
+    {
+      "key": "spin",
+      "value": "Spin"
+    },
+    {
+      "key": "drop",
+      "value": "Ablegen"
     }
   ]
 }

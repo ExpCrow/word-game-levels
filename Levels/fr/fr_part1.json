@@ -1,0 +1,38 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": [
+        "A",
+        "K",
+        "T",
+        "O",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "OT",
+          "meaning": "Yumuşak gövdeli bitki."
+        },
+        {
+          "word": "TOKA",
+          "meaning": "Saç tutucu."
+        },
+        {
+          "word": "KAT",
+          "meaning": "Üst üste gelen bölüm."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "AT",
+          "meaning": "Binilen veya yük taşınan hayvan."
+        }
+      ]
+    }
+  ]
+}

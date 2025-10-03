@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Atirar"
+    },
+    {
+      "key": "congratulations",
+      "value": "Parabéns!"
+    },
+    {
+      "key": "spin",
+      "value": "Giro"
+    },
+    {
+      "key": "drop",
+      "value": "Gota"
     }
   ]
 }

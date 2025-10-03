@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Rzut"
+    },
+    {
+      "key": "congratulations",
+      "value": "Gratulacje!"
+    },
+    {
+      "key": "spin",
+      "value": "Spin"
+    },
+    {
+      "key": "drop",
+      "value": "Spadek"
     }
   ]
 }

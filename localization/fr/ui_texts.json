@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Lancer"
+    },
+    {
+      "key": "congratulations",
+      "value": "Félicitations !"
+    },
+    {
+      "key": "spin",
+      "value": "La rotation"
+    },
+    {
+      "key": "drop",
+      "value": "Chute"
     }
   ]
 }

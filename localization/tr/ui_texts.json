@@ -411,6 +411,18 @@
     {
       "key": "throw",
       "value": "Atmak"
+    },
+    {
+      "key": "congratulations",
+      "value": "Tebrikler!"
+    },
+    {
+      "key": "spin",
+      "value": "Spin"
+    },
+    {
+      "key": "drop",
+      "value": "Bırak"
     }
   ]
 }
