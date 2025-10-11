@@ -32,3 +32,6 @@
 
 [2025-10-04 02:26:54] Güncelleme Raporu
 🔼 Versiyonu artan diller: en (v9), tr (v10), fr (v9), de (v9), ru (v9), pt (v9), pl (v9)
+
+[2025-10-11 23:24:05] Güncelleme Raporu
+⏸ Değişmeyen diller: en (v9), tr (v10), fr (v9), de (v9), ru (v9), pt (v9), pl (v9)
