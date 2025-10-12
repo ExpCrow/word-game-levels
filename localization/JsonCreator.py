@@ -15,6 +15,9 @@ log_file = 'update_log.txt'
 # Base URL (GitHub raw link)
 base_url = "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization"
 
+# Fonts URL (Python dosyasının bulunduğu dizindeki fonts klasörü)
+font_url = f"{base_url}/fonts"
+
 # XLSX yükle
 wb = openpyxl.load_workbook(xlsx_file)
 sheet = wb.active
@@ -41,6 +44,24 @@ if os.path.exists(manifest_file):
         manifest = json.load(f)
 else:
     manifest = {"languages": []}
+
+# 🔤 FONT BİLGİSİ EKLEME / GÜNCELLEME
+if "font" not in manifest:
+    manifest["font"] = {
+        "url": font_url,
+        "version": 1
+    }
+else:
+    # Eğer font versiyonu varsa, sadece url'yi güncelle
+    manifest["font"]["url"] = font_url
+    # Burada istersen versiyonu otomatik artırabilirim. Örneğin:
+    # manifest["font"]["version"] += 1
+    # Ama sen manuel değiştirmek istiyorsan bırakabiliriz.
+    # Şimdilik değiştirmiyoruz.
+    
+# Manifest'e font_url alanı da eskiden vardıysa kaldırıyoruz (artık font altında)
+if "font_url" in manifest:
+    del manifest["font_url"]
 
 # Değişiklik raporu için listeler
 updated_languages = []
