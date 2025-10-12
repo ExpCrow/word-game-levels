@@ -47,3 +47,7 @@
 
 [2025-10-12 16:59:41] Güncelleme Raporu
 ⏸ Değişmeyen diller: en (v9), tr (v10), fr (v9), de (v9), ru (v9), pt (v9), pl (v9)
+
+[2025-10-12 23:35:44] Güncelleme Raporu
+⏸ Değişmeyen diller: en (v9), tr (v10), fr (v9), de (v9), ru (v9), pt (v9), pl (v9)
+🆕 Yeni eklenen diller: uk (v1)

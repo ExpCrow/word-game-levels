@@ -48,6 +48,13 @@
       "version": 9,
       "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/pl/ui_texts.json",
       "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/pl/flag.png"
+    },
+    {
+      "code": "uk",
+      "name": "Uk",
+      "version": 1,
+      "json_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/uk/ui_texts.json",
+      "flag_url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/uk/flag.png"
     }
   ],
   "font": {
