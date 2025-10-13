@@ -1,0 +1,366 @@
+{
+  "levels": [
+    {
+      "id": 11,
+      "letters": [
+        "R",
+        "Z",
+        "H",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ERZ",
+          "meaning": NaN
+        },
+        {
+          "word": "HER",
+          "meaning": NaN
+        },
+        {
+          "word": "REH",
+          "meaning": NaN
+        },
+        {
+          "word": "HERZ",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ZEH",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "letters": [
+        "D",
+        "E",
+        "I",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "EID",
+          "meaning": NaN
+        },
+        {
+          "word": "LEID",
+          "meaning": NaN
+        },
+        {
+          "word": "LIED",
+          "meaning": NaN
+        },
+        {
+          "word": "DIE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "LID",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "letters": [
+        "N",
+        "I",
+        "T",
+        "E",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ENTE",
+          "meaning": NaN
+        },
+        {
+          "word": "NIE",
+          "meaning": NaN
+        },
+        {
+          "word": "NIETE",
+          "meaning": NaN
+        },
+        {
+          "word": "EIN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TEE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "letters": [
+        "T",
+        "U",
+        "C",
+        "H",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "HUT",
+          "meaning": NaN
+        },
+        {
+          "word": "TUCH",
+          "meaning": NaN
+        },
+        {
+          "word": "BUCHT",
+          "meaning": NaN
+        },
+        {
+          "word": "BUCH",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "HUB",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "letters": [
+        "R",
+        "E",
+        "W",
+        "D",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "REDE",
+          "meaning": NaN
+        },
+        {
+          "word": "WEDER",
+          "meaning": NaN
+        },
+        {
+          "word": "WER",
+          "meaning": NaN
+        },
+        {
+          "word": "ERDE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DER",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "letters": [
+        "I",
+        "S",
+        "R",
+        "E",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "REIS",
+          "meaning": NaN
+        },
+        {
+          "word": "HIER",
+          "meaning": NaN
+        },
+        {
+          "word": "SEHR",
+          "meaning": NaN
+        },
+        {
+          "word": "HIRSE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "IHR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "letters": [
+        "T",
+        "O",
+        "P",
+        "P",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "STOP",
+          "meaning": NaN
+        },
+        {
+          "word": "POP",
+          "meaning": NaN
+        },
+        {
+          "word": "TOPP",
+          "meaning": NaN
+        },
+        {
+          "word": "SPOT",
+          "meaning": NaN
+        },
+        {
+          "word": "TOPP",
+          "meaning": NaN
+        },
+        {
+          "word": "POST",
+          "meaning": NaN
+        },
+        {
+          "word": "STOPP",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "OST",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "letters": [
+        "E",
+        "S",
+        "L",
+        "N",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ESEL",
+          "meaning": NaN
+        },
+        {
+          "word": "SEE",
+          "meaning": NaN
+        },
+        {
+          "word": "SELEN",
+          "meaning": NaN
+        },
+        {
+          "word": "LESEN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "LEE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "letters": [
+        "N",
+        "G",
+        "I",
+        "W",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "WEN",
+          "meaning": NaN
+        },
+        {
+          "word": "EWIG",
+          "meaning": NaN
+        },
+        {
+          "word": "WENIG",
+          "meaning": NaN
+        },
+        {
+          "word": "WEG",
+          "meaning": NaN
+        },
+        {
+          "word": "WEIN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "WIE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "letters": [
+        "A",
+        "K",
+        "N",
+        "U",
+        "F"
+      ],
+      "answers": [
+        {
+          "word": "FAUN",
+          "meaning": NaN
+        },
+        {
+          "word": "KANU",
+          "meaning": NaN
+        },
+        {
+          "word": "FAN",
+          "meaning": NaN
+        },
+        {
+          "word": "KNAUF",
+          "meaning": NaN
+        },
+        {
+          "word": "KAUF",
+          "meaning": NaN
+        },
+        {
+          "word": "FUNK",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AUF",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "levels": [
+    {
+      "id": 21,
+      "letters": [
+        "S",
+        "H",
+        "T",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "SICHT",
+          "meaning": NaN
+        },
+        {
+          "word": "TISCH",
+          "meaning": NaN
+        },
+        {
+          "word": "STICH",
+          "meaning": NaN
+        },
+        {
+          "word": "SICT",
+          "meaning": NaN
+        },
+        {
+          "word": "HIT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ICH",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "letters": [
+        "A",
+        "U",
+        "Z",
+        "G",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "GAU",
+          "meaning": NaN
+        },
+        {
+          "word": "ZUG",
+          "meaning": NaN
+        },
+        {
+          "word": "GANZ",
+          "meaning": NaN
+        },
+        {
+          "word": "ANZUG",
+          "meaning": NaN
+        },
+        {
+          "word": "ZAUN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "GNU",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "letters": [
+        "R",
+        "N",
+        "Ü",
+        "E",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "RÜGEN",
+          "meaning": NaN
+        },
+        {
+          "word": "RÜGEN",
+          "meaning": NaN
+        },
+        {
+          "word": "GEN",
+          "meaning": NaN
+        },
+        {
+          "word": "GERN",
+          "meaning": NaN
+        },
+        {
+          "word": "GRÜN",
+          "meaning": NaN
+        },
+        {
+          "word": "GRÜNE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ENG",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "letters": [
+        "U",
+        "W",
+        "M",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "RAUM",
+          "meaning": NaN
+        },
+        {
+          "word": "WURM",
+          "meaning": NaN
+        },
+        {
+          "word": "WARUM",
+          "meaning": NaN
+        },
+        {
+          "word": "RAUM",
+          "meaning": NaN
+        },
+        {
+          "word": "WARM",
+          "meaning": NaN
+        },
+        {
+          "word": "ARM",
+          "meaning": NaN
+        },
+        {
+          "word": "MAU",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RUM",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "letters": [
+        "N",
+        "S",
+        "A",
+        "G",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "LANG",
+          "meaning": NaN
+        },
+        {
+          "word": "ANS",
+          "meaning": NaN
+        },
+        {
+          "word": "SLANG",
+          "meaning": NaN
+        },
+        {
+          "word": "GANS",
+          "meaning": NaN
+        },
+        {
+          "word": "GLAS",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "GAS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "letters": [
+        "A",
+        "O",
+        "K",
+        "B",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "KORB",
+          "meaning": NaN
+        },
+        {
+          "word": "BOA",
+          "meaning": NaN
+        },
+        {
+          "word": "OKRA",
+          "meaning": NaN
+        },
+        {
+          "word": "OBA",
+          "meaning": NaN
+        },
+        {
+          "word": "KARO",
+          "meaning": NaN
+        },
+        {
+          "word": "KOBRA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BAR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "letters": [
+        "R",
+        "I",
+        "D",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "RAD",
+          "meaning": NaN
+        },
+        {
+          "word": "RAN",
+          "meaning": NaN
+        },
+        {
+          "word": "DARIN",
+          "meaning": NaN
+        },
+        {
+          "word": "DINAR",
+          "meaning": NaN
+        },
+        {
+          "word": "RIND",
+          "meaning": NaN
+        },
+        {
+          "word": "RAND",
+          "meaning": NaN
+        },
+        {
+          "word": "DRAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DRIN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "I",
+        "M",
+        "R",
+        "E",
+        "X"
+      ],
+      "answers": [
+        {
+          "word": "MIR",
+          "meaning": NaN
+        },
+        {
+          "word": "EMIR",
+          "meaning": NaN
+        },
+        {
+          "word": "REIM",
+          "meaning": NaN
+        },
+        {
+          "word": "MIXER",
+          "meaning": NaN
+        },
+        {
+          "word": "IRE",
+          "meaning": NaN
+        },
+        {
+          "word": "REMIX",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MIX",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "letters": [
+        "A",
+        "L",
+        "E",
+        "L",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "LEGAL",
+          "meaning": NaN
+        },
+        {
+          "word": "ALLE",
+          "meaning": NaN
+        },
+        {
+          "word": "LAGE",
+          "meaning": NaN
+        },
+        {
+          "word": "EGAL",
+          "meaning": NaN
+        },
+        {
+          "word": "ALLE",
+          "meaning": NaN
+        },
+        {
+          "word": "GALLE",
+          "meaning": NaN
+        },
+        {
+          "word": "ALGE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "GEL",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "U",
+        "H",
+        "B",
+        "S",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "SCHUB",
+          "meaning": NaN
+        },
+        {
+          "word": "HUB",
+          "meaning": NaN
+        },
+        {
+          "word": "BUCH",
+          "meaning": NaN
+        },
+        {
+          "word": "BUSCH",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BUS",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

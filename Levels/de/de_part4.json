@@ -1,0 +1,400 @@
+{
+  "levels": [
+    {
+      "id": 31,
+      "letters": [
+        "V",
+        "E",
+        "T",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "RAVE",
+          "meaning": NaN
+        },
+        {
+          "word": "ART",
+          "meaning": NaN
+        },
+        {
+          "word": "VATER",
+          "meaning": NaN
+        },
+        {
+          "word": "RATE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RAT",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "letters": [
+        "B",
+        "E",
+        "R",
+        "T",
+        "Ü"
+      ],
+      "answers": [
+        {
+          "word": "TÜR",
+          "meaning": NaN
+        },
+        {
+          "word": "ÜBER",
+          "meaning": NaN
+        },
+        {
+          "word": "TÜRE",
+          "meaning": NaN
+        },
+        {
+          "word": "RÜBE",
+          "meaning": NaN
+        },
+        {
+          "word": "TRÜBE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TRÜB",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "letters": [
+        "L",
+        "C",
+        "H",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "HLAS",
+          "meaning": NaN
+        },
+        {
+          "word": "CASH",
+          "meaning": NaN
+        },
+        {
+          "word": "LASCH",
+          "meaning": NaN
+        },
+        {
+          "word": "LACHS",
+          "meaning": NaN
+        },
+        {
+          "word": "SCHAL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ACH",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "letters": [
+        "T",
+        "O",
+        "N",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "NOTE",
+          "meaning": NaN
+        },
+        {
+          "word": "NOTE",
+          "meaning": NaN
+        },
+        {
+          "word": "NETT",
+          "meaning": NaN
+        },
+        {
+          "word": "NETTO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TON",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "letters": [
+        "S",
+        "I",
+        "V",
+        "E",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "SEIL",
+          "meaning": NaN
+        },
+        {
+          "word": "VIEL",
+          "meaning": NaN
+        },
+        {
+          "word": "EIS",
+          "meaning": NaN
+        },
+        {
+          "word": "VLIES",
+          "meaning": NaN
+        },
+        {
+          "word": "LIVE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SIE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "letters": [
+        "D",
+        "Ü",
+        "E",
+        "N",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "SÜDEN",
+          "meaning": NaN
+        },
+        {
+          "word": "DÜSEN",
+          "meaning": NaN
+        },
+        {
+          "word": "SÜNDE",
+          "meaning": NaN
+        },
+        {
+          "word": "DEN",
+          "meaning": NaN
+        },
+        {
+          "word": "DÜNE",
+          "meaning": NaN
+        },
+        {
+          "word": "DÜSE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DES",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "letters": [
+        "A",
+        "U",
+        "B",
+        "E",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "TUBE",
+          "meaning": NaN
+        },
+        {
+          "word": "TAUBE",
+          "meaning": NaN
+        },
+        {
+          "word": "TAUBE",
+          "meaning": NaN
+        },
+        {
+          "word": "TABU",
+          "meaning": NaN
+        },
+        {
+          "word": "TUBA",
+          "meaning": NaN
+        },
+        {
+          "word": "ABT",
+          "meaning": NaN
+        },
+        {
+          "word": "BAU",
+          "meaning": NaN
+        },
+        {
+          "word": "TAUB",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AUE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "letters": [
+        "P",
+        "E",
+        "I",
+        "N",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "PEIN",
+          "meaning": NaN
+        },
+        {
+          "word": "PINNE",
+          "meaning": NaN
+        },
+        {
+          "word": "EIN",
+          "meaning": NaN
+        },
+        {
+          "word": "NEIN",
+          "meaning": NaN
+        },
+        {
+          "word": "NIE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PIN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "letters": [
+        "N",
+        "A",
+        "H",
+        "B",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "HABE",
+          "meaning": NaN
+        },
+        {
+          "word": "HABEN",
+          "meaning": NaN
+        },
+        {
+          "word": "AHNE",
+          "meaning": NaN
+        },
+        {
+          "word": "BAHN",
+          "meaning": NaN
+        },
+        {
+          "word": "NAH",
+          "meaning": NaN
+        },
+        {
+          "word": "HAB",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AHN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "letters": [
+        "R",
+        "D",
+        "H",
+        "Ü",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "HÜRDE",
+          "meaning": NaN
+        },
+        {
+          "word": "DER",
+          "meaning": NaN
+        },
+        {
+          "word": "DREH",
+          "meaning": NaN
+        },
+        {
+          "word": "HERD",
+          "meaning": NaN
+        },
+        {
+          "word": "RÜDE",
+          "meaning": NaN
+        },
+        {
+          "word": "HER",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "REH",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": [
+        "A",
+        "L",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ALT",
+          "meaning": NaN
+        },
+        {
+          "word": "TAL",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 2,
+      "letters": [
+        "R",
+        "H",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "OHR",
+          "meaning": NaN
+        },
+        {
+          "word": "ROH",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 3,
+      "letters": [
+        "T",
+        "R",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "ROT",
+          "meaning": NaN
+        },
+        {
+          "word": "ORT",
+          "meaning": NaN
+        },
+        {
+          "word": "TOR",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 4,
+      "letters": [
+        "U",
+        "S",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "AUS",
+          "meaning": NaN
+        },
+        {
+          "word": "MAUS",
+          "meaning": NaN
+        },
+        {
+          "word": "SAUM",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAU",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "letters": [
+        "A",
+        "L",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "LAMA",
+          "meaning": NaN
+        },
+        {
+          "word": "ALM",
+          "meaning": NaN
+        },
+        {
+          "word": "MAL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AAL",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "letters": [
+        "D",
+        "O",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "DES",
+          "meaning": NaN
+        },
+        {
+          "word": "DEO",
+          "meaning": NaN
+        },
+        {
+          "word": "ODE",
+          "meaning": NaN
+        },
+        {
+          "word": "DOSE",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 7,
+      "letters": [
+        "E",
+        "N",
+        "R",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "NEU",
+          "meaning": NaN
+        },
+        {
+          "word": "URNE",
+          "meaning": NaN
+        },
+        {
+          "word": "RUNE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "NUR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "letters": [
+        "H",
+        "A",
+        "N",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "NAH",
+          "meaning": NaN
+        },
+        {
+          "word": "NACH",
+          "meaning": NaN
+        },
+        {
+          "word": "ACH",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AHN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "letters": [
+        "N",
+        "O",
+        "F",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "NOT",
+          "meaning": NaN
+        },
+        {
+          "word": "OFT",
+          "meaning": NaN
+        },
+        {
+          "word": "TON",
+          "meaning": NaN
+        },
+        {
+          "word": "FONT",
+          "meaning": NaN
+        }
+      ],
+      "extra": []
+    },
+    {
+      "id": 10,
+      "letters": [
+        "B",
+        "I",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "BIS",
+          "meaning": NaN
+        },
+        {
+          "word": "SIEB",
+          "meaning": NaN
+        },
+        {
+          "word": "SIE",
+          "meaning": NaN
+        },
+        {
+          "word": "EIS",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BEI",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}
