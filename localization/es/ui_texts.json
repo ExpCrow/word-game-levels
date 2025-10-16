@@ -2,63 +2,63 @@
   "entries": [
     {
       "key": "settings",
-      "value": "Definições"
+      "value": "Ajustes"
     },
     {
       "key": "level_complete",
-      "value": "Completo!"
+      "value": "¡Completo!"
     },
     {
       "key": "connecting",
-      "value": "Ligar..."
+      "value": "Conectando..."
     },
     {
       "key": "loading",
-      "value": "Carregando..."
+      "value": "Cargando..."
     },
     {
       "key": "play",
-      "value": "Jogar"
+      "value": "Jugar"
     },
     {
       "key": "area",
-      "value": "Área"
+      "value": "Zona"
     },
     {
       "key": "area_progress",
-      "value": "Progresso da área"
+      "value": "Zona Progreso"
     },
     {
       "key": "no_thanks",
-      "value": "Não obrigado"
+      "value": "No, gracias"
     },
     {
       "key": "claim",
-      "value": "Reclamação"
+      "value": "Reclamación"
     },
     {
       "key": "do_it",
-      "value": "Faça-o!"
+      "value": "Hazlo"
     },
     {
       "key": "tap_to_claim",
-      "value": "Toque para reclamar"
+      "value": "Pulse para reclamar"
     },
     {
       "key": "quit",
-      "value": "Desistir"
+      "value": "Deje de"
     },
     {
       "key": "hammer_note",
-      "value": "Selecionar uma caixa para abrir as cartas"
+      "value": "Seleccione una casilla para abrir las cartas"
     },
     {
       "key": "level",
-      "value": "Nível"
+      "value": "Nivel"
     },
     {
       "key": "next",
-      "value": "Seguinte"
+      "value": "Siguiente"
     },
     {
       "key": "previous",
@@ -66,47 +66,47 @@
     },
     {
       "key": "home",
-      "value": "Início"
+      "value": "Inicio"
     },
     {
       "key": "bonus",
-      "value": "Bónus"
+      "value": "Bono"
     },
     {
       "key": "bedroom",
-      "value": "Quarto de dormir"
+      "value": "Dormitorio"
     },
     {
       "key": "bathroom",
-      "value": "Casa de banho"
+      "value": "Cuarto de baño"
     },
     {
       "key": "reading_room",
-      "value": "Sala de leitura"
+      "value": "Sala de lectura"
     },
     {
       "key": "frontyard",
-      "value": "Pátio da frente"
+      "value": "Jardín delantero"
     },
     {
       "key": "place_stairs",
-      "value": "Colocar as escadas"
+      "value": "Colocar las escaleras"
     },
     {
       "key": "boy_room",
-      "value": "Quarto de menino"
+      "value": "Habitación de niño"
     },
     {
       "key": "girl_room",
-      "value": "Quarto de menina"
+      "value": "Habitación de chica"
     },
     {
       "key": "kitchen",
-      "value": "Cozinha"
+      "value": "Cocina"
     },
     {
       "key": "laundry",
-      "value": "Lavandaria"
+      "value": "Lavandería"
     },
     {
       "key": "living_room",
@@ -114,151 +114,151 @@
     },
     {
       "key": "reading_room",
-      "value": "Sala de leitura"
+      "value": "Sala de lectura"
     },
     {
       "key": "study_room",
-      "value": "Sala de estudo"
+      "value": "Sala de estudio"
     },
     {
       "key": "lay_floor",
-      "value": "Pavimento"
+      "value": "Colocar el suelo"
     },
     {
       "key": "install_window",
-      "value": "Instalar a janela"
+      "value": "Instalar ventana"
     },
     {
       "key": "arrange_furniture",
-      "value": "Organizar o mobiliário"
+      "value": "Organizar el mobiliario"
     },
     {
       "key": "add_bathtub",
-      "value": "Adicionar banheira"
+      "value": "Añadir bañera"
     },
     {
       "key": "add_decoration",
-      "value": "Adicionar decoração"
+      "value": "Añadir decoración"
     },
     {
       "key": "place_bed",
-      "value": "Local Cama"
+      "value": "Lugar Cama"
     },
     {
       "key": "hang_paintings",
-      "value": "Pendurar quadros"
+      "value": "Colgar cuadros"
     },
     {
       "key": "place_pet_food",
-      "value": "Place Pet Food"
+      "value": "Colocar comida para mascotas"
     },
     {
       "key": "place_coffee_table",
-      "value": "Mesa de centro Place"
+      "value": "Mesa baja Place"
     },
     {
       "key": "paint_floor",
-      "value": "Piso pintado"
+      "value": "Suelo de pintura"
     },
     {
       "key": "build_stairs",
-      "value": "Construir escadas"
+      "value": "Construir escaleras"
     },
     {
       "key": "install_doors_windows",
-      "value": "Instalar portas e janelas"
+      "value": "Instalar puertas y ventanas"
     },
     {
       "key": "arrange_floor",
-      "value": "Dispor o pavimento"
+      "value": "Organizar el suelo"
     },
     {
       "key": "place_plants",
-      "value": "Colocar plantas"
+      "value": "Lugar Plantas"
     },
     {
       "key": "place_bookshelf",
-      "value": "Estante Place"
+      "value": "Estantería Place"
     },
     {
       "key": "place_toys",
-      "value": "Local Brinquedos"
+      "value": "Lugar Juguetes"
     },
     {
       "key": "arrange_books",
-      "value": "Organizar livros"
+      "value": "Ordenar los libros"
     },
     {
       "key": "scatter_clouds",
-      "value": "Dispersão de nuvens"
+      "value": "Nubes dispersas"
     },
     {
       "key": "scatter_stars",
-      "value": "Estrelas de dispersão"
+      "value": "Estrellas dispersas"
     },
     {
       "key": "build_kitchen_counter",
-      "value": "Construir balcão de cozinha"
+      "value": "Construir mostrador de cocina"
     },
     {
       "key": "place_fridge",
-      "value": "Colocar o frigorífico"
+      "value": "Lugar Frigorífico"
     },
     {
       "key": "arrange_plates",
-      "value": "Dispor os pratos"
+      "value": "Organizar los platos"
     },
     {
       "key": "place_washing_machine",
-      "value": "Local Máquina de lavar roupa"
+      "value": "Colocar lavadora"
     },
     {
       "key": "place_dryer",
-      "value": "Local Secador"
+      "value": "Lugar Secador"
     },
     {
       "key": "place_shelves",
-      "value": "Colocar prateleiras"
+      "value": "Colocar estanterías"
     },
     {
       "key": "place_coat_racks",
-      "value": "Colocar cabides"
+      "value": "Colocar percheros"
     },
     {
       "key": "place_ironing_board",
-      "value": "Colocar a tábua de engomar"
+      "value": "Colocar tabla de planchar"
     },
     {
       "key": "place_sofas",
-      "value": "Sofás Place"
+      "value": "Place Sofás"
     },
     {
       "key": "place_desk",
-      "value": "Local de trabalho"
+      "value": "Lugar Escritorio"
     },
     {
       "key": "next_area",
-      "value": "Próxima área"
+      "value": "Próxima zona"
     },
     {
       "key": "loading_ad",
-      "value": "Carregando anúncio"
+      "value": "Cargando anuncio"
     },
     {
       "key": "ad_not_ready",
-      "value": "Anúncio não pronto"
+      "value": "Anuncio no listo"
     },
     {
       "key": "mission",
-      "value": "Missão"
+      "value": "Misión"
     },
     {
       "key": "task_find_words",
-      "value": "Encontrar * palavras"
+      "value": "Buscar * palabras"
     },
     {
       "key": "task_find_extra",
-      "value": "Encontrar * palavras extra"
+      "value": "Buscar * palabras adicionales"
     },
     {
       "key": "task_reveal",
@@ -266,163 +266,179 @@
     },
     {
       "key": "task_complete",
-      "value": "Completar * níveis"
+      "value": "Completa * niveles"
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Completar * níveis sem falhas"
+      "value": "Completa * niveles impecables"
     },
     {
       "key": "task_find_correct_words_in_a_row",
-      "value": "Encontrar * palavras corretas numa fila"
+      "value": "Encuentra * palabras correctas seguidas"
     },
     {
       "key": "task_use_hint",
-      "value": "Utilizar * dicas"
+      "value": "Utilizar * sugerencias"
     },
     {
       "key": "task_complete_level_without_using_a_hint",
-      "value": "Completar * níveis sem utilizar uma pista"
+      "value": "Completa * un nivel sin usar una pista"
     },
     {
       "key": "task_earn_gold",
-      "value": "Ganhar * de ouro"
+      "value": "Gana * oro"
     },
     {
       "key": "task_spend_gold",
-      "value": "Gastar * ouro"
+      "value": "Gastar * oro"
     },
     {
       "key": "task_earn_energy",
-      "value": "Ganhar * de energia"
+      "value": "Gana * energía"
     },
     {
       "key": "task_spend_energy",
-      "value": "Gastar * de energia"
+      "value": "Gasto * energía"
     },
     {
       "key": "task_collect_keys",
-      "value": "Recolher * chaves"
+      "value": "Recoger * llaves"
     },
     {
       "key": "task_open_chest",
-      "value": "Abrir * baús"
+      "value": "Abrir * cofres"
     },
     {
       "key": "task_open_premium_chests",
-      "value": "Abrir * baús de prémio"
+      "value": "Abrir * cofres premium"
     },
     {
       "key": "task_complete_rooms",
-      "value": "Completar * quartos"
+      "value": "Habitaciones * completas"
     },
     {
       "key": "task_place_furniture_items",
-      "value": "Colocar * peças de mobiliário"
+      "value": "Colocar * muebles"
     },
     {
       "key": "task_add_decoration_objects",
-      "value": "Adicionar * objectos de decoração"
+      "value": "Añadir * objetos de decoración"
     },
     {
       "key": "task_earn_stars",
-      "value": "Ganhar * estrelas"
+      "value": "Gana * estrellas"
     },
     {
       "key": "task_log_in_for_days",
-      "value": "Iniciar sessão durante * dias"
+      "value": "Inicio de sesión durante * días"
     },
     {
       "key": "task_invite",
-      "value": "Convidar * amigos"
+      "value": "Invitar a * amigos"
     },
     {
       "key": "task_share",
-      "value": "Partilhar * resultados"
+      "value": "Compartir * resultados"
     },
     {
       "key": "task_spin_the_slot",
-      "value": "Rodar a slot * vezes"
+      "value": "Gira la tragaperras * veces"
     },
     {
       "key": "task_earn_rewards_from_the_slot",
-      "value": "Ganhar * prémios na slot"
+      "value": "Gana * premios con la tragaperras"
     },
     {
       "key": "task_throw_darts",
-      "value": "Atirar * dardos"
+      "value": "Lanzar * dardos"
     },
     {
       "key": "task_earn_rewards_from_darts",
-      "value": "Ganhar * recompensas com dardos"
+      "value": "Gana * recompensas con los dardos"
     },
     {
       "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Acertar * tiros consecutivos em dardos"
+      "value": "Acierta * tiros consecutivos en dardos"
     },
     {
       "key": "task_spin_the_wheel_times",
-      "value": "Girar a roda * vezes"
+      "value": "Gira la ruleta * veces"
     },
     {
       "key": "task_earn_rewards_from_the_wheel",
-      "value": "Ganhar * prémios da roda"
+      "value": "Gana * premios con la rueda"
     },
     {
       "key": "task_complete_mini_games",
-      "value": "Completar * minijogos"
+      "value": "Completa * minijuegos"
     },
     {
       "key": "task_spend_mini_game_tokens",
-      "value": "Gastar * fichas de minijogos"
+      "value": "Gastar * fichas de minijuego"
     },
     {
       "key": "task_earn_rewards_from_mini_games",
-      "value": "Ganhe * recompensas de mini-jogos"
+      "value": "Gana * recompensas con los minijuegos"
     },
     {
       "key": "task_claim_daily_reward_times",
-      "value": "Pedir recompensa diária * vezes"
+      "value": "Reclamar la recompensa diaria * veces"
     },
     {
       "key": "task_claim_weekly_reward_times",
-      "value": "Pedir recompensa semanal * vezes"
+      "value": "Reclamar la recompensa semanal * veces"
     },
     {
       "key": "task_claim_hourly_reward_times",
-      "value": "Reivindicar a recompensa horária * vezes"
+      "value": "Reclamar recompensa horaria * veces"
     },
     {
       "key": "task_open_different_types_of_chests",
-      "value": "Abra * tipos diferentes de baús"
+      "value": "Abrir * diferentes tipos de cofres"
     },
     {
       "key": "task_play_different_mini_games",
-      "value": "Joga * mini-jogos diferentes"
+      "value": "Juega a * minijuegos diferentes"
     },
     {
       "key": "task_complete_task",
-      "value": "Completar * tarefas"
+      "value": "Completar * tareas"
     },
     {
       "key": "task_spend_stars",
-      "value": "Gastar * estrelas nos quartos"
+      "value": "Gastar * estrellas para las habitaciones"
     },
     {
       "key": "throw",
-      "value": "Atirar"
+      "value": "Lanzar"
     },
     {
       "key": "congratulations",
-      "value": "Parabéns!"
+      "value": "¡Felicidades!"
     },
     {
       "key": "spin",
-      "value": "Giro"
+      "value": "Gira"
     },
     {
       "key": "drop",
-      "value": "Gota"
+      "value": "Drop"
+    },
+    {
+      "key": "day",
+      "value": "Día"
+    },
+    {
+      "key": "hour",
+      "value": "Hora"
+    },
+    {
+      "key": "minute",
+      "value": "Minuto"
+    },
+    {
+      "key": "second",
+      "value": "Segundo"
     }
   ]
 }

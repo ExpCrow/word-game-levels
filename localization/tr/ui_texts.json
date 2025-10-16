@@ -423,6 +423,22 @@
     {
       "key": "drop",
       "value": "Bırak"
+    },
+    {
+      "key": "day",
+      "value": "Gün"
+    },
+    {
+      "key": "hour",
+      "value": "Saat"
+    },
+    {
+      "key": "minute",
+      "value": "Dakika"
+    },
+    {
+      "key": "second",
+      "value": "Saniye"
     }
   ]
 }

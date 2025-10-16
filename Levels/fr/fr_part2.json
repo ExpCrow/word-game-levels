@@ -1,0 +1,362 @@
+{
+  "levels": [
+    {
+      "id": 11,
+      "letters": [
+        "N",
+        "I",
+        "A",
+        "F"
+      ],
+      "answers": [
+        {
+          "word": "FINA",
+          "meaning": NaN
+        },
+        {
+          "word": "AFIN",
+          "meaning": NaN
+        },
+        {
+          "word": "FIN",
+          "meaning": NaN
+        },
+        {
+          "word": "FAN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "FIA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "letters": [
+        "L",
+        "C",
+        "O",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "COL",
+          "meaning": NaN
+        },
+        {
+          "word": "CELO",
+          "meaning": NaN
+        },
+        {
+          "word": "LEO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ECO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "letters": [
+        "S",
+        "Q",
+        "U",
+        "E",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "QUE",
+          "meaning": NaN
+        },
+        {
+          "word": "USO",
+          "meaning": NaN
+        },
+        {
+          "word": "QUESO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ESO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "letters": [
+        "A",
+        "E",
+        "M",
+        "R",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "MADRE",
+          "meaning": NaN
+        },
+        {
+          "word": "RED",
+          "meaning": NaN
+        },
+        {
+          "word": "DAR",
+          "meaning": NaN
+        },
+        {
+          "word": "MAR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "REA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "letters": [
+        "S",
+        "A",
+        "L",
+        "I",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "LISA",
+          "meaning": NaN
+        },
+        {
+          "word": "SILLA",
+          "meaning": NaN
+        },
+        {
+          "word": "SAL",
+          "meaning": NaN
+        },
+        {
+          "word": "ISLA",
+          "meaning": NaN
+        },
+        {
+          "word": "LAS",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ASI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "letters": [
+        "S",
+        "O",
+        "L",
+        "P",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "SOLO",
+          "meaning": NaN
+        },
+        {
+          "word": "SOPLO",
+          "meaning": NaN
+        },
+        {
+          "word": "POSO",
+          "meaning": NaN
+        },
+        {
+          "word": "POLO",
+          "meaning": NaN
+        },
+        {
+          "word": "SOL",
+          "meaning": NaN
+        },
+        {
+          "word": "LOS",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "OSO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "letters": [
+        "T",
+        "I",
+        "A",
+        "N",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "TITAN",
+          "meaning": NaN
+        },
+        {
+          "word": "TINA",
+          "meaning": NaN
+        },
+        {
+          "word": "TINTA",
+          "meaning": NaN
+        },
+        {
+          "word": "TIA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TAN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "letters": [
+        "M",
+        "O",
+        "I",
+        "A",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "AMIGO",
+          "meaning": NaN
+        },
+        {
+          "word": "AMO",
+          "meaning": NaN
+        },
+        {
+          "word": "MIA",
+          "meaning": NaN
+        },
+        {
+          "word": "MIGA",
+          "meaning": NaN
+        },
+        {
+          "word": "GOMA",
+          "meaning": NaN
+        },
+        {
+          "word": "MAGO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MIO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "letters": [
+        "P",
+        "R",
+        "V",
+        "A",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "VAPOR",
+          "meaning": NaN
+        },
+        {
+          "word": "PAVO",
+          "meaning": NaN
+        },
+        {
+          "word": "PARO",
+          "meaning": NaN
+        },
+        {
+          "word": "ROPA",
+          "meaning": NaN
+        },
+        {
+          "word": "ARO",
+          "meaning": NaN
+        },
+        {
+          "word": "PAR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "POR",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "letters": [
+        "A",
+        "J",
+        "M",
+        "O",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "RAMO",
+          "meaning": NaN
+        },
+        {
+          "word": "MORA",
+          "meaning": NaN
+        },
+        {
+          "word": "AMOR",
+          "meaning": NaN
+        },
+        {
+          "word": "MOJAT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AJO",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

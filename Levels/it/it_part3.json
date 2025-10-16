@@ -1,0 +1,368 @@
+{
+  "levels": [
+    {
+      "id": 21,
+      "letters": [
+        "D",
+        "A",
+        "I",
+        "O",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "ARIDO",
+          "meaning": NaN
+        },
+        {
+          "word": "RIDO",
+          "meaning": NaN
+        },
+        {
+          "word": "RADIO",
+          "meaning": NaN
+        },
+        {
+          "word": "ORDA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DIO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "letters": [
+        "A",
+        "O",
+        "I",
+        "B",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "BACO",
+          "meaning": NaN
+        },
+        {
+          "word": "BACIO",
+          "meaning": NaN
+        },
+        {
+          "word": "BACI",
+          "meaning": NaN
+        },
+        {
+          "word": "CIBO",
+          "meaning": NaN
+        },
+        {
+          "word": "CIAO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BIO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "letters": [
+        "O",
+        "R",
+        "S",
+        "E",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "TESO",
+          "meaning": NaN
+        },
+        {
+          "word": "RESO",
+          "meaning": NaN
+        },
+        {
+          "word": "SORTE",
+          "meaning": NaN
+        },
+        {
+          "word": "RESTO",
+          "meaning": NaN
+        },
+        {
+          "word": "ROSE",
+          "meaning": NaN
+        },
+        {
+          "word": "OSTE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TRE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "letters": [
+        "A",
+        "G",
+        "D",
+        "U",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "DIGA",
+          "meaning": NaN
+        },
+        {
+          "word": "GUAI",
+          "meaning": NaN
+        },
+        {
+          "word": "GUIDA",
+          "meaning": NaN
+        },
+        {
+          "word": "DAI",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "GIU",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "letters": [
+        "S",
+        "S",
+        "A",
+        "E",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "SETA",
+          "meaning": NaN
+        },
+        {
+          "word": "ESSA",
+          "meaning": NaN
+        },
+        {
+          "word": "ASSE",
+          "meaning": NaN
+        },
+        {
+          "word": "TESA",
+          "meaning": NaN
+        },
+        {
+          "word": "SESTA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ETA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "letters": [
+        "D",
+        "E",
+        "L",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "DALLE",
+          "meaning": NaN
+        },
+        {
+          "word": "DELLA",
+          "meaning": NaN
+        },
+        {
+          "word": "ELLA",
+          "meaning": NaN
+        },
+        {
+          "word": "DEL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DAL",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "letters": [
+        "C",
+        "O",
+        "C",
+        "I",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ECO",
+          "meaning": NaN
+        },
+        {
+          "word": "CECO",
+          "meaning": NaN
+        },
+        {
+          "word": "ECCO",
+          "meaning": NaN
+        },
+        {
+          "word": "CIECO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "CIOE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "R",
+        "U",
+        "A",
+        "B",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "RUBA",
+          "meaning": NaN
+        },
+        {
+          "word": "BAU",
+          "meaning": NaN
+        },
+        {
+          "word": "BAR",
+          "meaning": NaN
+        },
+        {
+          "word": "URNA",
+          "meaning": NaN
+        },
+        {
+          "word": "BRUNA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "UNA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "letters": [
+        "P",
+        "A",
+        "C",
+        "O",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "CAPO",
+          "meaning": NaN
+        },
+        {
+          "word": "PALCO",
+          "meaning": NaN
+        },
+        {
+          "word": "CALO",
+          "meaning": NaN
+        },
+        {
+          "word": "COLPA",
+          "meaning": NaN
+        },
+        {
+          "word": "PALO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "COL",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "A",
+        "O",
+        "N",
+        "I",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "PAIO",
+          "meaning": NaN
+        },
+        {
+          "word": "PIANO",
+          "meaning": NaN
+        },
+        {
+          "word": "NOIA",
+          "meaning": NaN
+        },
+        {
+          "word": "PINO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "POI",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

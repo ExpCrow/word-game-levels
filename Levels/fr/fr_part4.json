@@ -1,0 +1,392 @@
+{
+  "levels": [
+    {
+      "id": 31,
+      "letters": [
+        "P",
+        "A",
+        "N",
+        "D",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "PANDA",
+          "meaning": NaN
+        },
+        {
+          "word": "DAN",
+          "meaning": NaN
+        },
+        {
+          "word": "NADA",
+          "meaning": NaN
+        },
+        {
+          "word": "ANDA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PAN",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "letters": [
+        "R",
+        "E",
+        "T",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "ENTRE",
+          "meaning": NaN
+        },
+        {
+          "word": "TENER",
+          "meaning": NaN
+        },
+        {
+          "word": "TREN",
+          "meaning": NaN
+        },
+        {
+          "word": "RETEN",
+          "meaning": NaN
+        },
+        {
+          "word": "TEN",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ENTE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "letters": [
+        "N",
+        "E",
+        "M",
+        "O",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "REMO",
+          "meaning": NaN
+        },
+        {
+          "word": "MERO",
+          "meaning": NaN
+        },
+        {
+          "word": "RENO",
+          "meaning": NaN
+        },
+        {
+          "word": "MENOR",
+          "meaning": NaN
+        },
+        {
+          "word": "REO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RON",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "letters": [
+        "O",
+        "S",
+        "T",
+        "E",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ESTE",
+          "meaning": NaN
+        },
+        {
+          "word": "ESE",
+          "meaning": NaN
+        },
+        {
+          "word": "OESTE",
+          "meaning": NaN
+        },
+        {
+          "word": "ESTO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TOS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "letters": [
+        "A",
+        "P",
+        "L",
+        "M",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "MAL",
+          "meaning": NaN
+        },
+        {
+          "word": "LUPA",
+          "meaning": NaN
+        },
+        {
+          "word": "MULA",
+          "meaning": NaN
+        },
+        {
+          "word": "PLUMA",
+          "meaning": NaN
+        },
+        {
+          "word": "PUMA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PUA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "letters": [
+        "R",
+        "A",
+        "L",
+        "I",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "GIRA",
+          "meaning": NaN
+        },
+        {
+          "word": "LIGAR",
+          "meaning": NaN
+        },
+        {
+          "word": "IRA",
+          "meaning": NaN
+        },
+        {
+          "word": "AGIL",
+          "meaning": NaN
+        },
+        {
+          "word": "LIGA",
+          "meaning": NaN
+        },
+        {
+          "word": "LIRA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RIA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "letters": [
+        "O",
+        "R",
+        "O",
+        "C",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "COLOR",
+          "meaning": NaN
+        },
+        {
+          "word": "CORO",
+          "meaning": NaN
+        },
+        {
+          "word": "CLORO",
+          "meaning": NaN
+        },
+        {
+          "word": "LOCO",
+          "meaning": NaN
+        },
+        {
+          "word": "OLOR",
+          "meaning": NaN
+        },
+        {
+          "word": "ROL",
+          "meaning": NaN
+        },
+        {
+          "word": "LORO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "COL",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "letters": [
+        "E",
+        "S",
+        "U",
+        "M",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "SUMO",
+          "meaning": NaN
+        },
+        {
+          "word": "MUSEO",
+          "meaning": NaN
+        },
+        {
+          "word": "MES",
+          "meaning": NaN
+        },
+        {
+          "word": "USO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ESO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "letters": [
+        "C",
+        "O",
+        "D",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "DOCE",
+          "meaning": NaN
+        },
+        {
+          "word": "ONCE",
+          "meaning": NaN
+        },
+        {
+          "word": "CONDE",
+          "meaning": NaN
+        },
+        {
+          "word": "CEDO",
+          "meaning": NaN
+        },
+        {
+          "word": "CON",
+          "meaning": NaN
+        },
+        {
+          "word": "DON",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ECO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "letters": [
+        "S",
+        "L",
+        "E",
+        "A",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "PESA",
+          "meaning": NaN
+        },
+        {
+          "word": "PASE",
+          "meaning": NaN
+        },
+        {
+          "word": "ESA",
+          "meaning": NaN
+        },
+        {
+          "word": "ALPES",
+          "meaning": NaN
+        },
+        {
+          "word": "LAS",
+          "meaning": NaN
+        },
+        {
+          "word": "PELA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAL",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

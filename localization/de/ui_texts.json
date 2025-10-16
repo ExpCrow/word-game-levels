@@ -423,6 +423,22 @@
     {
       "key": "drop",
       "value": "Ablegen"
+    },
+    {
+      "key": "day",
+      "value": "Tag"
+    },
+    {
+      "key": "hour",
+      "value": "Stunde"
+    },
+    {
+      "key": "minute",
+      "value": "Minute"
+    },
+    {
+      "key": "second",
+      "value": "Zweite"
     }
   ]
 }

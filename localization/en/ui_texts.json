@@ -423,6 +423,22 @@
     {
       "key": "drop",
       "value": "Drop"
+    },
+    {
+      "key": "day",
+      "value": "Day"
+    },
+    {
+      "key": "hour",
+      "value": "Hour"
+    },
+    {
+      "key": "minute",
+      "value": "Minute"
+    },
+    {
+      "key": "second",
+      "value": "Second"
     }
   ]
 }

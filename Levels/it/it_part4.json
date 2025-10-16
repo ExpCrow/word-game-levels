@@ -1,0 +1,384 @@
+{
+  "levels": [
+    {
+      "id": 31,
+      "letters": [
+        "T",
+        "E",
+        "O",
+        "N",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "NOME",
+          "meaning": NaN
+        },
+        {
+          "word": "MONTE",
+          "meaning": NaN
+        },
+        {
+          "word": "NEO",
+          "meaning": NaN
+        },
+        {
+          "word": "MENTO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MENO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "letters": [
+        "R",
+        "E",
+        "O",
+        "M",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "MURO",
+          "meaning": NaN
+        },
+        {
+          "word": "REMO",
+          "meaning": NaN
+        },
+        {
+          "word": "EURO",
+          "meaning": NaN
+        },
+        {
+          "word": "UMORE",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ERO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "letters": [
+        "C",
+        "A",
+        "R",
+        "O",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "RARO",
+          "meaning": NaN
+        },
+        {
+          "word": "CARO",
+          "meaning": NaN
+        },
+        {
+          "word": "CARRO",
+          "meaning": NaN
+        },
+        {
+          "word": "ARCO",
+          "meaning": NaN
+        },
+        {
+          "word": "ORCA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "OCA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "letters": [
+        "P",
+        "C",
+        "E",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "PESCA",
+          "meaning": NaN
+        },
+        {
+          "word": "ESCA",
+          "meaning": NaN
+        },
+        {
+          "word": "PACE",
+          "meaning": NaN
+        },
+        {
+          "word": "PESA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "APE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "letters": [
+        "E",
+        "A",
+        "N",
+        "C",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "CARNE",
+          "meaning": NaN
+        },
+        {
+          "word": "ACNE",
+          "meaning": NaN
+        },
+        {
+          "word": "CANE",
+          "meaning": NaN
+        },
+        {
+          "word": "CERA",
+          "meaning": NaN
+        },
+        {
+          "word": "CENA",
+          "meaning": NaN
+        },
+        {
+          "word": "NERA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ERA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "letters": [
+        "Z",
+        "M",
+        "O",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "MORA",
+          "meaning": NaN
+        },
+        {
+          "word": "RAMO",
+          "meaning": NaN
+        },
+        {
+          "word": "MARZO",
+          "meaning": NaN
+        },
+        {
+          "word": "ROMA",
+          "meaning": NaN
+        },
+        {
+          "word": "AMO",
+          "meaning": NaN
+        },
+        {
+          "word": "ORMA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ORA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "letters": [
+        "T",
+        "O",
+        "N",
+        "R",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "TORNO",
+          "meaning": NaN
+        },
+        {
+          "word": "TORO",
+          "meaning": NaN
+        },
+        {
+          "word": "NOTO",
+          "meaning": NaN
+        },
+        {
+          "word": "TRONO",
+          "meaning": NaN
+        },
+        {
+          "word": "ORTO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ORO",
+          "meaning": NaN
+        },
+        {
+          "word": "TONO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "letters": [
+        "T",
+        "A",
+        "M",
+        "S",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "MIA",
+          "meaning": NaN
+        },
+        {
+          "word": "MAIS",
+          "meaning": NaN
+        },
+        {
+          "word": "ASTI",
+          "meaning": NaN
+        },
+        {
+          "word": "STIMA",
+          "meaning": NaN
+        },
+        {
+          "word": "STAI",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "MAI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "letters": [
+        "N",
+        "I",
+        "O",
+        "C",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "NOI",
+          "meaning": NaN
+        },
+        {
+          "word": "CIGNO",
+          "meaning": NaN
+        },
+        {
+          "word": "NOCI",
+          "meaning": NaN
+        },
+        {
+          "word": "CON",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "OGNI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "letters": [
+        "O",
+        "U",
+        "T",
+        "A",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "TUA",
+          "meaning": NaN
+        },
+        {
+          "word": "AUTO",
+          "meaning": NaN
+        },
+        {
+          "word": "UOVA",
+          "meaning": NaN
+        },
+        {
+          "word": "AVUTO",
+          "meaning": NaN
+        },
+        {
+          "word": "VUOTA",
+          "meaning": NaN
+        },
+        {
+          "word": "UVA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TUO",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}

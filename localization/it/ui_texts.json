@@ -2,71 +2,71 @@
   "entries": [
     {
       "key": "settings",
-      "value": "Ustawienia"
+      "value": "Impostazioni"
     },
     {
       "key": "level_complete",
-      "value": "Kompletny!"
+      "value": "Completo!"
     },
     {
       "key": "connecting",
-      "value": "Łączenie..."
+      "value": "Collegamento..."
     },
     {
       "key": "loading",
-      "value": "Ładowanie..."
+      "value": "Caricamento..."
     },
     {
       "key": "play",
-      "value": "Grać"
+      "value": "Gioco"
     },
     {
       "key": "area",
-      "value": "Obszar"
+      "value": "Area"
     },
     {
       "key": "area_progress",
-      "value": "Postęp w obszarze"
+      "value": "Progressi dell'area"
     },
     {
       "key": "no_thanks",
-      "value": "Nie, dzięki"
+      "value": "No Grazie"
     },
     {
       "key": "claim",
-      "value": "Roszczenie"
+      "value": "Rivendicazione"
     },
     {
       "key": "do_it",
-      "value": "Zrób to!"
+      "value": "Fallo!"
     },
     {
       "key": "tap_to_claim",
-      "value": "Dotknij, aby zgłosić roszczenie"
+      "value": "Toccare per reclamare"
     },
     {
       "key": "quit",
-      "value": "Odejdź"
+      "value": "Abbandonare"
     },
     {
       "key": "hammer_note",
-      "value": "Wybierz pole, aby otworzyć listy"
+      "value": "Selezionare una casella per aprire le lettere"
     },
     {
       "key": "level",
-      "value": "Poziom"
+      "value": "Livello"
     },
     {
       "key": "next",
-      "value": "Następny"
+      "value": "Avanti"
     },
     {
       "key": "previous",
-      "value": "Poprzedni"
+      "value": "Precedente"
     },
     {
       "key": "home",
-      "value": "Strona główna"
+      "value": "Casa"
     },
     {
       "key": "bonus",
@@ -74,355 +74,371 @@
     },
     {
       "key": "bedroom",
-      "value": "Sypialnia"
+      "value": "Camera da letto"
     },
     {
       "key": "bathroom",
-      "value": "Łazienka"
+      "value": "Bagno"
     },
     {
       "key": "reading_room",
-      "value": "Czytelnia"
+      "value": "Sala di lettura"
     },
     {
       "key": "frontyard",
-      "value": "Front Yard"
+      "value": "Cortile anteriore"
     },
     {
       "key": "place_stairs",
-      "value": "Umieść schody"
+      "value": "Posizionare le scale"
     },
     {
       "key": "boy_room",
-      "value": "Pokój chłopca"
+      "value": "Camera dei ragazzi"
     },
     {
       "key": "girl_room",
-      "value": "Pokój dziewczynki"
+      "value": "Camera delle ragazze"
     },
     {
       "key": "kitchen",
-      "value": "Kuchnia"
+      "value": "Cucina"
     },
     {
       "key": "laundry",
-      "value": "Pranie"
+      "value": "Lavanderia"
     },
     {
       "key": "living_room",
-      "value": "Pokój dzienny"
+      "value": "Soggiorno"
     },
     {
       "key": "reading_room",
-      "value": "Czytelnia"
+      "value": "Sala di lettura"
     },
     {
       "key": "study_room",
-      "value": "Pokój do nauki"
+      "value": "Sala studio"
     },
     {
       "key": "lay_floor",
-      "value": "Lay Floor"
+      "value": "Posa del pavimento"
     },
     {
       "key": "install_window",
-      "value": "Instalacja okna"
+      "value": "Installare la finestra"
     },
     {
       "key": "arrange_furniture",
-      "value": "Rozmieść meble"
+      "value": "Disporre i mobili"
     },
     {
       "key": "add_bathtub",
-      "value": "Dodaj wannę"
+      "value": "Aggiungere una vasca da bagno"
     },
     {
       "key": "add_decoration",
-      "value": "Dodaj dekorację"
+      "value": "Aggiungi decorazione"
     },
     {
       "key": "place_bed",
-      "value": "Miejsce Łóżko"
+      "value": "Posto letto"
     },
     {
       "key": "hang_paintings",
-      "value": "Wieszanie obrazów"
+      "value": "Appendere i dipinti"
     },
     {
       "key": "place_pet_food",
-      "value": "Umieść karmę dla zwierząt"
+      "value": "Posizionare il cibo per animali domestici"
     },
     {
       "key": "place_coffee_table",
-      "value": "Stolik kawowy Place"
+      "value": "Tavolino Place"
     },
     {
       "key": "paint_floor",
-      "value": "Farba podłogowa"
+      "value": "Pavimento in vernice"
     },
     {
       "key": "build_stairs",
-      "value": "Budowa schodów"
+      "value": "Costruire scale"
     },
     {
       "key": "install_doors_windows",
-      "value": "Montaż drzwi i okien"
+      "value": "Installare porte e finestre"
     },
     {
       "key": "arrange_floor",
-      "value": "Ułóż podłogę"
+      "value": "Disporre il pavimento"
     },
     {
       "key": "place_plants",
-      "value": "Miejsce Rośliny"
+      "value": "Luogo Piante"
     },
     {
       "key": "place_bookshelf",
-      "value": "Miejsce Półka na książki"
+      "value": "Libreria Place"
     },
     {
       "key": "place_toys",
-      "value": "Miejsce Zabawki"
+      "value": "Posto Giocattoli"
     },
     {
       "key": "arrange_books",
-      "value": "Układanie książek"
+      "value": "Disporre i libri"
     },
     {
       "key": "scatter_clouds",
-      "value": "Rozproszone chmury"
+      "value": "Nuvole sparse"
     },
     {
       "key": "scatter_stars",
-      "value": "Gwiazdy rozproszone"
+      "value": "Stelle sparse"
     },
     {
       "key": "build_kitchen_counter",
-      "value": "Budowa blatu kuchennego"
+      "value": "Costruire il bancone della cucina"
     },
     {
       "key": "place_fridge",
-      "value": "Miejsce Lodówka"
+      "value": "Posto Frigo"
     },
     {
       "key": "arrange_plates",
-      "value": "Układanie płyt"
+      "value": "Disporre i piatti"
     },
     {
       "key": "place_washing_machine",
-      "value": "Miejsce Pralka"
+      "value": "Posizionare la lavatrice"
     },
     {
       "key": "place_dryer",
-      "value": "Miejsce Suszarka"
+      "value": "Luogo Asciugatrice"
     },
     {
       "key": "place_shelves",
-      "value": "Umieść półki"
+      "value": "Posizionare gli scaffali"
     },
     {
       "key": "place_coat_racks",
-      "value": "Umieść wieszaki na ubrania"
+      "value": "Posizionare gli appendiabiti"
     },
     {
       "key": "place_ironing_board",
-      "value": "Miejsce na deskę do prasowania"
+      "value": "Posizionare l'asse da stiro"
     },
     {
       "key": "place_sofas",
-      "value": "Sofy Place"
+      "value": "Divani Place"
     },
     {
       "key": "place_desk",
-      "value": "Miejsce Biurko"
+      "value": "Posto Scrivania"
     },
     {
       "key": "next_area",
-      "value": "Następny obszar"
+      "value": "Area successiva"
     },
     {
       "key": "loading_ad",
-      "value": "Ładowanie reklamy"
+      "value": "Caricamento annuncio"
     },
     {
       "key": "ad_not_ready",
-      "value": "Reklama nie jest gotowa"
+      "value": "Annuncio non pronto"
     },
     {
       "key": "mission",
-      "value": "Misja"
+      "value": "Missione"
     },
     {
       "key": "task_find_words",
-      "value": "Znajdź * słów"
+      "value": "Trova * parole"
     },
     {
       "key": "task_find_extra",
-      "value": "Znajdź * dodatkowych słów"
+      "value": "Trova * parole extra"
     },
     {
       "key": "task_reveal",
-      "value": "Ujawnij * liter"
+      "value": "Rivela * lettere"
     },
     {
       "key": "task_complete",
-      "value": "Ukończ * poziomów"
+      "value": "Completare * livelli"
     },
     {
       "key": "task_complete_flawless_levels",
-      "value": "Ukończ * bezbłędnych poziomów"
+      "value": "Completa * livelli impeccabili"
     },
     {
       "key": "task_find_correct_words_in_a_row",
-      "value": "Znajdź * poprawnych słów w rzędzie"
+      "value": "Trova * parole corrette in fila"
     },
     {
       "key": "task_use_hint",
-      "value": "Użyj * wskazówek"
+      "value": "Utilizzare * suggerimenti"
     },
     {
       "key": "task_complete_level_without_using_a_hint",
-      "value": "Ukończ * poziomów bez korzystania z podpowiedzi"
+      "value": "Completate * il livello senza usare un suggerimento"
     },
     {
       "key": "task_earn_gold",
-      "value": "Zdobądź * sztuk złota"
+      "value": "Guadagnare * oro"
     },
     {
       "key": "task_spend_gold",
-      "value": "Wydaj * sztuk złota"
+      "value": "Spendere * oro"
     },
     {
       "key": "task_earn_energy",
-      "value": "Zdobądź * energii"
+      "value": "Guadagnare * energia"
     },
     {
       "key": "task_spend_energy",
-      "value": "Wydać * energii"
+      "value": "Spesa * energia"
     },
     {
       "key": "task_collect_keys",
-      "value": "Zbierz * kluczy"
+      "value": "Raccogliere * chiavi"
     },
     {
       "key": "task_open_chest",
-      "value": "Otwórz * skrzyń"
+      "value": "Aprire * forzieri"
     },
     {
       "key": "task_open_premium_chests",
-      "value": "Otwórz * skrzyń premium"
+      "value": "Forzieri aperti * premium"
     },
     {
       "key": "task_complete_rooms",
-      "value": "Ukończono * pokoi"
+      "value": "Camere complete *"
     },
     {
       "key": "task_place_furniture_items",
-      "value": "Umieść * mebli"
+      "value": "Posizionare * elementi di arredo"
     },
     {
       "key": "task_add_decoration_objects",
-      "value": "Dodaj * obiektów dekoracyjnych"
+      "value": "Aggiungere * oggetti di decorazione"
     },
     {
       "key": "task_earn_stars",
-      "value": "Zdobądź * gwiazdek"
+      "value": "Guadagnare * stelle"
     },
     {
       "key": "task_log_in_for_days",
-      "value": "Zaloguj się na * dni"
+      "value": "Accesso per * giorni"
     },
     {
       "key": "task_invite",
-      "value": "Zaproś * znajomych"
+      "value": "Invitare * amici"
     },
     {
       "key": "task_share",
-      "value": "Udostępnij * wyników"
+      "value": "Condividi * punteggi"
     },
     {
       "key": "task_spin_the_slot",
-      "value": "Zakręć slotem * razy"
+      "value": "Far girare la slot * volte"
     },
     {
       "key": "task_earn_rewards_from_the_slot",
-      "value": "Zdobądź * nagród z automatu"
+      "value": "Guadagnare * premi dalla slot"
     },
     {
       "key": "task_throw_darts",
-      "value": "Rzut * rzutkami"
+      "value": "Lancia * freccette"
     },
     {
       "key": "task_earn_rewards_from_darts",
-      "value": "Zdobądź * nagród za rzutki"
+      "value": "Guadagnare * premi con le freccette"
     },
     {
       "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Trafienie * kolejnych strzałów w rzutki"
+      "value": "Colpire * colpi consecutivi a freccette"
     },
     {
       "key": "task_spin_the_wheel_times",
-      "value": "Zakręć kołem * razy"
+      "value": "Gira la ruota * volte"
     },
     {
       "key": "task_earn_rewards_from_the_wheel",
-      "value": "Zdobądź * nagród z koła"
+      "value": "Guadagnare * premi dalla ruota"
     },
     {
       "key": "task_complete_mini_games",
-      "value": "Ukończ * minigier"
+      "value": "Completare * mini giochi"
     },
     {
       "key": "task_spend_mini_game_tokens",
-      "value": "Wydaj * żetonów minigry"
+      "value": "Spendere * gettoni del mini gioco"
     },
     {
       "key": "task_earn_rewards_from_mini_games",
-      "value": "Zdobądź * nagród w minigrach"
+      "value": "Guadagnare * premi dai mini giochi"
     },
     {
       "key": "task_claim_daily_reward_times",
-      "value": "Odbierz nagrodę dzienną * razy"
+      "value": "Richiedere il premio giornaliero * volte"
     },
     {
       "key": "task_claim_weekly_reward_times",
-      "value": "Odbierz nagrodę tygodniową * razy"
+      "value": "Richiedere il premio settimanale * volte"
     },
     {
       "key": "task_claim_hourly_reward_times",
-      "value": "Odbierz nagrodę godzinową * razy"
+      "value": "Richiedere la ricompensa oraria * volte"
     },
     {
       "key": "task_open_different_types_of_chests",
-      "value": "Otwórz * różnych rodzajów skrzyń"
+      "value": "Aprire * diversi tipi di forzieri"
     },
     {
       "key": "task_play_different_mini_games",
-      "value": "Zagraj w * różnych minigier"
+      "value": "Gioca a * diversi mini giochi"
     },
     {
       "key": "task_complete_task",
-      "value": "Ukończ * zadań"
+      "value": "Completare i * compiti"
     },
     {
       "key": "task_spend_stars",
-      "value": "Wydać * gwiazdek na pokoje"
+      "value": "Spendere * stelle per le camere"
     },
     {
       "key": "throw",
-      "value": "Rzut"
+      "value": "Lancio"
     },
     {
       "key": "congratulations",
-      "value": "Gratulacje!"
+      "value": "Congratulazioni!"
     },
     {
       "key": "spin",
-      "value": "Spin"
+      "value": "Girare"
     },
     {
       "key": "drop",
-      "value": "Spadek"
+      "value": "Goccia"
+    },
+    {
+      "key": "day",
+      "value": "Giorno"
+    },
+    {
+      "key": "hour",
+      "value": "Ora"
+    },
+    {
+      "key": "minute",
+      "value": "Minuto"
+    },
+    {
+      "key": "second",
+      "value": "Secondo"
     }
   ]
 }

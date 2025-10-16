@@ -3,17 +3,17 @@
     {
       "id": 1,
       "letters": [
-        "D",
+        "I",
         "A",
-        "I"
+        "V"
       ],
       "answers": [
         {
-          "word": "IAD",
+          "word": "VAI",
           "meaning": NaN
         },
         {
-          "word": "IDA",
+          "word": "VIA",
           "meaning": NaN
         }
       ],
@@ -22,17 +22,17 @@
     {
       "id": 2,
       "letters": [
-        "R",
-        "O",
-        "I"
+        "E",
+        "T",
+        "S"
       ],
       "answers": [
         {
-          "word": "OIR",
+          "word": "EST",
           "meaning": NaN
         },
         {
-          "word": "RIO",
+          "word": "SET",
           "meaning": NaN
         }
       ],
@@ -41,17 +41,17 @@
     {
       "id": 3,
       "letters": [
-        "A",
-        "U",
-        "N"
+        "B",
+        "S",
+        "U"
       ],
       "answers": [
         {
-          "word": "AUN",
+          "word": "BUS",
           "meaning": NaN
         },
         {
-          "word": "UNA",
+          "word": "SUB",
           "meaning": NaN
         }
       ],
@@ -60,22 +60,22 @@
     {
       "id": 4,
       "letters": [
-        "O",
-        "O",
-        "R",
-        "J"
+        "E",
+        "N",
+        "A",
+        "P"
       ],
       "answers": [
         {
-          "word": "ORO",
+          "word": "PENA",
           "meaning": NaN
         },
         {
-          "word": "ROJO",
+          "word": "PANE",
           "meaning": NaN
         },
         {
-          "word": "OJO",
+          "word": "APE",
           "meaning": NaN
         }
       ],
@@ -84,24 +84,28 @@
     {
       "id": 5,
       "letters": [
-        "A",
-        "C",
-        "L",
+        "E",
+        "O",
+        "R",
         "N"
       ],
       "answers": [
         {
-          "word": "CAN",
+          "word": "NERO",
           "meaning": NaN
         },
         {
-          "word": "CLAN",
+          "word": "ERO",
+          "meaning": NaN
+        },
+        {
+          "word": "NEO",
           "meaning": NaN
         }
       ],
       "extra": [
         {
-          "word": "CAL",
+          "word": "REO",
           "meaning": NaN
         }
       ]
@@ -109,96 +113,9 @@
     {
       "id": 6,
       "letters": [
-        "E",
-        "A",
-        "S",
-        "M"
-      ],
-      "answers": [
-        {
-          "word": "ESA",
-          "meaning": NaN
-        },
-        {
-          "word": "MAS",
-          "meaning": NaN
-        },
-        {
-          "word": "MESA",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "MES",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "letters": [
         "O",
-        "A",
-        "C",
-        "B"
-      ],
-      "answers": [
-        {
-          "word": "CABO",
-          "meaning": NaN
-        },
-        {
-          "word": "BOCA",
-          "meaning": NaN
-        },
-        {
-          "word": "BOA",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "OCA",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "letters": [
-        "D",
-        "U",
-        "N",
-        "O"
-      ],
-      "answers": [
-        {
-          "word": "UNO",
-          "meaning": NaN
-        },
-        {
-          "word": "DUO",
-          "meaning": NaN
-        },
-        {
-          "word": "NUDO",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "DON",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "letters": [
         "G",
         "L",
-        "O",
         "A"
       ],
       "answers": [
@@ -207,17 +124,108 @@
           "meaning": NaN
         },
         {
-          "word": "LAGO",
+          "word": "GOLA",
           "meaning": NaN
         },
         {
-          "word": "ALGO",
+          "word": "LAGO",
           "meaning": NaN
         }
       ],
       "extra": [
         {
-          "word": "OLA",
+          "word": "AGO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "letters": [
+        "S",
+        "A",
+        "C",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "OCA",
+          "meaning": NaN
+        },
+        {
+          "word": "CAOS",
+          "meaning": NaN
+        },
+        {
+          "word": "COSA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "CASO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "letters": [
+        "E",
+        "A",
+        "R",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "ERA",
+          "meaning": NaN
+        },
+        {
+          "word": "APRE",
+          "meaning": NaN
+        },
+        {
+          "word": "PERA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PER",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "letters": [
+        "O",
+        "A",
+        "R",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "ORA",
+          "meaning": NaN
+        },
+        {
+          "word": "RASO",
+          "meaning": NaN
+        },
+        {
+          "word": "ROSA",
+          "meaning": NaN
+        },
+        {
+          "word": "ARSO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ORSA",
           "meaning": NaN
         }
       ]
@@ -225,28 +233,32 @@
     {
       "id": 10,
       "letters": [
-        "R",
-        "A",
+        "O",
         "I",
-        "Z"
+        "M",
+        "A"
       ],
       "answers": [
         {
-          "word": "RAIZ",
+          "word": "MAI",
           "meaning": NaN
         },
         {
-          "word": "ZAR",
+          "word": "MIA",
           "meaning": NaN
         },
         {
-          "word": "IRA",
+          "word": "AMO",
+          "meaning": NaN
+        },
+        {
+          "word": "MIAO",
           "meaning": NaN
         }
       ],
       "extra": [
         {
-          "word": "RIA",
+          "word": "MIO",
           "meaning": NaN
         }
       ]

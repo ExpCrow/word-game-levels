@@ -1,0 +1,404 @@
+{
+  "levels": [
+    {
+      "id": 21,
+      "letters": [
+        "L",
+        "A",
+        "A",
+        "L",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "TAL",
+          "meaning": NaN
+        },
+        {
+          "word": "TALA",
+          "meaning": NaN
+        },
+        {
+          "word": "LATA",
+          "meaning": NaN
+        },
+        {
+          "word": "TALLA",
+          "meaning": NaN
+        },
+        {
+          "word": "ALLA",
+          "meaning": NaN
+        },
+        {
+          "word": "ALAT",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ALA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "letters": [
+        "T",
+        "I",
+        "O",
+        "P",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "TIPO",
+          "meaning": NaN
+        },
+        {
+          "word": "PON",
+          "meaning": NaN
+        },
+        {
+          "word": "PIN",
+          "meaning": NaN
+        },
+        {
+          "word": "PINTO",
+          "meaning": NaN
+        },
+        {
+          "word": "PINO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TIO",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "letters": [
+        "A",
+        "A",
+        "G",
+        "N",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "GANA",
+          "meaning": NaN
+        },
+        {
+          "word": "GANAR",
+          "meaning": NaN
+        },
+        {
+          "word": "GRAN",
+          "meaning": NaN
+        },
+        {
+          "word": "RANA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "ARA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "letters": [
+        "D",
+        "S",
+        "I",
+        "O",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "ODIO",
+          "meaning": NaN
+        },
+        {
+          "word": "SODIO",
+          "meaning": NaN
+        },
+        {
+          "word": "DIOS",
+          "meaning": NaN
+        },
+        {
+          "word": "OIDO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DOS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "letters": [
+        "A",
+        "A",
+        "V",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "ACA",
+          "meaning": NaN
+        },
+        {
+          "word": "VACIA",
+          "meaning": NaN
+        },
+        {
+          "word": "CAI",
+          "meaning": NaN
+        },
+        {
+          "word": "CAVA",
+          "meaning": NaN
+        },
+        {
+          "word": "VACA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "VIA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "letters": [
+        "A",
+        "E",
+        "L",
+        "L",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "LLEVA",
+          "meaning": NaN
+        },
+        {
+          "word": "LLAVE",
+          "meaning": NaN
+        },
+        {
+          "word": "VALLE",
+          "meaning": NaN
+        },
+        {
+          "word": "ELLA",
+          "meaning": NaN
+        },
+        {
+          "word": "VELA",
+          "meaning": NaN
+        },
+        {
+          "word": "VALE",
+          "meaning": NaN
+        },
+        {
+          "word": "LEAL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "AVE",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "letters": [
+        "R",
+        "B",
+        "A",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "RATA",
+          "meaning": NaN
+        },
+        {
+          "word": "ATAR",
+          "meaning": NaN
+        },
+        {
+          "word": "BATA",
+          "meaning": NaN
+        },
+        {
+          "word": "TARA",
+          "meaning": NaN
+        },
+        {
+          "word": "BAR",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "TRABA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "R",
+        "S",
+        "E",
+        "U",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "SUPER",
+          "meaning": NaN
+        },
+        {
+          "word": "SER",
+          "meaning": NaN
+        },
+        {
+          "word": "PURE",
+          "meaning": NaN
+        },
+        {
+          "word": "SUR",
+          "meaning": NaN
+        },
+        {
+          "word": "RES",
+          "meaning": NaN
+        },
+        {
+          "word": "PUES",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PUS",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "letters": [
+        "G",
+        "A",
+        "S",
+        "N",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "SOGA",
+          "meaning": NaN
+        },
+        {
+          "word": "ASNO",
+          "meaning": NaN
+        },
+        {
+          "word": "SANO",
+          "meaning": NaN
+        },
+        {
+          "word": "SON",
+          "meaning": NaN
+        },
+        {
+          "word": "GAS",
+          "meaning": NaN
+        },
+        {
+          "word": "SAN",
+          "meaning": NaN
+        },
+        {
+          "word": "GANSO",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "OSA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "S",
+        "T",
+        "A",
+        "A",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "ASPA",
+          "meaning": NaN
+        },
+        {
+          "word": "TASA",
+          "meaning": NaN
+        },
+        {
+          "word": "PATA",
+          "meaning": NaN
+        },
+        {
+          "word": "ASA",
+          "meaning": NaN
+        },
+        {
+          "word": "TAPA",
+          "meaning": NaN
+        },
+        {
+          "word": "PASTA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "PASA",
+          "meaning": NaN
+        }
+      ]
+    }
+  ]
+}
