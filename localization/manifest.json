@@ -44,7 +44,7 @@
     }
   ],
   "font": {
-    "url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/fonts",
-    "version": 1
+    "url": "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization/",
+    "version": 2
   }
 }
