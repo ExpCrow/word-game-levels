@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.6f2
+CRC: 2349171262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aa95b096fd2bb7e3dcc6b6d1090838b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 724e8e1ee4cf69a8b18bfee167dd6059
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0745d9ad8db4ab2c593e6188641553c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.GlyphAnchorPoint
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.LigatureSubstitutionRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.MarkPositionAdjustment
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.MarkToBaseAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphValueRecord
+Assets:
+- Assets/[Models]/Font/Tr/tr1_atlas.texture2D
+- Assets/[Models]/Font/En/en_tmp.asset
+- Assets/[Models]/Font/Tr/tr_material.mat
+- Assets/[Models]/Font/Tr/tr1_tmp.asset
+- Assets/[Models]/Font/Uk/uk_tmp.asset
+- Assets/[Models]/Font/Uk/uk1_tmp.asset
+- Assets/[Models]/Font/En/en_atlas.texture2D
+- Assets/[Models]/Font/Uk/uk1_atlas.texture2D
+- Assets/[Models]/Font/ru_material.mat
+- Assets/[Models]/Font/En/en1_atlas.texture2D
+- Assets/[Models]/Font/Tr/tr_atlas.texture2D
+- Assets/[Models]/Font/En/en_material.mat
+- Assets/[Models]/Font/ru_tmp.asset
+- Assets/[Models]/Font/En/en1_tmp.asset
+- Assets/[Models]/Font/ru_atlas.texture2D
+- Assets/[Models]/Font/Tr/tr_tmp.asset
+- Assets/[Models]/Font/Uk/uk_material.mat
+- Assets/[Models]/Font/Uk/uk1_material.mat
+- Assets/[Models]/Font/Uk/uk_atlas.texture2D
+- Assets/[Models]/Font/Tr/tr1_material.mat
+- Assets/[Models]/Font/En/en1_material.mat
+Dependencies: []
