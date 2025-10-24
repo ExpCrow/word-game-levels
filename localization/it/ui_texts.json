@@ -437,12 +437,12 @@
       "value": "Lancia * freccette."
     },
     {
-      "key": "win_dart",
-      "value": "Vinci * freccette."
+      "key": "earn_dart",
+      "value": "Guadagna * freccette."
     },
     {
-      "key": "win_disk",
-      "value": "Vinci * dischi."
+      "key": "earn_disk",
+      "value": "Guadagna * dischi."
     },
     {
       "key": "use_disk_plinko",

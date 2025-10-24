@@ -437,12 +437,12 @@
       "value": "Wirf * Pfeile."
     },
     {
-      "key": "win_dart",
-      "value": "Gewinne * Pfeile."
+      "key": "earn_dart",
+      "value": "Verdiene * Pfeile."
     },
     {
-      "key": "win_disk",
-      "value": "Gewinne * Scheiben."
+      "key": "earn_disk",
+      "value": "Verdiene * Scheiben."
     },
     {
       "key": "use_disk_plinko",

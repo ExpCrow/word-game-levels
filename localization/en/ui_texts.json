@@ -437,12 +437,12 @@
       "value": "Throw * darts."
     },
     {
-      "key": "win_dart",
-      "value": "Win * darts."
+      "key": "earn_dart",
+      "value": "Earn * darts."
     },
     {
-      "key": "win_disk",
-      "value": "Win * disks."
+      "key": "earn_disk",
+      "value": "Earn * disks."
     },
     {
       "key": "use_disk_plinko",
