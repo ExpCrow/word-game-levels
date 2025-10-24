@@ -249,166 +249,6 @@
       "value": "L'annonce n'est pas prête"
     },
     {
-      "key": "mission",
-      "value": "La mission"
-    },
-    {
-      "key": "task_find_words",
-      "value": "Trouvez * mots"
-    },
-    {
-      "key": "task_find_extra",
-      "value": "Trouvez * mots supplémentaires"
-    },
-    {
-      "key": "task_reveal",
-      "value": "Révéler * lettres"
-    },
-    {
-      "key": "task_complete",
-      "value": "Terminer * niveaux"
-    },
-    {
-      "key": "task_complete_flawless_levels",
-      "value": "Terminez * niveaux sans faute"
-    },
-    {
-      "key": "task_find_correct_words_in_a_row",
-      "value": "Trouver * mots corrects à la suite"
-    },
-    {
-      "key": "task_use_hint",
-      "value": "Utiliser * indices"
-    },
-    {
-      "key": "task_complete_level_without_using_a_hint",
-      "value": "Terminer * niveaux sans utiliser d'indice"
-    },
-    {
-      "key": "task_earn_gold",
-      "value": "Gagner * pièces d'or"
-    },
-    {
-      "key": "task_spend_gold",
-      "value": "Dépenser * pièces d'or"
-    },
-    {
-      "key": "task_earn_energy",
-      "value": "Gagnez * euros d'énergie"
-    },
-    {
-      "key": "task_spend_energy",
-      "value": "Dépenser * énergies"
-    },
-    {
-      "key": "task_collect_keys",
-      "value": "Collecter * clés"
-    },
-    {
-      "key": "task_open_chest",
-      "value": "Ouvrir * coffres"
-    },
-    {
-      "key": "task_open_premium_chests",
-      "value": "Ouvrez * coffres à primes"
-    },
-    {
-      "key": "task_complete_rooms",
-      "value": "Compléter * pièces"
-    },
-    {
-      "key": "task_place_furniture_items",
-      "value": "Placer * meubles"
-    },
-    {
-      "key": "task_add_decoration_objects",
-      "value": "Ajouter * objets de décoration"
-    },
-    {
-      "key": "task_earn_stars",
-      "value": "Gagner * étoiles"
-    },
-    {
-      "key": "task_log_in_for_days",
-      "value": "Se connecter pendant * jours"
-    },
-    {
-      "key": "task_invite",
-      "value": "Inviter * amis"
-    },
-    {
-      "key": "task_share",
-      "value": "Partager * notes"
-    },
-    {
-      "key": "task_spin_the_slot",
-      "value": "Faire tourner la machine à sous * fois"
-    },
-    {
-      "key": "task_earn_rewards_from_the_slot",
-      "value": "Gagnez * récompenses grâce à la machine à sous"
-    },
-    {
-      "key": "task_throw_darts",
-      "value": "Lancer * fléchettes"
-    },
-    {
-      "key": "task_earn_rewards_from_darts",
-      "value": "Obtenez * récompenses grâce aux fléchettes"
-    },
-    {
-      "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Réussir * tirs consécutifs aux fléchettes"
-    },
-    {
-      "key": "task_spin_the_wheel_times",
-      "value": "Faire tourner la roue * fois"
-    },
-    {
-      "key": "task_earn_rewards_from_the_wheel",
-      "value": "Obtenez * récompenses grâce à la roue"
-    },
-    {
-      "key": "task_complete_mini_games",
-      "value": "Terminez * mini-jeux"
-    },
-    {
-      "key": "task_spend_mini_game_tokens",
-      "value": "Dépenser * jetons de mini-jeu"
-    },
-    {
-      "key": "task_earn_rewards_from_mini_games",
-      "value": "Gagnez * récompenses grâce aux mini-jeux"
-    },
-    {
-      "key": "task_claim_daily_reward_times",
-      "value": "Réclamer * fois la récompense quotidienne"
-    },
-    {
-      "key": "task_claim_weekly_reward_times",
-      "value": "Réclamer * fois la récompense hebdomadaire"
-    },
-    {
-      "key": "task_claim_hourly_reward_times",
-      "value": "Réclamer la récompense horaire * fois"
-    },
-    {
-      "key": "task_open_different_types_of_chests",
-      "value": "Ouvrez * types de coffres différents"
-    },
-    {
-      "key": "task_play_different_mini_games",
-      "value": "Jouez à * mini-jeux différents"
-    },
-    {
-      "key": "task_complete_task",
-      "value": "Effectuer * tâches"
-    },
-    {
-      "key": "task_spend_stars",
-      "value": "Dépenser * étoiles pour les chambres"
-    },
-    {
       "key": "throw",
       "value": "Lancer"
     },
@@ -439,6 +279,266 @@
     {
       "key": "second",
       "value": "Deuxième"
+    },
+    {
+      "key": "mission",
+      "value": "La mission"
+    },
+    {
+      "key": "jetquest_word_storm",
+      "value": "Tempête de Mots"
+    },
+    {
+      "key": "jetquest_second_chance",
+      "value": "Chance Éclair"
+    },
+    {
+      "key": "jetquest_mini_challenge",
+      "value": "Mini Défi"
+    },
+    {
+      "key": "jetquest_letter_dash",
+      "value": "Course aux Lettres"
+    },
+    {
+      "key": "jetquest_coffee_break",
+      "value": "Pause Café"
+    },
+    {
+      "key": "hourly_letter_adventure",
+      "value": "Aventure de Lettres Horaire"
+    },
+    {
+      "key": "hourly_wordmatic",
+      "value": "Missions Mots-matiques"
+    },
+    {
+      "key": "hourly_game_of_time",
+      "value": "Jeu du Temps"
+    },
+    {
+      "key": "hourly_letter_marathon",
+      "value": "Marathon de Lettres"
+    },
+    {
+      "key": "hourly_word_rain",
+      "value": "Pluie de Mots"
+    },
+    {
+      "key": "daily_word_hunt",
+      "value": "Chasse aux Mots du Jour"
+    },
+    {
+      "key": "daily_morning_words",
+      "value": "Mots du Matin"
+    },
+    {
+      "key": "daily_challenge_title",
+      "value": "Défi Quotidien"
+    },
+    {
+      "key": "daily_routine_tasks",
+      "value": "Tâches de Routine"
+    },
+    {
+      "key": "daily_word_ritual",
+      "value": "Rituel des Mots"
+    },
+    {
+      "key": "weekly_hero_of_week",
+      "value": "Héros de la Semaine"
+    },
+    {
+      "key": "weekly_word_marathon",
+      "value": "Marathon de Mots"
+    },
+    {
+      "key": "weekly_weeklong_challenge",
+      "value": "Défi de la Semaine"
+    },
+    {
+      "key": "weekly_word_master_title",
+      "value": "Maître des Mots"
+    },
+    {
+      "key": "weekly_collection_week",
+      "value": "Semaine de Collection"
+    },
+    {
+      "key": "flash_quest",
+      "value": "Quête Éclair"
+    },
+    {
+      "key": "hourly_challenge",
+      "value": "Défi Horaire"
+    },
+    {
+      "key": "daily_challenge",
+      "value": "Défi Quotidien"
+    },
+    {
+      "key": "weekly_challenge",
+      "value": "Défi Hebdomadaire"
+    },
+    {
+      "key": "open_letters",
+      "value": "Ouvre * lettres."
+    },
+    {
+      "key": "find_word",
+      "value": "Trouve * mots."
+    },
+    {
+      "key": "find_extra_word",
+      "value": "Trouve * mots supplémentaires."
+    },
+    {
+      "key": "complete_level",
+      "value": "Termine * niveaux."
+    },
+    {
+      "key": "complete_no_mistake",
+      "value": "Termine * niveaux sans erreur."
+    },
+    {
+      "key": "use_hint",
+      "value": "Utilise * indices."
+    },
+    {
+      "key": "use_hammer",
+      "value": "Utilise * marteaux."
+    },
+    {
+      "key": "use_hint_multi",
+      "value": "Utilise plus d’un indice dans * niveaux."
+    },
+    {
+      "key": "complete_flash_quest",
+      "value": "Termine * quêtes flash."
+    },
+    {
+      "key": "complete_hourly_challenge",
+      "value": "Termine * défis horaires."
+    },
+    {
+      "key": "complete_daily_challenge",
+      "value": "Termine * défis quotidiens."
+    },
+    {
+      "key": "play_minigame",
+      "value": "Joue à * mini-jeux."
+    },
+    {
+      "key": "win_minigame_reward",
+      "value": "Gagne des récompenses dans * mini-jeux."
+    },
+    {
+      "key": "throw_dart",
+      "value": "Lance * fléchettes."
+    },
+    {
+      "key": "win_dart",
+      "value": "Gagne * fléchettes."
+    },
+    {
+      "key": "win_disk",
+      "value": "Gagne * disques."
+    },
+    {
+      "key": "use_disk_plinko",
+      "value": "Utilise * disques dans Plinko."
+    },
+    {
+      "key": "play_claw_machine",
+      "value": "Joue à la machine à pince * fois."
+    },
+    {
+      "key": "earn_token",
+      "value": "Gagne * jetons."
+    },
+    {
+      "key": "spin_luck_wheel",
+      "value": "Fais tourner la roue de la chance * fois."
+    },
+    {
+      "key": "earn_clover",
+      "value": "Gagne * trèfles."
+    },
+    {
+      "key": "play_slot_machine",
+      "value": "Joue à la machine à sous * fois."
+    },
+    {
+      "key": "earn_chip",
+      "value": "Gagne * jetons."
+    },
+    {
+      "key": "play_treasure_hunt",
+      "value": "Joue à la chasse au trésor * fois."
+    },
+    {
+      "key": "earn_key",
+      "value": "Gagne * clés."
+    },
+    {
+      "key": "earn_star",
+      "value": "Gagne * étoiles."
+    },
+    {
+      "key": "spend_star",
+      "value": "Dépense * étoiles."
+    },
+    {
+      "key": "complete_room",
+      "value": "Termine * pièces."
+    },
+    {
+      "key": "earn_coin",
+      "value": "Gagne * pièces."
+    },
+    {
+      "key": "open_chest",
+      "value": "Ouvre * coffres."
+    },
+    {
+      "key": "open_bronze_chest",
+      "value": "Ouvre * coffres en bronze."
+    },
+    {
+      "key": "open_silver_chest",
+      "value": "Ouvre * coffres en argent."
+    },
+    {
+      "key": "open_gold_chest",
+      "value": "Ouvre * coffres en or."
+    },
+    {
+      "key": "open_bronze_star_chest",
+      "value": "Ouvre * coffres étoilés en bronze."
+    },
+    {
+      "key": "open_silver_star_chest",
+      "value": "Ouvre * coffres étoilés en argent."
+    },
+    {
+      "key": "open_gold_star_chest",
+      "value": "Ouvre * coffres étoilés en or."
+    },
+    {
+      "key": "throw_dart_in_game",
+      "value": "Lance * fléchettes dans une partie."
+    },
+    {
+      "key": "drop_disk_in_game",
+      "value": "Laisse tomber * disques dans une partie."
+    },
+    {
+      "key": "spend_clover_in_game",
+      "value": "Dépense * trèfles dans une partie."
+    },
+    {
+      "key": "spend_chip_in_game",
+      "value": "Dépense * jetons dans une partie."
     }
   ]
 }

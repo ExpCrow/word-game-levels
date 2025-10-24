@@ -249,166 +249,6 @@
       "value": "Annuncio non pronto"
     },
     {
-      "key": "mission",
-      "value": "Missione"
-    },
-    {
-      "key": "task_find_words",
-      "value": "Trova * parole"
-    },
-    {
-      "key": "task_find_extra",
-      "value": "Trova * parole extra"
-    },
-    {
-      "key": "task_reveal",
-      "value": "Rivela * lettere"
-    },
-    {
-      "key": "task_complete",
-      "value": "Completare * livelli"
-    },
-    {
-      "key": "task_complete_flawless_levels",
-      "value": "Completa * livelli impeccabili"
-    },
-    {
-      "key": "task_find_correct_words_in_a_row",
-      "value": "Trova * parole corrette in fila"
-    },
-    {
-      "key": "task_use_hint",
-      "value": "Utilizzare * suggerimenti"
-    },
-    {
-      "key": "task_complete_level_without_using_a_hint",
-      "value": "Completate * il livello senza usare un suggerimento"
-    },
-    {
-      "key": "task_earn_gold",
-      "value": "Guadagnare * oro"
-    },
-    {
-      "key": "task_spend_gold",
-      "value": "Spendere * oro"
-    },
-    {
-      "key": "task_earn_energy",
-      "value": "Guadagnare * energia"
-    },
-    {
-      "key": "task_spend_energy",
-      "value": "Spesa * energia"
-    },
-    {
-      "key": "task_collect_keys",
-      "value": "Raccogliere * chiavi"
-    },
-    {
-      "key": "task_open_chest",
-      "value": "Aprire * forzieri"
-    },
-    {
-      "key": "task_open_premium_chests",
-      "value": "Forzieri aperti * premium"
-    },
-    {
-      "key": "task_complete_rooms",
-      "value": "Camere complete *"
-    },
-    {
-      "key": "task_place_furniture_items",
-      "value": "Posizionare * elementi di arredo"
-    },
-    {
-      "key": "task_add_decoration_objects",
-      "value": "Aggiungere * oggetti di decorazione"
-    },
-    {
-      "key": "task_earn_stars",
-      "value": "Guadagnare * stelle"
-    },
-    {
-      "key": "task_log_in_for_days",
-      "value": "Accesso per * giorni"
-    },
-    {
-      "key": "task_invite",
-      "value": "Invitare * amici"
-    },
-    {
-      "key": "task_share",
-      "value": "Condividi * punteggi"
-    },
-    {
-      "key": "task_spin_the_slot",
-      "value": "Far girare la slot * volte"
-    },
-    {
-      "key": "task_earn_rewards_from_the_slot",
-      "value": "Guadagnare * premi dalla slot"
-    },
-    {
-      "key": "task_throw_darts",
-      "value": "Lancia * freccette"
-    },
-    {
-      "key": "task_earn_rewards_from_darts",
-      "value": "Guadagnare * premi con le freccette"
-    },
-    {
-      "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Colpire * colpi consecutivi a freccette"
-    },
-    {
-      "key": "task_spin_the_wheel_times",
-      "value": "Gira la ruota * volte"
-    },
-    {
-      "key": "task_earn_rewards_from_the_wheel",
-      "value": "Guadagnare * premi dalla ruota"
-    },
-    {
-      "key": "task_complete_mini_games",
-      "value": "Completare * mini giochi"
-    },
-    {
-      "key": "task_spend_mini_game_tokens",
-      "value": "Spendere * gettoni del mini gioco"
-    },
-    {
-      "key": "task_earn_rewards_from_mini_games",
-      "value": "Guadagnare * premi dai mini giochi"
-    },
-    {
-      "key": "task_claim_daily_reward_times",
-      "value": "Richiedere il premio giornaliero * volte"
-    },
-    {
-      "key": "task_claim_weekly_reward_times",
-      "value": "Richiedere il premio settimanale * volte"
-    },
-    {
-      "key": "task_claim_hourly_reward_times",
-      "value": "Richiedere la ricompensa oraria * volte"
-    },
-    {
-      "key": "task_open_different_types_of_chests",
-      "value": "Aprire * diversi tipi di forzieri"
-    },
-    {
-      "key": "task_play_different_mini_games",
-      "value": "Gioca a * diversi mini giochi"
-    },
-    {
-      "key": "task_complete_task",
-      "value": "Completare i * compiti"
-    },
-    {
-      "key": "task_spend_stars",
-      "value": "Spendere * stelle per le camere"
-    },
-    {
       "key": "throw",
       "value": "Lancio"
     },
@@ -439,6 +279,266 @@
     {
       "key": "second",
       "value": "Secondo"
+    },
+    {
+      "key": "mission",
+      "value": "Missione"
+    },
+    {
+      "key": "jetquest_word_storm",
+      "value": "Tempesta di Parole"
+    },
+    {
+      "key": "jetquest_second_chance",
+      "value": "Fortuna Lampo"
+    },
+    {
+      "key": "jetquest_mini_challenge",
+      "value": "Mini Sfida"
+    },
+    {
+      "key": "jetquest_letter_dash",
+      "value": "Corsa alle Lettere"
+    },
+    {
+      "key": "jetquest_coffee_break",
+      "value": "Missione Caffè"
+    },
+    {
+      "key": "hourly_letter_adventure",
+      "value": "Avventura a Lettere Oraria"
+    },
+    {
+      "key": "hourly_wordmatic",
+      "value": "Missioni Parolmatiche"
+    },
+    {
+      "key": "hourly_game_of_time",
+      "value": "Gioco del Tempo"
+    },
+    {
+      "key": "hourly_letter_marathon",
+      "value": "Maratona di Lettere"
+    },
+    {
+      "key": "hourly_word_rain",
+      "value": "Pioggia di Parole"
+    },
+    {
+      "key": "daily_word_hunt",
+      "value": "Caccia Parole del Giorno"
+    },
+    {
+      "key": "daily_morning_words",
+      "value": "Parole del Mattino"
+    },
+    {
+      "key": "daily_challenge_title",
+      "value": "Sfida Giornaliera"
+    },
+    {
+      "key": "daily_routine_tasks",
+      "value": "Missioni di Routine"
+    },
+    {
+      "key": "daily_word_ritual",
+      "value": "Rituale di Parole"
+    },
+    {
+      "key": "weekly_hero_of_week",
+      "value": "Eroe della Settimana"
+    },
+    {
+      "key": "weekly_word_marathon",
+      "value": "Maratona di Parole"
+    },
+    {
+      "key": "weekly_weeklong_challenge",
+      "value": "Sfida Settimanale"
+    },
+    {
+      "key": "weekly_word_master_title",
+      "value": "Maestro delle Parole"
+    },
+    {
+      "key": "weekly_collection_week",
+      "value": "Settimana della Collezione"
+    },
+    {
+      "key": "flash_quest",
+      "value": "Missione Lampo"
+    },
+    {
+      "key": "hourly_challenge",
+      "value": "Sfida Oraria"
+    },
+    {
+      "key": "daily_challenge",
+      "value": "Sfida Giornaliera"
+    },
+    {
+      "key": "weekly_challenge",
+      "value": "Sfida Settimanale"
+    },
+    {
+      "key": "open_letters",
+      "value": "Apri * lettere."
+    },
+    {
+      "key": "find_word",
+      "value": "Trova * parole."
+    },
+    {
+      "key": "find_extra_word",
+      "value": "Trova * parole extra."
+    },
+    {
+      "key": "complete_level",
+      "value": "Completa * livelli."
+    },
+    {
+      "key": "complete_no_mistake",
+      "value": "Completa * livelli senza errori."
+    },
+    {
+      "key": "use_hint",
+      "value": "Usa * suggerimenti."
+    },
+    {
+      "key": "use_hammer",
+      "value": "Usa * martelli."
+    },
+    {
+      "key": "use_hint_multi",
+      "value": "Usa più di un suggerimento in * livelli."
+    },
+    {
+      "key": "complete_flash_quest",
+      "value": "Completa * missioni flash."
+    },
+    {
+      "key": "complete_hourly_challenge",
+      "value": "Completa * sfide orarie."
+    },
+    {
+      "key": "complete_daily_challenge",
+      "value": "Completa * sfide giornaliere."
+    },
+    {
+      "key": "play_minigame",
+      "value": "Gioca a * minigiochi."
+    },
+    {
+      "key": "win_minigame_reward",
+      "value": "Vinci ricompense in * minigiochi."
+    },
+    {
+      "key": "throw_dart",
+      "value": "Lancia * freccette."
+    },
+    {
+      "key": "win_dart",
+      "value": "Vinci * freccette."
+    },
+    {
+      "key": "win_disk",
+      "value": "Vinci * dischi."
+    },
+    {
+      "key": "use_disk_plinko",
+      "value": "Usa * dischi in Plinko."
+    },
+    {
+      "key": "play_claw_machine",
+      "value": "Gioca alla macchina ad artiglio * volte."
+    },
+    {
+      "key": "earn_token",
+      "value": "Guadagna * gettoni."
+    },
+    {
+      "key": "spin_luck_wheel",
+      "value": "Gira la ruota della fortuna * volte."
+    },
+    {
+      "key": "earn_clover",
+      "value": "Guadagna * trifogli."
+    },
+    {
+      "key": "play_slot_machine",
+      "value": "Gioca alla slot machine * volte."
+    },
+    {
+      "key": "earn_chip",
+      "value": "Guadagna * chip."
+    },
+    {
+      "key": "play_treasure_hunt",
+      "value": "Gioca alla caccia al tesoro * volte."
+    },
+    {
+      "key": "earn_key",
+      "value": "Guadagna * chiavi."
+    },
+    {
+      "key": "earn_star",
+      "value": "Guadagna * stelle."
+    },
+    {
+      "key": "spend_star",
+      "value": "Spendi * stelle."
+    },
+    {
+      "key": "complete_room",
+      "value": "Completa * stanze."
+    },
+    {
+      "key": "earn_coin",
+      "value": "Guadagna * monete."
+    },
+    {
+      "key": "open_chest",
+      "value": "Apri * scrigni."
+    },
+    {
+      "key": "open_bronze_chest",
+      "value": "Apri * scrigni di bronzo."
+    },
+    {
+      "key": "open_silver_chest",
+      "value": "Apri * scrigni d’argento."
+    },
+    {
+      "key": "open_gold_chest",
+      "value": "Apri * scrigni d’oro."
+    },
+    {
+      "key": "open_bronze_star_chest",
+      "value": "Apri * scrigni stellati di bronzo."
+    },
+    {
+      "key": "open_silver_star_chest",
+      "value": "Apri * scrigni stellati d’argento."
+    },
+    {
+      "key": "open_gold_star_chest",
+      "value": "Apri * scrigni stellati d’oro."
+    },
+    {
+      "key": "throw_dart_in_game",
+      "value": "Lancia * freccette in una partita."
+    },
+    {
+      "key": "drop_disk_in_game",
+      "value": "Lascia cadere * dischi in una partita."
+    },
+    {
+      "key": "spend_clover_in_game",
+      "value": "Spendi * trifogli in una partita."
+    },
+    {
+      "key": "spend_chip_in_game",
+      "value": "Spendi * chip in una partita."
     }
   ]
 }

@@ -249,166 +249,6 @@
       "value": "Ad Not Ready"
     },
     {
-      "key": "mission",
-      "value": "Mission"
-    },
-    {
-      "key": "task_find_words",
-      "value": "Find * words"
-    },
-    {
-      "key": "task_find_extra",
-      "value": "Find * extra words"
-    },
-    {
-      "key": "task_reveal",
-      "value": "Reveal * letters"
-    },
-    {
-      "key": "task_complete",
-      "value": "Complete * levels"
-    },
-    {
-      "key": "task_complete_flawless_levels",
-      "value": "Complete * flawless levels"
-    },
-    {
-      "key": "task_find_correct_words_in_a_row",
-      "value": "Find * correct words in a row"
-    },
-    {
-      "key": "task_use_hint",
-      "value": "Use * hints"
-    },
-    {
-      "key": "task_complete_level_without_using_a_hint",
-      "value": "Complete * level without using a hint"
-    },
-    {
-      "key": "task_earn_gold",
-      "value": "Earn * gold"
-    },
-    {
-      "key": "task_spend_gold",
-      "value": "Spend * gold"
-    },
-    {
-      "key": "task_earn_energy",
-      "value": "Earn * energy"
-    },
-    {
-      "key": "task_spend_energy",
-      "value": "Spend * energy"
-    },
-    {
-      "key": "task_collect_keys",
-      "value": "Collect * keys"
-    },
-    {
-      "key": "task_open_chest",
-      "value": "Open * chests"
-    },
-    {
-      "key": "task_open_premium_chests",
-      "value": "Open * premium chests"
-    },
-    {
-      "key": "task_complete_rooms",
-      "value": "Complete * rooms"
-    },
-    {
-      "key": "task_place_furniture_items",
-      "value": "Place * furniture items"
-    },
-    {
-      "key": "task_add_decoration_objects",
-      "value": "Add * decoration objects"
-    },
-    {
-      "key": "task_earn_stars",
-      "value": "Earn * stars"
-    },
-    {
-      "key": "task_log_in_for_days",
-      "value": "Log in for * days"
-    },
-    {
-      "key": "task_invite",
-      "value": "Invite * friends"
-    },
-    {
-      "key": "task_share",
-      "value": "Share * scores"
-    },
-    {
-      "key": "task_spin_the_slot",
-      "value": "Spin the slot * times"
-    },
-    {
-      "key": "task_earn_rewards_from_the_slot",
-      "value": "Earn * rewards from the slot"
-    },
-    {
-      "key": "task_throw_darts",
-      "value": "Throw * darts"
-    },
-    {
-      "key": "task_earn_rewards_from_darts",
-      "value": "Earn * rewards from darts"
-    },
-    {
-      "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Hit * consecutive shots in darts"
-    },
-    {
-      "key": "task_spin_the_wheel_times",
-      "value": "Spin the wheel * times"
-    },
-    {
-      "key": "task_earn_rewards_from_the_wheel",
-      "value": "Earn * rewards from the wheel"
-    },
-    {
-      "key": "task_complete_mini_games",
-      "value": "Complete * mini games"
-    },
-    {
-      "key": "task_spend_mini_game_tokens",
-      "value": "Spend * mini game tokens"
-    },
-    {
-      "key": "task_earn_rewards_from_mini_games",
-      "value": "Earn * rewards from mini games"
-    },
-    {
-      "key": "task_claim_daily_reward_times",
-      "value": "Claim daily reward * times"
-    },
-    {
-      "key": "task_claim_weekly_reward_times",
-      "value": "Claim weekly reward * times"
-    },
-    {
-      "key": "task_claim_hourly_reward_times",
-      "value": "Claim hourly reward * times"
-    },
-    {
-      "key": "task_open_different_types_of_chests",
-      "value": "Open * different types of chests"
-    },
-    {
-      "key": "task_play_different_mini_games",
-      "value": "Play * different mini games"
-    },
-    {
-      "key": "task_complete_task",
-      "value": "Complete * tasks"
-    },
-    {
-      "key": "task_spend_stars",
-      "value": "Spend * stars for rooms"
-    },
-    {
       "key": "throw",
       "value": "Throw"
     },
@@ -439,6 +279,266 @@
     {
       "key": "second",
       "value": "Second"
+    },
+    {
+      "key": "mission",
+      "value": "Mission"
+    },
+    {
+      "key": "jetquest_word_storm",
+      "value": "Word Storm"
+    },
+    {
+      "key": "jetquest_second_chance",
+      "value": "Second Chance"
+    },
+    {
+      "key": "jetquest_mini_challenge",
+      "value": "Mini Challenge"
+    },
+    {
+      "key": "jetquest_letter_dash",
+      "value": "Letter Dash"
+    },
+    {
+      "key": "jetquest_coffee_break",
+      "value": "Coffee Break Quest"
+    },
+    {
+      "key": "hourly_letter_adventure",
+      "value": "Hourly Letter Adventure"
+    },
+    {
+      "key": "hourly_wordmatic",
+      "value": "Wordmatic Tasks"
+    },
+    {
+      "key": "hourly_game_of_time",
+      "value": "Game of Time"
+    },
+    {
+      "key": "hourly_letter_marathon",
+      "value": "Letter Marathon"
+    },
+    {
+      "key": "hourly_word_rain",
+      "value": "Word Rain"
+    },
+    {
+      "key": "daily_word_hunt",
+      "value": "Word Hunt of the Day"
+    },
+    {
+      "key": "daily_morning_words",
+      "value": "Morning Words"
+    },
+    {
+      "key": "daily_challenge_title",
+      "value": "Daily Challenge"
+    },
+    {
+      "key": "daily_routine_tasks",
+      "value": "Routine Tasks"
+    },
+    {
+      "key": "daily_word_ritual",
+      "value": "Word Ritual"
+    },
+    {
+      "key": "weekly_hero_of_week",
+      "value": "Hero of the Week"
+    },
+    {
+      "key": "weekly_word_marathon",
+      "value": "Word Marathon"
+    },
+    {
+      "key": "weekly_weeklong_challenge",
+      "value": "Weeklong Challenge"
+    },
+    {
+      "key": "weekly_word_master_title",
+      "value": "Word Master"
+    },
+    {
+      "key": "weekly_collection_week",
+      "value": "Collection Week"
+    },
+    {
+      "key": "flash_quest",
+      "value": "Flash Quest"
+    },
+    {
+      "key": "hourly_challenge",
+      "value": "Hourly Challenge"
+    },
+    {
+      "key": "daily_challenge",
+      "value": "Daily Challenge"
+    },
+    {
+      "key": "weekly_challenge",
+      "value": "Weekly Challenge"
+    },
+    {
+      "key": "open_letters",
+      "value": "Open * letters."
+    },
+    {
+      "key": "find_word",
+      "value": "Find * words."
+    },
+    {
+      "key": "find_extra_word",
+      "value": "Find * extra words."
+    },
+    {
+      "key": "complete_level",
+      "value": "Complete * levels."
+    },
+    {
+      "key": "complete_no_mistake",
+      "value": "Complete * levels without mistakes."
+    },
+    {
+      "key": "use_hint",
+      "value": "Use * hints."
+    },
+    {
+      "key": "use_hammer",
+      "value": "Use * hammers."
+    },
+    {
+      "key": "use_hint_multi",
+      "value": "Use more than one hint in * levels."
+    },
+    {
+      "key": "complete_flash_quest",
+      "value": "Complete * flash quests."
+    },
+    {
+      "key": "complete_hourly_challenge",
+      "value": "Complete * hourly challenges."
+    },
+    {
+      "key": "complete_daily_challenge",
+      "value": "Complete * daily challenges."
+    },
+    {
+      "key": "play_minigame",
+      "value": "Play * mini games."
+    },
+    {
+      "key": "win_minigame_reward",
+      "value": "Win rewards in * mini games."
+    },
+    {
+      "key": "throw_dart",
+      "value": "Throw * darts."
+    },
+    {
+      "key": "win_dart",
+      "value": "Win * darts."
+    },
+    {
+      "key": "win_disk",
+      "value": "Win * disks."
+    },
+    {
+      "key": "use_disk_plinko",
+      "value": "Use * disks in Plinko."
+    },
+    {
+      "key": "play_claw_machine",
+      "value": "Play the claw machine * times."
+    },
+    {
+      "key": "earn_token",
+      "value": "Earn * tokens."
+    },
+    {
+      "key": "spin_luck_wheel",
+      "value": "Spin the luck wheel * times."
+    },
+    {
+      "key": "earn_clover",
+      "value": "Earn * clovers."
+    },
+    {
+      "key": "play_slot_machine",
+      "value": "Play the slot machine * times."
+    },
+    {
+      "key": "earn_chip",
+      "value": "Earn * chips."
+    },
+    {
+      "key": "play_treasure_hunt",
+      "value": "Play treasure hunt * times."
+    },
+    {
+      "key": "earn_key",
+      "value": "Earn * keys."
+    },
+    {
+      "key": "earn_star",
+      "value": "Earn * stars."
+    },
+    {
+      "key": "spend_star",
+      "value": "Spend * stars."
+    },
+    {
+      "key": "complete_room",
+      "value": "Complete * rooms."
+    },
+    {
+      "key": "earn_coin",
+      "value": "Earn * coins."
+    },
+    {
+      "key": "open_chest",
+      "value": "Open * chests."
+    },
+    {
+      "key": "open_bronze_chest",
+      "value": "Open * bronze chests."
+    },
+    {
+      "key": "open_silver_chest",
+      "value": "Open * silver chests."
+    },
+    {
+      "key": "open_gold_chest",
+      "value": "Open * gold chests."
+    },
+    {
+      "key": "open_bronze_star_chest",
+      "value": "Open * bronze star chests."
+    },
+    {
+      "key": "open_silver_star_chest",
+      "value": "Open * silver star chests."
+    },
+    {
+      "key": "open_gold_star_chest",
+      "value": "Open * gold star chests."
+    },
+    {
+      "key": "throw_dart_in_game",
+      "value": "Throw * darts in one game."
+    },
+    {
+      "key": "drop_disk_in_game",
+      "value": "Drop * disks in one game."
+    },
+    {
+      "key": "spend_clover_in_game",
+      "value": "Spend * clovers in one game."
+    },
+    {
+      "key": "spend_chip_in_game",
+      "value": "Spend * chips in one game."
     }
   ]
 }

@@ -249,166 +249,6 @@
       "value": "Anuncio no listo"
     },
     {
-      "key": "mission",
-      "value": "Misión"
-    },
-    {
-      "key": "task_find_words",
-      "value": "Buscar * palabras"
-    },
-    {
-      "key": "task_find_extra",
-      "value": "Buscar * palabras adicionales"
-    },
-    {
-      "key": "task_reveal",
-      "value": "Revelar * letras"
-    },
-    {
-      "key": "task_complete",
-      "value": "Completa * niveles"
-    },
-    {
-      "key": "task_complete_flawless_levels",
-      "value": "Completa * niveles impecables"
-    },
-    {
-      "key": "task_find_correct_words_in_a_row",
-      "value": "Encuentra * palabras correctas seguidas"
-    },
-    {
-      "key": "task_use_hint",
-      "value": "Utilizar * sugerencias"
-    },
-    {
-      "key": "task_complete_level_without_using_a_hint",
-      "value": "Completa * un nivel sin usar una pista"
-    },
-    {
-      "key": "task_earn_gold",
-      "value": "Gana * oro"
-    },
-    {
-      "key": "task_spend_gold",
-      "value": "Gastar * oro"
-    },
-    {
-      "key": "task_earn_energy",
-      "value": "Gana * energía"
-    },
-    {
-      "key": "task_spend_energy",
-      "value": "Gasto * energía"
-    },
-    {
-      "key": "task_collect_keys",
-      "value": "Recoger * llaves"
-    },
-    {
-      "key": "task_open_chest",
-      "value": "Abrir * cofres"
-    },
-    {
-      "key": "task_open_premium_chests",
-      "value": "Abrir * cofres premium"
-    },
-    {
-      "key": "task_complete_rooms",
-      "value": "Habitaciones * completas"
-    },
-    {
-      "key": "task_place_furniture_items",
-      "value": "Colocar * muebles"
-    },
-    {
-      "key": "task_add_decoration_objects",
-      "value": "Añadir * objetos de decoración"
-    },
-    {
-      "key": "task_earn_stars",
-      "value": "Gana * estrellas"
-    },
-    {
-      "key": "task_log_in_for_days",
-      "value": "Inicio de sesión durante * días"
-    },
-    {
-      "key": "task_invite",
-      "value": "Invitar a * amigos"
-    },
-    {
-      "key": "task_share",
-      "value": "Compartir * resultados"
-    },
-    {
-      "key": "task_spin_the_slot",
-      "value": "Gira la tragaperras * veces"
-    },
-    {
-      "key": "task_earn_rewards_from_the_slot",
-      "value": "Gana * premios con la tragaperras"
-    },
-    {
-      "key": "task_throw_darts",
-      "value": "Lanzar * dardos"
-    },
-    {
-      "key": "task_earn_rewards_from_darts",
-      "value": "Gana * recompensas con los dardos"
-    },
-    {
-      "key": "task_hit_consecutive_shots_in_darts",
-      "value": "Acierta * tiros consecutivos en dardos"
-    },
-    {
-      "key": "task_spin_the_wheel_times",
-      "value": "Gira la ruleta * veces"
-    },
-    {
-      "key": "task_earn_rewards_from_the_wheel",
-      "value": "Gana * premios con la rueda"
-    },
-    {
-      "key": "task_complete_mini_games",
-      "value": "Completa * minijuegos"
-    },
-    {
-      "key": "task_spend_mini_game_tokens",
-      "value": "Gastar * fichas de minijuego"
-    },
-    {
-      "key": "task_earn_rewards_from_mini_games",
-      "value": "Gana * recompensas con los minijuegos"
-    },
-    {
-      "key": "task_claim_daily_reward_times",
-      "value": "Reclamar la recompensa diaria * veces"
-    },
-    {
-      "key": "task_claim_weekly_reward_times",
-      "value": "Reclamar la recompensa semanal * veces"
-    },
-    {
-      "key": "task_claim_hourly_reward_times",
-      "value": "Reclamar recompensa horaria * veces"
-    },
-    {
-      "key": "task_open_different_types_of_chests",
-      "value": "Abrir * diferentes tipos de cofres"
-    },
-    {
-      "key": "task_play_different_mini_games",
-      "value": "Juega a * minijuegos diferentes"
-    },
-    {
-      "key": "task_complete_task",
-      "value": "Completar * tareas"
-    },
-    {
-      "key": "task_spend_stars",
-      "value": "Gastar * estrellas para las habitaciones"
-    },
-    {
       "key": "throw",
       "value": "Lanzar"
     },
@@ -439,6 +279,266 @@
     {
       "key": "second",
       "value": "Segundo"
+    },
+    {
+      "key": "mission",
+      "value": "Misión"
+    },
+    {
+      "key": "jetquest_word_storm",
+      "value": "Tormenta de Palabras"
+    },
+    {
+      "key": "jetquest_second_chance",
+      "value": "Suerte Rápida"
+    },
+    {
+      "key": "jetquest_mini_challenge",
+      "value": "Mini Desafío"
+    },
+    {
+      "key": "jetquest_letter_dash",
+      "value": "Carrera de Letras"
+    },
+    {
+      "key": "jetquest_coffee_break",
+      "value": "Misión de Café"
+    },
+    {
+      "key": "hourly_letter_adventure",
+      "value": "Aventura de Letras por Hora"
+    },
+    {
+      "key": "hourly_wordmatic",
+      "value": "Misiones Palabramáticas"
+    },
+    {
+      "key": "hourly_game_of_time",
+      "value": "Juego del Tiempo"
+    },
+    {
+      "key": "hourly_letter_marathon",
+      "value": "Maratón de Letras"
+    },
+    {
+      "key": "hourly_word_rain",
+      "value": "Lluvia de Palabras"
+    },
+    {
+      "key": "daily_word_hunt",
+      "value": "Caza de Palabras del Día"
+    },
+    {
+      "key": "daily_morning_words",
+      "value": "Palabras Matutinas"
+    },
+    {
+      "key": "daily_challenge_title",
+      "value": "Desafío Diario"
+    },
+    {
+      "key": "daily_routine_tasks",
+      "value": "Tareas de Rutina"
+    },
+    {
+      "key": "daily_word_ritual",
+      "value": "Ritual de Palabras"
+    },
+    {
+      "key": "weekly_hero_of_week",
+      "value": "Héroe de la Semana"
+    },
+    {
+      "key": "weekly_word_marathon",
+      "value": "Maratón de Palabras"
+    },
+    {
+      "key": "weekly_weeklong_challenge",
+      "value": "Desafío Semanal"
+    },
+    {
+      "key": "weekly_word_master_title",
+      "value": "Maestro de Palabras"
+    },
+    {
+      "key": "weekly_collection_week",
+      "value": "Semana de Colección"
+    },
+    {
+      "key": "flash_quest",
+      "value": "Misión Relámpago"
+    },
+    {
+      "key": "hourly_challenge",
+      "value": "Desafío por Hora"
+    },
+    {
+      "key": "daily_challenge",
+      "value": "Desafío Diario"
+    },
+    {
+      "key": "weekly_challenge",
+      "value": "Desafío Semanal"
+    },
+    {
+      "key": "open_letters",
+      "value": "Abre * letras."
+    },
+    {
+      "key": "find_word",
+      "value": "Encuentra * palabras."
+    },
+    {
+      "key": "find_extra_word",
+      "value": "Encuentra * palabras extra."
+    },
+    {
+      "key": "complete_level",
+      "value": "Completa * niveles."
+    },
+    {
+      "key": "complete_no_mistake",
+      "value": "Completa * niveles sin errores."
+    },
+    {
+      "key": "use_hint",
+      "value": "Usa * pistas."
+    },
+    {
+      "key": "use_hammer",
+      "value": "Usa * martillos."
+    },
+    {
+      "key": "use_hint_multi",
+      "value": "Usa más de una pista en * niveles."
+    },
+    {
+      "key": "complete_flash_quest",
+      "value": "Completa * misiones flash."
+    },
+    {
+      "key": "complete_hourly_challenge",
+      "value": "Completa * desafíos por hora."
+    },
+    {
+      "key": "complete_daily_challenge",
+      "value": "Completa * desafíos diarios."
+    },
+    {
+      "key": "play_minigame",
+      "value": "Juega * minijuegos."
+    },
+    {
+      "key": "win_minigame_reward",
+      "value": "Gana recompensas en * minijuegos."
+    },
+    {
+      "key": "throw_dart",
+      "value": "Lanza * dardos."
+    },
+    {
+      "key": "win_dart",
+      "value": "Gana * dardos."
+    },
+    {
+      "key": "win_disk",
+      "value": "Gana * discos."
+    },
+    {
+      "key": "use_disk_plinko",
+      "value": "Usa * discos en Plinko."
+    },
+    {
+      "key": "play_claw_machine",
+      "value": "Juega a la máquina de garra * veces."
+    },
+    {
+      "key": "earn_token",
+      "value": "Gana * fichas."
+    },
+    {
+      "key": "spin_luck_wheel",
+      "value": "Gira la rueda de la suerte * veces."
+    },
+    {
+      "key": "earn_clover",
+      "value": "Gana * tréboles."
+    },
+    {
+      "key": "play_slot_machine",
+      "value": "Juega a la tragamonedas * veces."
+    },
+    {
+      "key": "earn_chip",
+      "value": "Gana * fichas."
+    },
+    {
+      "key": "play_treasure_hunt",
+      "value": "Juega a la búsqueda del tesoro * veces."
+    },
+    {
+      "key": "earn_key",
+      "value": "Gana * llaves."
+    },
+    {
+      "key": "earn_star",
+      "value": "Gana * estrellas."
+    },
+    {
+      "key": "spend_star",
+      "value": "Gasta * estrellas."
+    },
+    {
+      "key": "complete_room",
+      "value": "Completa * habitaciones."
+    },
+    {
+      "key": "earn_coin",
+      "value": "Gana * monedas."
+    },
+    {
+      "key": "open_chest",
+      "value": "Abre * cofres."
+    },
+    {
+      "key": "open_bronze_chest",
+      "value": "Abre * cofres de bronce."
+    },
+    {
+      "key": "open_silver_chest",
+      "value": "Abre * cofres de plata."
+    },
+    {
+      "key": "open_gold_chest",
+      "value": "Abre * cofres de oro."
+    },
+    {
+      "key": "open_bronze_star_chest",
+      "value": "Abre * cofres estrellados de bronce."
+    },
+    {
+      "key": "open_silver_star_chest",
+      "value": "Abre * cofres estrellados de plata."
+    },
+    {
+      "key": "open_gold_star_chest",
+      "value": "Abre * cofres estrellados de oro."
+    },
+    {
+      "key": "throw_dart_in_game",
+      "value": "Lanza * dardos en una partida."
+    },
+    {
+      "key": "drop_disk_in_game",
+      "value": "Deja caer * discos en una partida."
+    },
+    {
+      "key": "spend_clover_in_game",
+      "value": "Gasta * tréboles en una partida."
+    },
+    {
+      "key": "spend_chip_in_game",
+      "value": "Gasta * fichas en una partida."
     }
   ]
 }
