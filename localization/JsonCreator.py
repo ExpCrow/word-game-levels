@@ -16,7 +16,7 @@ log_file = 'update_log.txt'
 base_url = "https://raw.githubusercontent.com/ExpCrow/word-game-levels/main/localization"
 
 # Fonts URL (Python dosyasının bulunduğu dizindeki fonts klasörü)
-font_url = f"{base_url}/fonts"
+font_url = f"{base_url}"
 
 # XLSX yükle
 wb = openpyxl.load_workbook(xlsx_file)

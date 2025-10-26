@@ -10,3 +10,6 @@
 
 [2025-10-24 14:29:56] Güncelleme Raporu
 🔼 Versiyonu artan diller: en (v3), tr (v3), fr (v3), de (v3), it (v3), es (v3)
+
+[2025-10-26 16:35:50] Güncelleme Raporu
+⏸ Değişmeyen diller: en (v3), tr (v3), fr (v3), de (v3), it (v3), es (v3)
