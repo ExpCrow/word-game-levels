@@ -539,6 +539,10 @@
     {
       "key": "spend_chip_in_game",
       "value": "Dépense * jetons dans une partie."
+    },
+    {
+      "key": "leaderboard",
+      "value": "Classement"
     }
   ]
 }

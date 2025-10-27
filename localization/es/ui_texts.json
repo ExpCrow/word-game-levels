@@ -539,6 +539,10 @@
     {
       "key": "spend_chip_in_game",
       "value": "Gasta * fichas en una partida."
+    },
+    {
+      "key": "leaderboard",
+      "value": "Clasificación"
     }
   ]
 }

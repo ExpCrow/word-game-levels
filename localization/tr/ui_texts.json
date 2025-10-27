@@ -539,6 +539,10 @@
     {
       "key": "spend_chip_in_game",
       "value": "Bir oyunda * chip harca."
+    },
+    {
+      "key": "leaderboard",
+      "value": "Liderlik Tablosu"
     }
   ]
 }

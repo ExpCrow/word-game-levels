@@ -539,6 +539,10 @@
     {
       "key": "spend_chip_in_game",
       "value": "Spend * chips in one game."
+    },
+    {
+      "key": "leaderboard",
+      "value": "Leaderboard"
     }
   ]
 }
