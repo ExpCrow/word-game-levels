@@ -543,6 +543,10 @@
     {
       "key": "leaderboard",
       "value": "Clasificación"
+    },
+    {
+      "key": "score",
+      "value": "Puntuación"
     }
   ]
 }

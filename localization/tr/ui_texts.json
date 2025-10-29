@@ -543,6 +543,10 @@
     {
       "key": "leaderboard",
       "value": "Liderlik Tablosu"
+    },
+    {
+      "key": "score",
+      "value": "Puan"
     }
   ]
 }
