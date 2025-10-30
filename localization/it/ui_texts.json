@@ -547,6 +547,26 @@
     {
       "key": "score",
       "value": "Punteggio"
+    },
+    {
+      "key": "leaderboard_hidden_title",
+      "value": "Profilo Nascosto"
+    },
+    {
+      "key": "leaderboard_hidden_desc",
+      "value": "Questo giocatore partecipa in modalità privata. Il suo punteggio è valido ma non appare nella classifica."
+    },
+    {
+      "key": "leaderboard_hidden_hint",
+      "value": "Suggerimento: Disattiva la modalità privata dalle impostazioni del dispositivo per apparire nella classifica."
+    },
+    {
+      "key": null,
+      "value": null
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

@@ -19,3 +19,6 @@
 
 [2025-10-29 22:42:05] Güncelleme Raporu
 🔼 Versiyonu artan diller: en (v5), tr (v5), fr (v5), de (v5), it (v5), es (v5)
+
+[2025-10-30 13:29:24] Güncelleme Raporu
+🔼 Versiyonu artan diller: en (v6), tr (v6), fr (v6), de (v6), it (v6), es (v6)

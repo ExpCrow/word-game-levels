@@ -547,6 +547,26 @@
     {
       "key": "score",
       "value": "Puntuación"
+    },
+    {
+      "key": "leaderboard_hidden_title",
+      "value": "Perfil Oculto"
+    },
+    {
+      "key": "leaderboard_hidden_desc",
+      "value": "Este jugador compite en modo privado. \nSu puntuación cuenta, pero no aparece en la clasificación."
+    },
+    {
+      "key": "leaderboard_hidden_hint",
+      "value": "Consejo: Desactiva el modo privado desde los ajustes del dispositivo para aparecer en la clasificación."
+    },
+    {
+      "key": null,
+      "value": null
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

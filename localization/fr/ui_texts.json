@@ -547,6 +547,26 @@
     {
       "key": "score",
       "value": "Score"
+    },
+    {
+      "key": "leaderboard_hidden_title",
+      "value": "Profil Caché"
+    },
+    {
+      "key": "leaderboard_hidden_desc",
+      "value": "Ce joueur joue en mode privé. Son score est enregistré mais n’apparaît pas dans le classement."
+    },
+    {
+      "key": "leaderboard_hidden_hint",
+      "value": "Astuce : Désactive le mode privé depuis les paramètres de ton appareil pour apparaître dans le classement."
+    },
+    {
+      "key": null,
+      "value": null
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

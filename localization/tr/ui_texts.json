@@ -454,7 +454,7 @@
     },
     {
       "key": "earn_token",
-      "value": "* token kazan."
+      "value": "* jeton kazan."
     },
     {
       "key": "spin_luck_wheel",
@@ -462,7 +462,7 @@
     },
     {
       "key": "earn_clover",
-      "value": "* clover kazan."
+      "value": "* yonca kazan."
     },
     {
       "key": "play_slot_machine",
@@ -547,6 +547,26 @@
     {
       "key": "score",
       "value": "Puan"
+    },
+    {
+      "key": "leaderboard_hidden_title",
+      "value": "Gizli Profil"
+    },
+    {
+      "key": "leaderboard_hidden_desc",
+      "value": "Bu oyuncu gizlilik modunda yarışıyor. Puanı geçerli ama sıralamada görünmüyor."
+    },
+    {
+      "key": "leaderboard_hidden_hint",
+      "value": "İpucu: Cihaz ayarlarından gizli modu kapatarak sıralamada yer alabilirsin."
+    },
+    {
+      "key": null,
+      "value": null
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

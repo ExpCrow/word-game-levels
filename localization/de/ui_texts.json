@@ -547,6 +547,26 @@
     {
       "key": "score",
       "value": "Punktzahl"
+    },
+    {
+      "key": "leaderboard_hidden_title",
+      "value": "Verstecktes Profil"
+    },
+    {
+      "key": "leaderboard_hidden_desc",
+      "value": "Dieser Spieler spielt im Datenschutzmodus. Sein Punktestand wird gezählt, erscheint jedoch nicht in der Rangliste."
+    },
+    {
+      "key": "leaderboard_hidden_hint",
+      "value": "Tipp: Deaktiviere den Datenschutzmodus in den Geräteeinstellungen, um in der Rangliste zu erscheinen."
+    },
+    {
+      "key": null,
+      "value": null
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }
