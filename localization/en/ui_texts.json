@@ -565,8 +565,8 @@
       "value": "Mini Games"
     },
     {
-      "key": null,
-      "value": null
+      "key": "bad_luck",
+      "value": "Bad Luck"
     }
   ]
 }

@@ -565,8 +565,8 @@
       "value": "Minispiele"
     },
     {
-      "key": null,
-      "value": null
+      "key": "bad_luck",
+      "value": "Pech gehabt!"
     }
   ]
 }
