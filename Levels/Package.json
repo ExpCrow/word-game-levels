@@ -2,27 +2,27 @@
   "languages": [
     {
       "code": "tr",
-      "version": 15
+      "version": 16
     },
     {
       "code": "en",
-      "version": 10
+      "version": 11
     },
     {
       "code": "fr",
-      "version": 6
+      "version": 7
     },
     {
       "code": "de",
-      "version": 5
+      "version": 6
     },
     {
       "code": "es",
-      "version": 4
+      "version": 5
     },
     {
       "code": "it",
-      "version": 4
+      "version": 5
     }
   ]
 }
