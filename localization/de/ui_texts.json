@@ -567,6 +567,54 @@
     {
       "key": "bad_luck",
       "value": "Pech gehabt!"
+    },
+    {
+      "key": "no_ads",
+      "value": "Werbefreies Spielen"
+    },
+    {
+      "key": "no_ads_promo",
+      "value": "Spiele ohne Unterbrechungen durch Werbung."
+    },
+    {
+      "key": "starter_pack",
+      "value": "Starter-Paket"
+    },
+    {
+      "key": "starter_pack_promo",
+      "value": "Starte entspannt und gut vorbereitet."
+    },
+    {
+      "key": "progress_pack",
+      "value": "Fortschritts-Paket"
+    },
+    {
+      "key": "progress_pack_promo",
+      "value": "Komme schneller voran und genieße das Spiel mehr."
+    },
+    {
+      "key": "mini_game_pass",
+      "value": "Mini-Spiel-Pass"
+    },
+    {
+      "key": "mini_game_pass_promo",
+      "value": "Spiele alle Mini-Spiele ganz entspannt."
+    },
+    {
+      "key": "builder_pack",
+      "value": "Bau-Paket"
+    },
+    {
+      "key": "builder_pack_promo",
+      "value": "Baue und verbessere schneller."
+    },
+    {
+      "key": "leaderboard_boost",
+      "value": "Ranglisten-Boost"
+    },
+    {
+      "key": "leaderboard_boost_promo",
+      "value": "Steige schneller in der Rangliste auf."
     }
   ]
 }

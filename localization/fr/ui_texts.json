@@ -567,6 +567,54 @@
     {
       "key": "bad_luck",
       "value": "Pas de chance !"
+    },
+    {
+      "key": "no_ads",
+      "value": "Expérience Sans Publicité"
+    },
+    {
+      "key": "no_ads_promo",
+      "value": "Profitez d’un jeu fluide sans aucune interruption."
+    },
+    {
+      "key": "starter_pack",
+      "value": "Pack de Démarrage"
+    },
+    {
+      "key": "starter_pack_promo",
+      "value": "Commencez votre aventure en toute sérénité."
+    },
+    {
+      "key": "progress_pack",
+      "value": "Pack de Progression"
+    },
+    {
+      "key": "progress_pack_promo",
+      "value": "Avance plus vite et profite davantage."
+    },
+    {
+      "key": "mini_game_pass",
+      "value": "Pass Mini-Jeux"
+    },
+    {
+      "key": "mini_game_pass_promo",
+      "value": "Profitez pleinement de tous les mini-jeux."
+    },
+    {
+      "key": "builder_pack",
+      "value": "Pack Constructeur"
+    },
+    {
+      "key": "builder_pack_promo",
+      "value": "Construisez et améliorez plus rapidement."
+    },
+    {
+      "key": "leaderboard_boost",
+      "value": "Boost de Classement"
+    },
+    {
+      "key": "leaderboard_boost_promo",
+      "value": "Grimpez plus rapidement dans le classement."
     }
   ]
 }

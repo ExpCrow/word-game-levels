@@ -567,6 +567,54 @@
     {
       "key": "bad_luck",
       "value": "Kötü Şans"
+    },
+    {
+      "key": "no_ads",
+      "value": "Reklamsız Oyun"
+    },
+    {
+      "key": "no_ads_promo",
+      "value": "Reklamsız, kesintisiz ve rahat bir oyun deneyimi yaşa."
+    },
+    {
+      "key": "starter_pack",
+      "value": "Başlangıç Paketi"
+    },
+    {
+      "key": "starter_pack_promo",
+      "value": "Oyuna hızlı ve rahat bir başlangıç yap."
+    },
+    {
+      "key": "progress_pack",
+      "value": "İlerleme Paketi"
+    },
+    {
+      "key": "progress_pack_promo",
+      "value": "Daha hızlı ilerle, daha çok keyif al."
+    },
+    {
+      "key": "mini_game_pass",
+      "value": "Mini Oyun Bileti"
+    },
+    {
+      "key": "mini_game_pass_promo",
+      "value": "Tüm mini oyunların keyfini çıkar."
+    },
+    {
+      "key": "builder_pack",
+      "value": "İnşa Paketi"
+    },
+    {
+      "key": "builder_pack_promo",
+      "value": "Evin için daha hızlı ilerleme."
+    },
+    {
+      "key": "leaderboard_boost",
+      "value": "Sıralama Desteği"
+    },
+    {
+      "key": "leaderboard_boost_promo",
+      "value": "Daha hızlı yüksel ve öne çık."
     }
   ]
 }

@@ -567,6 +567,54 @@
     {
       "key": "bad_luck",
       "value": "Bad Luck"
+    },
+    {
+      "key": "no_ads",
+      "value": "No Ads Experience"
+    },
+    {
+      "key": "no_ads_promo",
+      "value": "Enjoy uninterrupted gameplay with no ads."
+    },
+    {
+      "key": "starter_pack",
+      "value": "Starter Pack"
+    },
+    {
+      "key": "starter_pack_promo",
+      "value": "Get a smooth and fast start to your journey."
+    },
+    {
+      "key": "progress_pack",
+      "value": "Progress Pack"
+    },
+    {
+      "key": "progress_pack_promo",
+      "value": "Move forward faster and enjoy more."
+    },
+    {
+      "key": "mini_game_pass",
+      "value": "Mini Game Pass"
+    },
+    {
+      "key": "mini_game_pass_promo",
+      "value": "Enjoy all mini games with ease."
+    },
+    {
+      "key": "builder_pack",
+      "value": "Builder Pack"
+    },
+    {
+      "key": "builder_pack_promo",
+      "value": "Build and upgrade faster."
+    },
+    {
+      "key": "leaderboard_boost",
+      "value": "Leaderboard Boost"
+    },
+    {
+      "key": "leaderboard_boost_promo",
+      "value": "Climb the leaderboard faster."
     }
   ]
 }
