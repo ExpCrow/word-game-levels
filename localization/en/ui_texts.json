@@ -615,6 +615,10 @@
     {
       "key": "leaderboard_boost_promo",
       "value": "Climb the leaderboard faster."
+    },
+    {
+      "key": "play_random_mini_game",
+      "value": "Play Random Mini Game"
     }
   ]
 }

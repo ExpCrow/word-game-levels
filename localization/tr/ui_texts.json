@@ -615,6 +615,10 @@
     {
       "key": "leaderboard_boost_promo",
       "value": "Daha hızlı yüksel ve öne çık."
+    },
+    {
+      "key": "play_random_mini_game",
+      "value": "Rastgele Mini Oyun Oyna"
     }
   ]
 }

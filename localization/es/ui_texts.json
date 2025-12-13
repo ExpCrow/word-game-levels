@@ -615,6 +615,10 @@
     {
       "key": "leaderboard_boost_promo",
       "value": "Sube más rápido en la clasificación."
+    },
+    {
+      "key": "play_random_mini_game",
+      "value": "Jugar a un minijuego aleatorio"
     }
   ]
 }
