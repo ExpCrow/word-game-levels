@@ -43,3 +43,6 @@
 
 [2026-01-17 00:43:06] Güncelleme Raporu
 🔼 Versiyonu artan diller: en (v12), tr (v12), fr (v12), de (v12), it (v12), es (v12)
+
+[2026-01-17 00:46:41] Güncelleme Raporu
+⏸ Değişmeyen diller: en (v12), tr (v12), fr (v12), de (v12), it (v12), es (v12)
