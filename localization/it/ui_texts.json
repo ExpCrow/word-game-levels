@@ -827,6 +827,14 @@
     {
       "key": "volleyball",
       "value": "Pallavolo"
+    },
+    {
+      "key": "claim_all",
+      "value": "Riscatta tutto"
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

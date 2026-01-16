@@ -827,6 +827,14 @@
     {
       "key": "volleyball",
       "value": "Voleybol"
+    },
+    {
+      "key": "claim_all",
+      "value": "Hepsini Al"
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

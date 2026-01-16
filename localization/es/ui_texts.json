@@ -827,6 +827,14 @@
     {
       "key": "volleyball",
       "value": "Voleibol"
+    },
+    {
+      "key": "claim_all",
+      "value": "Reclamar todo"
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }

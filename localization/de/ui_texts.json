@@ -827,6 +827,14 @@
     {
       "key": "volleyball",
       "value": "Volleyball"
+    },
+    {
+      "key": "claim_all",
+      "value": "Alles abholen"
+    },
+    {
+      "key": null,
+      "value": null
     }
   ]
 }
