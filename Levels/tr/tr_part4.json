@@ -4,112 +4,6 @@
       "id": 31,
       "letters": [
         "E",
-        "A",
-        "B",
-        "Y",
-        "Z"
-      ],
-      "answers": [
-        {
-          "word": "BEZ",
-          "meaning": "Pamuk ya da keten ipliğinden yapılmış dokuma."
-        },
-        {
-          "word": "BAY",
-          "meaning": "Erkeklerin ad veya soyadlarının önüne gelen saygı sözcüğüdür"
-        },
-        {
-          "word": "BEY",
-          "meaning": "Erkek adlarının sonuna getirilen bir saygı sanı."
-        },
-        {
-          "word": "YAZ",
-          "meaning": "21 Haziranda başlayıp 23 Eylüle değin süren, ilkbaharla sonbahar arasında yer alan, yılın en sıcak mevsimi."
-        },
-        {
-          "word": "BEYAZ",
-          "meaning": "Süt, pamuk, kar gibi şeylerin rengi."
-        }
-      ],
-      "extra": [
-        {
-          "word": "BAZ",
-          "meaning": "Suda iyonlaştıklarında ortama OH− (hidroksit) iyonu ve elektron çifti verebilen maddelerdir"
-        },
-        {
-          "word": "ABE",
-          "meaning": "Seslenme ve dikkati çekme ünlemi."
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "letters": [
-        "N",
-        "S",
-        "A",
-        "O",
-        "Ğ"
-      ],
-      "answers": [
-        {
-          "word": "SOĞAN",
-          "meaning": "Bahçelerde yetiştirilen ıtırlı bir bitki."
-        },
-        {
-          "word": "SAĞ",
-          "meaning": "Yönlerden biri"
-        },
-        {
-          "word": "SON",
-          "meaning": "Kesin bir şekilde; kesin veya kati bir şekilde"
-        }
-      ],
-      "extra": [
-        {
-          "word": "SAN",
-          "meaning": "Ün, şan, şöhret."
-        },
-        {
-          "word": "NAS",
-          "meaning": "Bir ulusun ekonomik faaliyetlerini ölçmek için eksiksiz ve tutarlı muhasebe tekniklerinin uygulanması"
-        },
-        {
-          "word": "ONA",
-          "meaning": "Adılının yönelme durumu."
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "letters": [
-        "B",
-        "Ç",
-        "E",
-        "K",
-        "İ"
-      ],
-      "answers": [
-        {
-          "word": "KEÇİ",
-          "meaning": "Gevişgetirenlerden, yeryüzünün her yerinde eti, sütü, derisi ve kılı için yetiştirilen, memeli evcil hayvan."
-        },
-        {
-          "word": "BEKÇİ",
-          "meaning": "Bir şeyi ya da bir yeri bekleyip korumakla görevli kimse."
-        }
-      ],
-      "extra": [
-        {
-          "word": "ÇEK",
-          "meaning": "Bir ödeme aracı "
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "letters": [
-        "E",
         "J",
         "N",
         "T",
@@ -149,7 +43,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 32,
       "letters": [
         "P",
         "K",
@@ -183,7 +77,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 33,
       "letters": [
         "B",
         "N",
@@ -213,7 +107,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 34,
       "letters": [
         "A",
         "Y",
@@ -271,7 +165,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 35,
       "letters": [
         "V",
         "P",
@@ -305,7 +199,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 36,
       "letters": [
         "A",
         "R",
@@ -343,7 +237,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 37,
       "letters": [
         "B",
         "L",
@@ -373,6 +267,104 @@
         {
           "word": "MÜL",
           "meaning": "Bir kişinin özel mülkiyetinde olan taşınır ya da taşınmaz varlıkları ifade eder."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "letters": [
+        "D",
+        "G",
+        "Y",
+        "U",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "DUYU",
+          "meaning": "Duyulama etkinliğinin farkına varan içsel bir güçtür"
+        },
+        {
+          "word": "DUY",
+          "meaning": "Elektrik ampulünün takıldığı, bakır ya da pirinçten yapılmış, yivli araç."
+        },
+        {
+          "word": "UYDU",
+          "meaning": "Bir gökcisminin çekiminde kalarak onun çevresinde dolanan ve onunla birlikte Güneş çevresinde dönen daha küçük gökcismi."
+        }
+      ],
+      "extra": [
+        {
+          "word": "DUYGU",
+          "meaning": "Bir olay, kimse ya da nesnenin insanın iç dünyasında oluşturduğu, uyandırdığı yankı, etki, tepki, izlenim."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "letters": [
+        "K",
+        "E",
+        "Ç",
+        "Ç",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "KEÇİ",
+          "meaning": "Gevişgetirenlerden, yeryüzünün her yerinde eti, sütü, derisi ve kılı için yetiştirilen, memeli evcil hayvan."
+        },
+        {
+          "word": "ÇEK",
+          "meaning": "Bir ödeme aracı"
+        },
+        {
+          "word": "ÇİÇEK",
+          "meaning": "Bir bitkinin, üreme organlarını taşıyan, genellikle hoş kokulu ve renkli bölümü."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇEKİÇ",
+          "meaning": "Madenleri dövmek, çivi çakmak gibi işlerde kullanılan, belli uzunlukta bir sapla dövecek maden bir bölümden oluşan araç."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "letters": [
+        "U",
+        "R",
+        "N",
+        "S",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "RUS",
+          "meaning": "Rusya’da yaşayan Doğu Slav halkı ya da bu halktan olan"
+        },
+        {
+          "word": "SORU",
+          "meaning": "Bir şey öğrenmek için birine yöneltilen ve yanıt gerektiren söz ya da yazı."
+        },
+        {
+          "word": "SUR",
+          "meaning": "Kale duvarı, yüksek duvar."
+        },
+        {
+          "word": "ONUR",
+          "meaning": "Kişinin kendi varlığına, kendi kişiliğine karşı beslediği saygı, insanı insan yapan iç değer."
+        },
+        {
+          "word": "SORUN",
+          "meaning": "Olumlu ya da olumsuz bir sonuca ulaştırılması gereken durum."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SON",
+          "meaning": "En arkada, en geride bulunan."
         }
       ]
     }

@@ -3,128 +3,6 @@
     {
       "id": 71,
       "letters": [
-        "N",
-        "A",
-        "P",
-        "S",
-        "İ"
-      ],
-      "answers": [
-        {
-          "word": "ANİ",
-          "meaning": NaN
-        },
-        {
-          "word": "NASİP",
-          "meaning": NaN
-        },
-        {
-          "word": "ASİ",
-          "meaning": NaN
-        },
-        {
-          "word": "SAP",
-          "meaning": NaN
-        },
-        {
-          "word": "PİS",
-          "meaning": NaN
-        },
-        {
-          "word": "PAS",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "SAN",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "letters": [
-        "T",
-        "O",
-        "U",
-        "N",
-        "K"
-      ],
-      "answers": [
-        {
-          "word": "TOK",
-          "meaning": NaN
-        },
-        {
-          "word": "KONU",
-          "meaning": NaN
-        },
-        {
-          "word": "TON",
-          "meaning": NaN
-        },
-        {
-          "word": "KONUT",
-          "meaning": NaN
-        },
-        {
-          "word": "NOT",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "KOT",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "letters": [
-        "K",
-        "A",
-        "N",
-        "A",
-        "B"
-      ],
-      "answers": [
-        {
-          "word": "BANK",
-          "meaning": NaN
-        },
-        {
-          "word": "KAN",
-          "meaning": NaN
-        },
-        {
-          "word": "KABAN",
-          "meaning": NaN
-        },
-        {
-          "word": "ANA",
-          "meaning": NaN
-        },
-        {
-          "word": "BANKA",
-          "meaning": NaN
-        },
-        {
-          "word": "BAKAN",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "KABA",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "letters": [
         "K",
         "I",
         "T",
@@ -169,7 +47,7 @@
       ]
     },
     {
-      "id": 75,
+      "id": 72,
       "letters": [
         "T",
         "A",
@@ -211,7 +89,7 @@
       ]
     },
     {
-      "id": 76,
+      "id": 73,
       "letters": [
         "S",
         "N",
@@ -257,7 +135,7 @@
       ]
     },
     {
-      "id": 77,
+      "id": 74,
       "letters": [
         "K",
         "R",
@@ -300,7 +178,7 @@
       ]
     },
     {
-      "id": 78,
+      "id": 75,
       "letters": [
         "A",
         "B",
@@ -330,7 +208,7 @@
       ]
     },
     {
-      "id": 79,
+      "id": 76,
       "letters": [
         "C",
         "V",
@@ -368,7 +246,7 @@
       ]
     },
     {
-      "id": 80,
+      "id": 77,
       "letters": [
         "E",
         "Y",
@@ -401,6 +279,115 @@
       "extra": [
         {
           "word": "MEY",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "letters": [
+        "U",
+        "Z",
+        "O",
+        "K",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "KOZ",
+          "meaning": NaN
+        },
+        {
+          "word": "DOKU",
+          "meaning": NaN
+        },
+        {
+          "word": "DOKUZ",
+          "meaning": NaN
+        },
+        {
+          "word": "KOD",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DOZ",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "letters": [
+        "K",
+        "R",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "KIR",
+          "meaning": NaN
+        },
+        {
+          "word": "KAR",
+          "meaning": NaN
+        },
+        {
+          "word": "IRAK",
+          "meaning": NaN
+        },
+        {
+          "word": "IRK",
+          "meaning": NaN
+        },
+        {
+          "word": "ARI",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "RAKI",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "letters": [
+        "Y",
+        "K",
+        "O",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "KOY",
+          "meaning": NaN
+        },
+        {
+          "word": "OYMAK",
+          "meaning": NaN
+        },
+        {
+          "word": "MAYO",
+          "meaning": NaN
+        },
+        {
+          "word": "OYA",
+          "meaning": NaN
+        },
+        {
+          "word": "KOMA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "YOK",
           "meaning": NaN
         }
       ]

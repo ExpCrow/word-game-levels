@@ -619,6 +619,214 @@
     {
       "key": "play_random_mini_game",
       "value": "Rastgele Mini Oyun Oyna"
+    },
+    {
+      "key": "cards",
+      "value": "Kartlar"
+    },
+    {
+      "key": "collection_completed",
+      "value": "Tamamlandı"
+    },
+    {
+      "key": "animals",
+      "value": "Hayvanlar"
+    },
+    {
+      "key": "plants",
+      "value": "Bitkiler"
+    },
+    {
+      "key": "forgetten",
+      "value": "Forgetten"
+    },
+    {
+      "key": "countries",
+      "value": "Ülkeler"
+    },
+    {
+      "key": "sports",
+      "value": "Spor"
+    },
+    {
+      "key": "giraffe",
+      "value": "Zürafa"
+    },
+    {
+      "key": "cat",
+      "value": "Kedi"
+    },
+    {
+      "key": "dog",
+      "value": "Köpek"
+    },
+    {
+      "key": "parrot",
+      "value": "Papağan"
+    },
+    {
+      "key": "goat",
+      "value": "Keçi"
+    },
+    {
+      "key": "rabbit",
+      "value": "Tavşan"
+    },
+    {
+      "key": "peacock",
+      "value": "Tavuskuşu"
+    },
+    {
+      "key": "water_otter",
+      "value": "Su Samuru"
+    },
+    {
+      "key": "lion",
+      "value": "Aslan"
+    },
+    {
+      "key": "rose",
+      "value": "Gül"
+    },
+    {
+      "key": "tulip",
+      "value": "Lale"
+    },
+    {
+      "key": "sunflower",
+      "value": "Ayçiçeği"
+    },
+    {
+      "key": "orchid",
+      "value": "Orkide"
+    },
+    {
+      "key": "daisy",
+      "value": "Daisy"
+    },
+    {
+      "key": "cactus",
+      "value": "Kaktüs"
+    },
+    {
+      "key": "bamboo",
+      "value": "Bambu"
+    },
+    {
+      "key": "olive",
+      "value": "Zeytin"
+    },
+    {
+      "key": "palm_tree",
+      "value": "Palmiye Ağacı"
+    },
+    {
+      "key": "topac",
+      "value": "Topac"
+    },
+    {
+      "key": "cassette",
+      "value": "Kaset"
+    },
+    {
+      "key": "letter",
+      "value": "Mektup"
+    },
+    {
+      "key": "tube_television",
+      "value": "Tüp Televizyon"
+    },
+    {
+      "key": "floppy_disk",
+      "value": "Disket"
+    },
+    {
+      "key": "cd",
+      "value": "CD"
+    },
+    {
+      "key": "typewriter",
+      "value": "Daktilo"
+    },
+    {
+      "key": "pickup",
+      "value": "Pikap"
+    },
+    {
+      "key": "dinosaur",
+      "value": "Dinozor"
+    },
+    {
+      "key": "america",
+      "value": "Amerika"
+    },
+    {
+      "key": "england",
+      "value": "İngiltere"
+    },
+    {
+      "key": "france",
+      "value": "Fransa"
+    },
+    {
+      "key": "turkiye",
+      "value": "Türkiye"
+    },
+    {
+      "key": "japan",
+      "value": "Japonya"
+    },
+    {
+      "key": "china",
+      "value": "Çin"
+    },
+    {
+      "key": "india",
+      "value": "Hindistan"
+    },
+    {
+      "key": "brazil",
+      "value": "Brezilya"
+    },
+    {
+      "key": "egypt",
+      "value": "Mısır"
+    },
+    {
+      "key": "football",
+      "value": "Futbol"
+    },
+    {
+      "key": "basketball",
+      "value": "Basketbol"
+    },
+    {
+      "key": "tennis",
+      "value": "Tenis"
+    },
+    {
+      "key": "swimming",
+      "value": "Yüzme"
+    },
+    {
+      "key": "athletics",
+      "value": "Atletizm"
+    },
+    {
+      "key": "boxing",
+      "value": "Boks"
+    },
+    {
+      "key": "skiing",
+      "value": "Kayak"
+    },
+    {
+      "key": "cycling",
+      "value": "Bisiklet"
+    },
+    {
+      "key": "volleyball",
+      "value": "Voleybol"
     }
   ]
 }

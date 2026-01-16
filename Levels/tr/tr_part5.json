@@ -3,104 +3,6 @@
     {
       "id": 41,
       "letters": [
-        "D",
-        "G",
-        "Y",
-        "U",
-        "U"
-      ],
-      "answers": [
-        {
-          "word": "DUYU",
-          "meaning": "Duyulama etkinliğinin farkına varan içsel bir güçtür"
-        },
-        {
-          "word": "DUY",
-          "meaning": "Elektrik ampulünün takıldığı, bakır ya da pirinçten yapılmış, yivli araç."
-        },
-        {
-          "word": "UYDU",
-          "meaning": "Bir gökcisminin çekiminde kalarak onun çevresinde dolanan ve onunla birlikte Güneş çevresinde dönen daha küçük gökcismi."
-        }
-      ],
-      "extra": [
-        {
-          "word": "DUYGU",
-          "meaning": "Bir olay, kimse ya da nesnenin insanın iç dünyasında oluşturduğu, uyandırdığı yankı, etki, tepki, izlenim."
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "letters": [
-        "K",
-        "E",
-        "Ç",
-        "Ç",
-        "İ"
-      ],
-      "answers": [
-        {
-          "word": "KEÇİ",
-          "meaning": "Gevişgetirenlerden, yeryüzünün her yerinde eti, sütü, derisi ve kılı için yetiştirilen, memeli evcil hayvan."
-        },
-        {
-          "word": "ÇEK",
-          "meaning": "Bir ödeme aracı"
-        },
-        {
-          "word": "ÇİÇEK",
-          "meaning": "Bir bitkinin, üreme organlarını taşıyan, genellikle hoş kokulu ve renkli bölümü."
-        }
-      ],
-      "extra": [
-        {
-          "word": "ÇEKİÇ",
-          "meaning": "Madenleri dövmek, çivi çakmak gibi işlerde kullanılan, belli uzunlukta bir sapla dövecek maden bir bölümden oluşan araç."
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "letters": [
-        "U",
-        "R",
-        "N",
-        "S",
-        "O"
-      ],
-      "answers": [
-        {
-          "word": "RUS",
-          "meaning": "Rusya’da yaşayan Doğu Slav halkı ya da bu halktan olan"
-        },
-        {
-          "word": "SORU",
-          "meaning": "Bir şey öğrenmek için birine yöneltilen ve yanıt gerektiren söz ya da yazı."
-        },
-        {
-          "word": "SUR",
-          "meaning": "Kale duvarı, yüksek duvar."
-        },
-        {
-          "word": "ONUR",
-          "meaning": "Kişinin kendi varlığına, kendi kişiliğine karşı beslediği saygı, insanı insan yapan iç değer."
-        },
-        {
-          "word": "SORUN",
-          "meaning": "Olumlu ya da olumsuz bir sonuca ulaştırılması gereken durum."
-        }
-      ],
-      "extra": [
-        {
-          "word": "SON",
-          "meaning": "En arkada, en geride bulunan."
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "letters": [
         "B",
         "R",
         "İ",
@@ -129,7 +31,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 42,
       "letters": [
         "H",
         "P",
@@ -167,7 +69,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 43,
       "letters": [
         "K",
         "İ",
@@ -213,7 +115,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 44,
       "letters": [
         "A",
         "B",
@@ -243,7 +145,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 45,
       "letters": [
         "R",
         "U",
@@ -273,7 +175,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 46,
       "letters": [
         "V",
         "İ",
@@ -319,7 +221,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": 47,
       "letters": [
         "Ü",
         "G",
@@ -357,6 +259,144 @@
         {
           "word": "ÖZGÜ",
           "meaning": "Belli bir kimsede ya da şeyde bulunan, yalnız onun özelliğini taşıyan."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "letters": [
+        "E",
+        "K",
+        "A",
+        "R",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "KAP",
+          "meaning": "Tencere, tabak, tava, sahan gibi mutfak eşyasının ortak adı."
+        },
+        {
+          "word": "PARKE",
+          "meaning": "Yapılarda yer döşemesinde kullanılan, küçük ve kendine özgü biçimli tahta parçası."
+        },
+        {
+          "word": "PEK",
+          "meaning": "Dayanıklı, güçlü, sağlam."
+        },
+        {
+          "word": "KAR",
+          "meaning": "Havada bulunan su buharının donmasıyla oluşarak yeryüzüne yağan beyaz ve hafif buz billurları."
+        },
+        {
+          "word": "KEP",
+          "meaning": "Sipersiz hafif başlık, şapka."
+        },
+        {
+          "word": "PARK",
+          "meaning": "Taşıtların park edildiği yer, otopark."
+        },
+        {
+          "word": "AKREP",
+          "meaning": "Sıcak ve nemli yerlerde yaşayan, kıvrık ve kalkık kuyruğunda ağılı bir iğnesi bulunan bir böcek."
+        },
+        {
+          "word": "KARE",
+          "meaning": "Kenarları ve açıları birbirine eşit olan dörtgen."
+        }
+      ],
+      "extra": [
+        {
+          "word": "PAK",
+          "meaning": "Arı duru, arınmış, temiz."
+        },
+        {
+          "word": "KER",
+          "meaning": "Kuvvet ve kudret'"
+        },
+        {
+          "word": "RAP",
+          "meaning": "Ansızın, birdenbire durmak anlamına gelen"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "letters": [
+        "İ",
+        "T",
+        "B",
+        "U",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "BİT",
+          "meaning": "Bütün kuşkularını açıklamak."
+        },
+        {
+          "word": "TİK",
+          "meaning": "Herhangi bir kas kümesinin istençdışı devinimi."
+        },
+        {
+          "word": "BUTİK",
+          "meaning": "Giyim ve süs eşyası satılan küçük dükkân."
+        },
+        {
+          "word": "BUT",
+          "meaning": "İnsan vücudunda, kalçadan dize değin olan bölüm."
+        }
+      ],
+      "extra": [
+        {
+          "word": "KUT",
+          "meaning": "İyilik getiren şey, uğur, baht, talih."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "letters": [
+        "Z",
+        "A",
+        "T",
+        "O",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "ZAM",
+          "meaning": "Bir şeyin fiyatına ek yapma, fiyatını artırma."
+        },
+        {
+          "word": "TAM",
+          "meaning": "Eksiksiz, kesintisiz."
+        },
+        {
+          "word": "ZAT",
+          "meaning": "Kimse, kişi."
+        },
+        {
+          "word": "MAT",
+          "meaning": "Parlak olmayan, donuk."
+        },
+        {
+          "word": "MAZOT",
+          "meaning": "Ham petrolün damıtılmasıyla elde edilen ürünlerden biri olan ve yakıt olarak kullanılan, kalınca bir akaryakıt."
+        },
+        {
+          "word": "ATOM",
+          "meaning": "Gerçekliği, nesneyi oluşturan ve artık bölünemez, bozulamaz olarak tasarlanan en küçük, ana öğe."
+        },
+        {
+          "word": "TOZ",
+          "meaning": "Çok küçük ve hafif parçacıklara bölünmüş, un ufak olmuş toprak."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AZOT",
+          "meaning": "Simgesi N, atom sayısı 7, atom ağırlığı 14.01 olan, havanın beşte dördünü oluşturan, rengi, kokusu, tadı olmayan bir element."
         }
       ]
     }

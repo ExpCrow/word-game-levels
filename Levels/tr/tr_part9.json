@@ -3,115 +3,6 @@
     {
       "id": 81,
       "letters": [
-        "U",
-        "Z",
-        "O",
-        "K",
-        "D"
-      ],
-      "answers": [
-        {
-          "word": "KOZ",
-          "meaning": NaN
-        },
-        {
-          "word": "DOKU",
-          "meaning": NaN
-        },
-        {
-          "word": "DOKUZ",
-          "meaning": NaN
-        },
-        {
-          "word": "KOD",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "DOZ",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "letters": [
-        "K",
-        "R",
-        "A",
-        "I"
-      ],
-      "answers": [
-        {
-          "word": "KIR",
-          "meaning": NaN
-        },
-        {
-          "word": "KAR",
-          "meaning": NaN
-        },
-        {
-          "word": "IRAK",
-          "meaning": NaN
-        },
-        {
-          "word": "IRK",
-          "meaning": NaN
-        },
-        {
-          "word": "ARI",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "RAKI",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "letters": [
-        "Y",
-        "K",
-        "O",
-        "M",
-        "A"
-      ],
-      "answers": [
-        {
-          "word": "KOY",
-          "meaning": NaN
-        },
-        {
-          "word": "OYMAK",
-          "meaning": NaN
-        },
-        {
-          "word": "MAYO",
-          "meaning": NaN
-        },
-        {
-          "word": "OYA",
-          "meaning": NaN
-        },
-        {
-          "word": "KOMA",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "YOK",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "letters": [
         "K",
         "A",
         "D",
@@ -152,7 +43,7 @@
       ]
     },
     {
-      "id": 85,
+      "id": 82,
       "letters": [
         "N",
         "B",
@@ -190,7 +81,7 @@
       ]
     },
     {
-      "id": 86,
+      "id": 83,
       "letters": [
         "R",
         "N",
@@ -232,7 +123,7 @@
       ]
     },
     {
-      "id": 87,
+      "id": 84,
       "letters": [
         "T",
         "N",
@@ -278,7 +169,7 @@
       ]
     },
     {
-      "id": 88,
+      "id": 85,
       "letters": [
         "I",
         "R",
@@ -320,9 +211,9 @@
       ]
     },
     {
-      "id": 89,
+      "id": 86,
       "letters": [
-        "U",
+        "Z.U",
         "N",
         "O",
         "K",
@@ -358,7 +249,7 @@
       ]
     },
     {
-      "id": 90,
+      "id": 87,
       "letters": [
         "B",
         "Z",
@@ -395,6 +286,120 @@
       "extra": [
         {
           "word": "BAZ",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "letters": [
+        "L",
+        "A",
+        "B",
+        "T",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "BAL",
+          "meaning": NaN
+        },
+        {
+          "word": "ATLI",
+          "meaning": NaN
+        },
+        {
+          "word": "ALTI",
+          "meaning": NaN
+        },
+        {
+          "word": "BATIL",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "BATIL",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "letters": [
+        "E",
+        "A",
+        "T",
+        "D",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "VEDA",
+          "meaning": NaN
+        },
+        {
+          "word": "EDA",
+          "meaning": NaN
+        },
+        {
+          "word": "DAVET",
+          "meaning": NaN
+        },
+        {
+          "word": "VADE",
+          "meaning": NaN
+        },
+        {
+          "word": "ADET",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "DEVA",
+          "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "letters": [
+        "A",
+        "T",
+        "Y",
+        "A",
+        "F"
+      ],
+      "answers": [
+        {
+          "word": "FAY",
+          "meaning": NaN
+        },
+        {
+          "word": "ATA",
+          "meaning": NaN
+        },
+        {
+          "word": "TAYF",
+          "meaning": NaN
+        },
+        {
+          "word": "YAT",
+          "meaning": NaN
+        },
+        {
+          "word": "TAY",
+          "meaning": NaN
+        },
+        {
+          "word": "TAYFA",
+          "meaning": NaN
+        }
+      ],
+      "extra": [
+        {
+          "word": "YAFTA",
           "meaning": NaN
         }
       ]

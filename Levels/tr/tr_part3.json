@@ -3,230 +3,223 @@
     {
       "id": 21,
       "letters": [
-        "Ü",
-        "A",
-        "R",
-        "Y"
-      ],
-      "answers": [
-        {
-          "word": "YAR",
-          "meaning": "Sevgili, dost"
-        },
-        {
-          "word": "RÜYA",
-          "meaning": "Hayal veya düş"
-        },
-        {
-          "word": "RAY",
-          "meaning": "Bİrbirine koşut biçimdeki çelik yol"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 22,
-      "letters": [
-        "U",
-        "K",
-        "O",
-        "Ş"
-      ],
-      "answers": [
-        {
-          "word": "KUŞ",
-          "meaning": "İki kanatlı uçucu hayvanların ortak adı."
-        },
-        {
-          "word": "KOŞU",
-          "meaning": "Koşarak yapılan yarış."
-        },
-        {
-          "word": "ŞOK",
-          "meaning": "Birdenbire gelişen karmaşık belirtilerin tümü."
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 23,
-      "letters": [
-        "İ",
-        "N",
-        "A",
-        "B"
-      ],
-      "answers": [
-        {
-          "word": "BİNA",
-          "meaning": "Çok bölmeli yapı"
-        },
-        {
-          "word": "BİN",
-          "meaning": "Dokuz yüz doksan dokuzdan bir artık olan"
-        },
-        {
-          "word": "ANİ",
-          "meaning": "Birdenbire oluveren"
-        },
-        {
-          "word": "ABİ",
-          "meaning": "Büyük erkek kardeş"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 24,
-      "letters": [
+        "H",
         "A",
         "Y",
-        "I",
-        "P"
-      ],
-      "answers": [
-        {
-          "word": "AYIP",
-          "meaning": "Töre kurallarına aykırı olan"
-        },
-        {
-          "word": "PAY",
-          "meaning": "Eşit bölüm"
-        },
-        {
-          "word": "YAPI",
-          "meaning": "Yapılmakta olan konut"
-        },
-        {
-          "word": "AYI",
-          "meaning": "Yabanıl bir hayvan"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 25,
-      "letters": [
-        "N",
-        "İ",
-        "D",
-        "Ç"
-      ],
-      "answers": [
-        {
-          "word": "ÇİN",
-          "meaning": "Asyada bir ülke "
-        },
-        {
-          "word": "DİN",
-          "meaning": "Tanrı düşüncesine dayalı toplumsal bir kurum."
-        },
-        {
-          "word": "DİNÇ",
-          "meaning": "Gücü ve sağlığı yerinde"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 26,
-      "letters": [
-        "D",
-        "A",
-        "M",
+        "K",
         "A"
       ],
       "answers": [
         {
-          "word": "DAMA",
-          "meaning": "İki kişi arasında oynanan bir oyun"
+          "word": "KAYA",
+          "meaning": "Büyük ve sert taş."
         },
         {
-          "word": "ADAM",
-          "meaning": "Genel anlamda insan, insanoğlu."
+          "word": "AYAK",
+          "meaning": "Yürüme organı."
         },
         {
-          "word": "DAM",
-          "meaning": "Üzeri toprak kaplı köy evi."
-        },
-        {
-          "word": "AMA",
-          "meaning": "İki cümleyi birbirine bağlar."
-        },
-        {
-          "word": "ADA",
-          "meaning": "Dört bir yanı su ile çevrili kara parçası."
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 27,
-      "letters": [
-        "Ç",
-        "E",
-        "L",
-        "İ"
-      ],
-      "answers": [
-        {
-          "word": "ÇİLE",
-          "meaning": "Sıkıntı, zahmet, güçlük."
-        },
-        {
-          "word": "İLÇE",
-          "meaning": "Bir kaymakamca yönetilen bölüm"
-        },
-        {
-          "word": "ÇİL",
-          "meaning": "Açık kahverengi küçük benekler."
-        },
-        {
-          "word": "ELÇİ",
-          "meaning": "Bir devleti başka bir devlet katında temsil eden kimse."
+          "word": "AY",
+          "meaning": "Gece gök cismi."
         }
       ],
       "extra": [
         {
-          "word": "İLE",
-          "meaning": "Sözcüğün sonuna getirilerek urum bildiren tümleçler oluşturmaya yarar"
+          "word": "HAY",
+          "meaning": "Azarlama, şaşma, sevinç vb. duyguları bildirmede kullanılan bir söz."
+        },
+        {
+          "word": "HAYA",
+          "meaning": "Utanma duygusu."
+        },
+        {
+          "word": "KAHYA",
+          "meaning": "Çiftlik veya konakta işleri yöneten kişi."
         }
       ]
     },
     {
-      "id": 28,
+      "id": 22,
       "letters": [
         "A",
         "Y",
-        "B",
-        "O"
+        "N",
+        "E",
+        "N"
       ],
       "answers": [
         {
-          "word": "BOYA",
-          "meaning": "Renk vermek için içlerine katılan renkli madde."
+          "word": "NANE",
+          "meaning": "Baharat olarak kullanılan bir bitki."
         },
         {
-          "word": "BOY",
-          "meaning": "iki kenar arasında kalan uzun bölüm."
+          "word": "ANNE",
+          "meaning": "Çocuğu olan kadın."
         },
         {
-          "word": "OBA",
-          "meaning": "Bir göçebe topluluğunun konak yeri."
+          "word": "YAN",
+          "meaning": "Bir şeyin sol veya sağ tarafı."
         },
         {
-          "word": "BAY",
-          "meaning": "Malı mülkü, parası çok olan"
-        },
-        {
-          "word": "OYA",
-          "meaning": "İnce dantel."
+          "word": "NEY",
+          "meaning": "Kaval biçiminde üflemeli çalgı."
         }
       ],
-      "extra": []
+      "extra": [
+        {
+          "word": "AYNEN",
+          "meaning": "Olduğu gibi; aynıyla."
+        },
+        {
+          "word": "AY",
+          "meaning": "Gece gök cismi."
+        }
+      ]
     },
     {
-      "id": 29,
+      "id": 23,
+      "letters": [
+        "A",
+        "R",
+        "T",
+        "I",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "ARTI",
+          "meaning": "Toplama işleminde + işaretinin adı."
+        },
+        {
+          "word": "ARTIK",
+          "meaning": "Kalan."
+        },
+        {
+          "word": "TIR",
+          "meaning": "Uzun kamyon."
+        },
+        {
+          "word": "KATIR",
+          "meaning": "At ile eşek melezi."
+        },
+        {
+          "word": "ATIK",
+          "meaning": "Kullanım sonrası işe yaramayan madde."
+        },
+        {
+          "word": "KAT",
+          "meaning": "Üst üste gelen bölüm."
+        }
+      ],
+      "extra": [
+        {
+          "word": "TIK",
+          "meaning": "İnce ve küçük bir nesne ile sert bir yere vurulduğunda çıkan ses."
+        },
+        {
+          "word": "KIT",
+          "meaning": "İhtiyaca yetmeyecek kadar az."
+        },
+        {
+          "word": "KIR",
+          "meaning": "Şehir dışında, genellikle tarım veya doğal alan olan yer."
+        },
+        {
+          "word": "TAK",
+          "meaning": "Tahta vb. bir şeye vurulduğunda çıkan ses."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "letters": [
+        "K",
+        "I",
+        "Z",
+        "A",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "KIZ",
+          "meaning": "Dişi çocuk."
+        },
+        {
+          "word": "KIZAK",
+          "meaning": "Kayak aracı."
+        },
+        {
+          "word": "KAZI",
+          "meaning": "Bir yeri kazma işi."
+        },
+        {
+          "word": "AZIK",
+          "meaning": "Gereken yiyecek ve içecek şeyler."
+        },
+        {
+          "word": "KAZ",
+          "meaning": "Suda veya karada yaşayan ve uçan kuş."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AZ",
+          "meaning": "Nicelik, nitelik vb. bakımından eksik."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "letters": [
+        "C",
+        "A",
+        "N",
+        "L",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "CANLI",
+          "meaning": "Hayat sahibi."
+        },
+        {
+          "word": "ALIN",
+          "meaning": "Yüzün, kaşlarla saçlar arasındaki üst bölümü."
+        },
+        {
+          "word": "ACI",
+          "meaning": "Hoş olmayan, yakıcı tat."
+        },
+        {
+          "word": "ANI",
+          "meaning": "Geçmişte yaşanmış ve hatırlanan olay."
+        },
+        {
+          "word": "NAL",
+          "meaning": "Hayvan ayağı koruyucusu."
+        }
+      ],
+      "extra": [
+        {
+          "word": "CAN",
+          "meaning": "Yaşam, hayat veya yaşayan varlık."
+        },
+        {
+          "word": "AN",
+          "meaning": "Belirli, kısa süreli zaman dilimi."
+        },
+        {
+          "word": "AL",
+          "meaning": "Kırmızı renk."
+        }
+      ]
+    },
+    {
+      "id": 26,
       "letters": [
         "Z",
         "A",
@@ -259,7 +252,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 27,
       "letters": [
         "Ğ",
         "T",
@@ -281,6 +274,112 @@
         {
           "word": "ÖĞÜT",
           "meaning": "Uygun bir yol göstermek"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "letters": [
+        "E",
+        "A",
+        "B",
+        "Y",
+        "Z"
+      ],
+      "answers": [
+        {
+          "word": "BEZ",
+          "meaning": "Pamuk ya da keten ipliğinden yapılmış dokuma."
+        },
+        {
+          "word": "BAY",
+          "meaning": "Erkeklerin ad veya soyadlarının önüne gelen saygı sözcüğüdür"
+        },
+        {
+          "word": "BEY",
+          "meaning": "Erkek adlarının sonuna getirilen bir saygı sanı."
+        },
+        {
+          "word": "YAZ",
+          "meaning": "21 Haziranda başlayıp 23 Eylüle değin süren, ilkbaharla sonbahar arasında yer alan, yılın en sıcak mevsimi."
+        },
+        {
+          "word": "BEYAZ",
+          "meaning": "Süt, pamuk, kar gibi şeylerin rengi."
+        }
+      ],
+      "extra": [
+        {
+          "word": "BAZ",
+          "meaning": "Suda iyonlaştıklarında ortama OH− (hidroksit) iyonu ve elektron çifti verebilen maddelerdir"
+        },
+        {
+          "word": "ABE",
+          "meaning": "Seslenme ve dikkati çekme ünlemi."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "letters": [
+        "N",
+        "S",
+        "A",
+        "O",
+        "Ğ"
+      ],
+      "answers": [
+        {
+          "word": "SOĞAN",
+          "meaning": "Bahçelerde yetiştirilen ıtırlı bir bitki."
+        },
+        {
+          "word": "SAĞ",
+          "meaning": "Yönlerden biri"
+        },
+        {
+          "word": "SON",
+          "meaning": "Kesin bir şekilde; kesin veya kati bir şekilde"
+        }
+      ],
+      "extra": [
+        {
+          "word": "SAN",
+          "meaning": "Ün, şan, şöhret."
+        },
+        {
+          "word": "NAS",
+          "meaning": "Bir ulusun ekonomik faaliyetlerini ölçmek için eksiksiz ve tutarlı muhasebe tekniklerinin uygulanması"
+        },
+        {
+          "word": "ONA",
+          "meaning": "Adılının yönelme durumu."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "letters": [
+        "B",
+        "Ç",
+        "E",
+        "K",
+        "İ"
+      ],
+      "answers": [
+        {
+          "word": "KEÇİ",
+          "meaning": "Gevişgetirenlerden, yeryüzünün her yerinde eti, sütü, derisi ve kılı için yetiştirilen, memeli evcil hayvan."
+        },
+        {
+          "word": "BEKÇİ",
+          "meaning": "Bir şeyi ya da bir yeri bekleyip korumakla görevli kimse."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇEK",
+          "meaning": "Bir ödeme aracı "
         }
       ]
     }

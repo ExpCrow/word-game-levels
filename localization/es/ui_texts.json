@@ -619,6 +619,214 @@
     {
       "key": "play_random_mini_game",
       "value": "Jugar a un minijuego aleatorio"
+    },
+    {
+      "key": "cards",
+      "value": "Tarjetas"
+    },
+    {
+      "key": "collection_completed",
+      "value": "Completado"
+    },
+    {
+      "key": "animals",
+      "value": "Animales"
+    },
+    {
+      "key": "plants",
+      "value": "Plantas"
+    },
+    {
+      "key": "forgetten",
+      "value": "Olvidado"
+    },
+    {
+      "key": "countries",
+      "value": "Países"
+    },
+    {
+      "key": "sports",
+      "value": "Deportes"
+    },
+    {
+      "key": "giraffe",
+      "value": "Jirafa"
+    },
+    {
+      "key": "cat",
+      "value": "Gato"
+    },
+    {
+      "key": "dog",
+      "value": "Perro"
+    },
+    {
+      "key": "parrot",
+      "value": "Loro"
+    },
+    {
+      "key": "goat",
+      "value": "Cabra"
+    },
+    {
+      "key": "rabbit",
+      "value": "Conejo"
+    },
+    {
+      "key": "peacock",
+      "value": "Pavo real"
+    },
+    {
+      "key": "water_otter",
+      "value": "Nutria de agua"
+    },
+    {
+      "key": "lion",
+      "value": "León"
+    },
+    {
+      "key": "rose",
+      "value": "Rosa"
+    },
+    {
+      "key": "tulip",
+      "value": "Tulipán"
+    },
+    {
+      "key": "sunflower",
+      "value": "Girasol"
+    },
+    {
+      "key": "orchid",
+      "value": "Orquídea"
+    },
+    {
+      "key": "daisy",
+      "value": "Daisy"
+    },
+    {
+      "key": "cactus",
+      "value": "Cactus"
+    },
+    {
+      "key": "bamboo",
+      "value": "Bambú"
+    },
+    {
+      "key": "olive",
+      "value": "Oliva"
+    },
+    {
+      "key": "palm_tree",
+      "value": "Palmera"
+    },
+    {
+      "key": "topac",
+      "value": "Topac"
+    },
+    {
+      "key": "cassette",
+      "value": "Cassette"
+    },
+    {
+      "key": "letter",
+      "value": "Carta"
+    },
+    {
+      "key": "tube_television",
+      "value": "Televisión por tubo"
+    },
+    {
+      "key": "floppy_disk",
+      "value": "Disquete"
+    },
+    {
+      "key": "cd",
+      "value": "CD"
+    },
+    {
+      "key": "typewriter",
+      "value": "Máquina de escribir"
+    },
+    {
+      "key": "pickup",
+      "value": "Recogida"
+    },
+    {
+      "key": "dinosaur",
+      "value": "Dinosaurio"
+    },
+    {
+      "key": "america",
+      "value": "América"
+    },
+    {
+      "key": "england",
+      "value": "Inglaterra"
+    },
+    {
+      "key": "france",
+      "value": "Francia"
+    },
+    {
+      "key": "turkiye",
+      "value": "Türkiye"
+    },
+    {
+      "key": "japan",
+      "value": "Japón"
+    },
+    {
+      "key": "china",
+      "value": "China"
+    },
+    {
+      "key": "india",
+      "value": "India"
+    },
+    {
+      "key": "brazil",
+      "value": "Brasil"
+    },
+    {
+      "key": "egypt",
+      "value": "Egipto"
+    },
+    {
+      "key": "football",
+      "value": "Fútbol"
+    },
+    {
+      "key": "basketball",
+      "value": "Baloncesto"
+    },
+    {
+      "key": "tennis",
+      "value": "Tenis"
+    },
+    {
+      "key": "swimming",
+      "value": "Natación"
+    },
+    {
+      "key": "athletics",
+      "value": "Atletismo"
+    },
+    {
+      "key": "boxing",
+      "value": "Boxeo"
+    },
+    {
+      "key": "skiing",
+      "value": "Esquí"
+    },
+    {
+      "key": "cycling",
+      "value": "Ciclismo"
+    },
+    {
+      "key": "volleyball",
+      "value": "Voleibol"
     }
   ]
 }

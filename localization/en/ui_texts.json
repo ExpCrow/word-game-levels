@@ -619,6 +619,214 @@
     {
       "key": "play_random_mini_game",
       "value": "Play Random Mini Game"
+    },
+    {
+      "key": "cards",
+      "value": "Cards"
+    },
+    {
+      "key": "collection_completed",
+      "value": "Completed"
+    },
+    {
+      "key": "animals",
+      "value": "Animals"
+    },
+    {
+      "key": "plants",
+      "value": "Plants"
+    },
+    {
+      "key": "forgetten",
+      "value": "Forgetten"
+    },
+    {
+      "key": "countries",
+      "value": "Countries"
+    },
+    {
+      "key": "sports",
+      "value": "Sports"
+    },
+    {
+      "key": "giraffe",
+      "value": "Giraffe"
+    },
+    {
+      "key": "cat",
+      "value": "Cat"
+    },
+    {
+      "key": "dog",
+      "value": "Dog"
+    },
+    {
+      "key": "parrot",
+      "value": "Parrot"
+    },
+    {
+      "key": "goat",
+      "value": "Goat"
+    },
+    {
+      "key": "rabbit",
+      "value": "Rabbit"
+    },
+    {
+      "key": "peacock",
+      "value": "Peacock"
+    },
+    {
+      "key": "water_otter",
+      "value": "Water Otter"
+    },
+    {
+      "key": "lion",
+      "value": "Lion"
+    },
+    {
+      "key": "rose",
+      "value": "Rose"
+    },
+    {
+      "key": "tulip",
+      "value": "Tulip"
+    },
+    {
+      "key": "sunflower",
+      "value": "Sunflower"
+    },
+    {
+      "key": "orchid",
+      "value": "Orchid"
+    },
+    {
+      "key": "daisy",
+      "value": "Daisy"
+    },
+    {
+      "key": "cactus",
+      "value": "Cactus"
+    },
+    {
+      "key": "bamboo",
+      "value": "Bamboo"
+    },
+    {
+      "key": "olive",
+      "value": "Olive"
+    },
+    {
+      "key": "palm_tree",
+      "value": "Palm Tree"
+    },
+    {
+      "key": "topac",
+      "value": "Topac"
+    },
+    {
+      "key": "cassette",
+      "value": "Cassette"
+    },
+    {
+      "key": "letter",
+      "value": "Letter"
+    },
+    {
+      "key": "tube_television",
+      "value": "Tube Television"
+    },
+    {
+      "key": "floppy_disk",
+      "value": "Floppy Disk"
+    },
+    {
+      "key": "cd",
+      "value": "CD"
+    },
+    {
+      "key": "typewriter",
+      "value": "Typewriter"
+    },
+    {
+      "key": "pickup",
+      "value": "Pickup"
+    },
+    {
+      "key": "dinosaur",
+      "value": "Dinosaur"
+    },
+    {
+      "key": "america",
+      "value": "America"
+    },
+    {
+      "key": "england",
+      "value": "England"
+    },
+    {
+      "key": "france",
+      "value": "France"
+    },
+    {
+      "key": "turkiye",
+      "value": "Türkiye"
+    },
+    {
+      "key": "japan",
+      "value": "Japan"
+    },
+    {
+      "key": "china",
+      "value": "China"
+    },
+    {
+      "key": "india",
+      "value": "India"
+    },
+    {
+      "key": "brazil",
+      "value": "Brazil"
+    },
+    {
+      "key": "egypt",
+      "value": "Egypt"
+    },
+    {
+      "key": "football",
+      "value": "Football"
+    },
+    {
+      "key": "basketball",
+      "value": "Basketball"
+    },
+    {
+      "key": "tennis",
+      "value": "Tennis"
+    },
+    {
+      "key": "swimming",
+      "value": "Swimming"
+    },
+    {
+      "key": "athletics",
+      "value": "Athletics"
+    },
+    {
+      "key": "boxing",
+      "value": "Boxing"
+    },
+    {
+      "key": "skiing",
+      "value": "Skiing"
+    },
+    {
+      "key": "cycling",
+      "value": "Cycling"
+    },
+    {
+      "key": "volleyball",
+      "value": "Volleyball"
     }
   ]
 }

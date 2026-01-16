@@ -3,196 +3,124 @@
     {
       "id": 11,
       "letters": [
-        "K",
-        "I",
-        "Z",
+        "D",
         "A",
-        "K"
+        "M",
+        "A"
       ],
       "answers": [
         {
-          "word": "KIZ",
-          "meaning": "Dişi çocuk."
+          "word": "DAMA",
+          "meaning": "İki kişi arasında oynanan bir oyun"
         },
         {
-          "word": "KIZAK",
-          "meaning": "Kayak aracı."
+          "word": "ADAM",
+          "meaning": "Genel anlamda insan, insanoğlu."
         },
         {
-          "word": "KAZI",
-          "meaning": "Bir yeri kazma işi."
+          "word": "DAM",
+          "meaning": "Üzeri toprak kaplı köy evi."
         },
         {
-          "word": "AZIK",
-          "meaning": "Gereken yiyecek ve içecek şeyler."
+          "word": "AMA",
+          "meaning": "İki cümleyi birbirine bağlar."
         },
         {
-          "word": "KAZ",
-          "meaning": "Suda veya karada yaşayan ve uçan kuş."
+          "word": "ADA",
+          "meaning": "Dört bir yanı su ile çevrili kara parçası."
         }
       ],
-      "extra": [
-        {
-          "word": "AZ",
-          "meaning": "Nicelik, nitelik vb. bakımından eksik."
-        },
-        {
-          "word": "AK",
-          "meaning": "Beyaz renk."
-        }
-      ]
+      "extra": []
     },
     {
       "id": 12,
       "letters": [
-        "C",
-        "A",
-        "N",
+        "Ç",
+        "E",
         "L",
-        "I"
+        "İ"
       ],
       "answers": [
         {
-          "word": "CANLI",
-          "meaning": "Hayat sahibi."
+          "word": "ÇİLE",
+          "meaning": "Sıkıntı, zahmet, güçlük."
         },
         {
-          "word": "ALIN",
-          "meaning": "Yüzün, kaşlarla saçlar arasındaki üst bölümü."
+          "word": "İLÇE",
+          "meaning": "Bir kaymakamca yönetilen bölüm"
         },
         {
-          "word": "ACI",
-          "meaning": "Hoş olmayan, yakıcı tat."
+          "word": "ÇİL",
+          "meaning": "Açık kahverengi küçük benekler."
         },
         {
-          "word": "ANI",
-          "meaning": "Geçmişte yaşanmış ve hatırlanan olay."
-        },
-        {
-          "word": "NAL",
-          "meaning": "Hayvan ayağı koruyucusu."
+          "word": "ELÇİ",
+          "meaning": "Bir devleti başka bir devlet katında temsil eden kimse."
         }
       ],
       "extra": [
         {
-          "word": "CAN",
-          "meaning": "Yaşam, hayat veya yaşayan varlık."
-        },
-        {
-          "word": "AN",
-          "meaning": "Belirli, kısa süreli zaman dilimi."
-        },
-        {
-          "word": "AL",
-          "meaning": "Kırmızı renk."
+          "word": "İLE",
+          "meaning": "Sözcüğün sonuna getirilerek urum bildiren tümleçler oluşturmaya yarar"
         }
       ]
     },
     {
       "id": 13,
       "letters": [
-        "B",
         "A",
-        "L",
-        "I",
-        "K",
-        "Ç"
+        "Y",
+        "B",
+        "O"
       ],
       "answers": [
         {
-          "word": "BALIK",
-          "meaning": "Suda yaşayan omurgalı canlı."
+          "word": "BOYA",
+          "meaning": "Renk vermek için içlerine katılan renkli madde."
         },
         {
-          "word": "ALIK",
-          "meaning": "Akılsız, sersem."
+          "word": "BOY",
+          "meaning": "iki kenar arasında kalan uzun bölüm."
         },
         {
-          "word": "BAL",
-          "meaning": "Arıların ürettiği tatlı madde."
+          "word": "OBA",
+          "meaning": "Bir göçebe topluluğunun konak yeri."
         },
         {
-          "word": "ÇALI",
-          "meaning": "Odunsu bitki."
+          "word": "BAY",
+          "meaning": "Malı mülkü, parası çok olan"
         },
         {
-          "word": "ALÇI",
-          "meaning": "Yapılarda kullanılan madde."
-        },
-        {
-          "word": "BALÇIK",
-          "meaning": "Yapışkan çamur."
-        },
-        {
-          "word": "ÇAKIL",
-          "meaning": "Çakıl taşı."
+          "word": "OYA",
+          "meaning": "İnce dantel."
         }
       ],
-      "extra": [
-        {
-          "word": "ÇIK",
-          "meaning": "Çıkmak fiilinin emir hali."
-        },
-        {
-          "word": "KAL",
-          "meaning": "Kalmak fiilinin emir hali."
-        },
-        {
-          "word": "AL",
-          "meaning": "Kırmızı renk."
-        },
-        {
-          "word": "AK",
-          "meaning": "Beyaz renk."
-        },
-        {
-          "word": "AKI",
-          "meaning": "Bir kuvvet alanında, belli bir düzlemin belli bir bölümünden geçtiği varsayılan güç çizgileri."
-        },
-        {
-          "word": "AÇI",
-          "meaning": "İki ışın arasındaki açıklık."
-        }
-      ]
+      "extra": []
     },
     {
       "id": 14,
       "letters": [
-        "B",
-        "I",
-        "Ç",
         "A",
         "K",
-        "R"
+        "T",
+        "O"
       ],
       "answers": [
         {
-          "word": "BIÇAK",
-          "meaning": "Kesici alet"
+          "word": "OT",
+          "meaning": "Yumuşak gövdeli bitki."
         },
         {
-          "word": "KAR",
-          "meaning": "Yağış türü; beyaz kristal."
+          "word": "TOKA",
+          "meaning": "Saç tutucu."
         },
         {
-          "word": "BAR",
-          "meaning": "İçki servisi yapılan mekan."
+          "word": "KAT",
+          "meaning": "Üst üste gelen bölüm."
         },
         {
-          "word": "IRAK",
-          "meaning": "Uzak, mesafeli."
-        },
-        {
-          "word": "AÇI",
-          "meaning": "İki ışın arasındaki açıklık."
-        },
-        {
-          "word": "ÇAKIR",
-          "meaning": "Mavi hareli ela göz rengi."
-        },
-        {
-          "word": "ÇARK",
-          "meaning": "Dönen mekanizma parçası."
+          "word": "TOK",
+          "meaning": "Açlık hissi olmayan, doymuş."
         }
       ],
       "extra": [
@@ -201,8 +129,8 @@
           "meaning": "Beyaz renk."
         },
         {
-          "word": "RAKI",
-          "meaning": "Anasonlu Türk içkisi."
+          "word": "AT",
+          "meaning": "Binilen veya yük taşınan hayvan."
         }
       ]
     },
@@ -210,150 +138,204 @@
       "id": 15,
       "letters": [
         "O",
-        "K",
+        "Y",
         "U",
-        "L",
-        "A",
         "K"
       ],
       "answers": [
         {
-          "word": "OKUL",
-          "meaning": "Eğitim binası"
+          "word": "OYUK",
+          "meaning": "Çukur boşluk."
         },
         {
-          "word": "KUL",
-          "meaning": "Tanrının yarattığı insan"
+          "word": "KOY",
+          "meaning": "Deniz girintisi."
         },
         {
-          "word": "OK",
-          "meaning": "Yay ile atılan sistem"
+          "word": "KOYU",
+          "meaning": "Yoğun renkli."
         },
         {
-          "word": "KULAK",
-          "meaning": "Duyma Organı."
+          "word": "OY",
+          "meaning": "Tercih bildirimi."
         }
       ],
       "extra": [
         {
-          "word": "ULAK",
-          "meaning": "Haber taşıyan kimse"
-        },
-        {
-          "word": "OLUK",
-          "meaning": "Akma yeri"
+          "word": "YOK",
+          "meaning": "Olmama."
         }
       ]
     },
     {
       "id": 16,
       "letters": [
-        "T",
-        "U",
-        "Ş"
-      ],
-      "answers": [
-        {
-          "word": "TUŞ",
-          "meaning": "Küçük düğme"
-        },
-        {
-          "word": "ŞUT",
-          "meaning": "Futbol terimi"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 17,
-      "letters": [
-        "Ş",
+        "D",
         "A",
-        "K"
-      ],
-      "answers": [
-        {
-          "word": "AŞK",
-          "meaning": "Derin sevgi"
-        },
-        {
-          "word": "KAŞ",
-          "meaning": "Yüz organı"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 18,
-      "letters": [
-        "E",
-        "N",
-        "E",
-        "Ş"
-      ],
-      "answers": [
-        {
-          "word": "NEŞE",
-          "meaning": "Sevinç,iç huzuru"
-        },
-        {
-          "word": "ŞEN",
-          "meaning": "Canlı, hareketli, coşkulu"
-        }
-      ],
-      "extra": []
-    },
-    {
-      "id": 19,
-      "letters": [
         "M",
-        "A",
-        "C",
         "A"
       ],
       "answers": [
         {
-          "word": "CAM",
-          "meaning": "Saydam madde"
+          "word": "DAMA",
+          "meaning": "Oyun tahtası."
         },
         {
-          "word": "AMCA",
-          "meaning": "Baba kardeşi"
+          "word": "ADAM",
+          "meaning": "Yetişkin erkek."
         },
         {
-          "word": "AMA",
-          "meaning": "Bağlaç"
+          "word": "DAM",
+          "meaning": "Evlerin üst kısmı, çatı."
+        },
+        {
+          "word": "ADA",
+          "meaning": "Su çevreli kara."
         }
       ],
-      "extra": []
+      "extra": [
+        {
+          "word": "AMA",
+          "meaning": "Karşıtlık bildiren bağlaç."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "letters": [
+        "K",
+        "A",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "KAR",
+          "meaning": "Yağış türü; beyaz kristal."
+        },
+        {
+          "word": "KARA",
+          "meaning": "Yeryüzünün denizle örtülü olmayan bölümü."
+        },
+        {
+          "word": "ARA",
+          "meaning": "Boşluk, mesafe."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "ARKA",
+          "meaning": "Bir şeyin tam ters yanı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AKAR",
+          "meaning": "Sıvı."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "letters": [
+        "T",
+        "A",
+        "Ç",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "TAÇ",
+          "meaning": "Değerli taşlarla süslü başlık."
+        },
+        {
+          "word": "ÇITA",
+          "meaning": "İnce tahta."
+        },
+        {
+          "word": "ÇATI",
+          "meaning": "Binanın üstünü örten yapı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AÇI",
+          "meaning": "İki ışın arasındaki açıklık."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "letters": [
+        "A",
+        "S",
+        "I",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "ASIR",
+          "meaning": "100 yıl."
+        },
+        {
+          "word": "SIRA",
+          "meaning": "Art arda olan şeyler, dizi."
+        },
+        {
+          "word": "SARI",
+          "meaning": "Limon kabuğu rengi."
+        },
+        {
+          "word": "ARI",
+          "meaning": "Bal yapan böcek."
+        }
+      ],
+      "extra": [
+        {
+          "word": "SIR",
+          "meaning": "Gizli bilgi."
+        }
+      ]
     },
     {
       "id": 20,
       "letters": [
-        "T",
-        "İ",
-        "M",
-        "Ü"
+        "L",
+        "P",
+        "A",
+        "D",
+        "O"
       ],
       "answers": [
         {
-          "word": "TİM",
-          "meaning": "Birkaç kişilik polis ekibi."
+          "word": "DOLAP",
+          "meaning": "Eşya konulan kapaklı mobilya."
         },
         {
-          "word": "TÜM",
-          "meaning": "Yarım olmayan"
+          "word": "DAL",
+          "meaning": "Ağacın gövdesinden ayrılan kollardan her biri"
         },
         {
-          "word": "ÜMİT",
-          "meaning": "Ummaktan doğan güven duygusu,"
+          "word": "AD",
+          "meaning": "Bir şeyden, kişiden bahsetmeye yarayan isim."
         },
         {
-          "word": "MİT",
-          "meaning": "Kuşaktan kuşağa yayılan"
+          "word": "ODA",
+          "meaning": "Ev veya başka bir yapının kapalı bir bölümü."
         }
       ],
-      "extra": []
+      "extra": [
+        {
+          "word": "ALO",
+          "meaning": "Telefon selamlaması."
+        },
+        {
+          "word": "LAP",
+          "meaning": "Yumuşak ve ağır bir şey düştüğünde çıkan ses."
+        }
+      ]
     }
   ]
 }

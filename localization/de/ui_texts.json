@@ -619,6 +619,214 @@
     {
       "key": "play_random_mini_game",
       "value": "Zufälliges Minispiel spielen"
+    },
+    {
+      "key": "cards",
+      "value": "Karten"
+    },
+    {
+      "key": "collection_completed",
+      "value": "Abgeschlossen"
+    },
+    {
+      "key": "animals",
+      "value": "Tiere"
+    },
+    {
+      "key": "plants",
+      "value": "Pflanzen"
+    },
+    {
+      "key": "forgetten",
+      "value": "Vergessen"
+    },
+    {
+      "key": "countries",
+      "value": "Länder"
+    },
+    {
+      "key": "sports",
+      "value": "Sport"
+    },
+    {
+      "key": "giraffe",
+      "value": "Giraffe"
+    },
+    {
+      "key": "cat",
+      "value": "Katze"
+    },
+    {
+      "key": "dog",
+      "value": "Hund"
+    },
+    {
+      "key": "parrot",
+      "value": "Papagei"
+    },
+    {
+      "key": "goat",
+      "value": "Ziege"
+    },
+    {
+      "key": "rabbit",
+      "value": "Kaninchen"
+    },
+    {
+      "key": "peacock",
+      "value": "Pfau"
+    },
+    {
+      "key": "water_otter",
+      "value": "Wasserotter"
+    },
+    {
+      "key": "lion",
+      "value": "Löwe"
+    },
+    {
+      "key": "rose",
+      "value": "Rose"
+    },
+    {
+      "key": "tulip",
+      "value": "Tulpe"
+    },
+    {
+      "key": "sunflower",
+      "value": "Sonnenblume"
+    },
+    {
+      "key": "orchid",
+      "value": "Orchidee"
+    },
+    {
+      "key": "daisy",
+      "value": "Gänseblümchen"
+    },
+    {
+      "key": "cactus",
+      "value": "Kaktus"
+    },
+    {
+      "key": "bamboo",
+      "value": "Bamboo"
+    },
+    {
+      "key": "olive",
+      "value": "Olive"
+    },
+    {
+      "key": "palm_tree",
+      "value": "Palme"
+    },
+    {
+      "key": "topac",
+      "value": "Topac"
+    },
+    {
+      "key": "cassette",
+      "value": "Kassette"
+    },
+    {
+      "key": "letter",
+      "value": "Brief"
+    },
+    {
+      "key": "tube_television",
+      "value": "Röhrenfernsehen"
+    },
+    {
+      "key": "floppy_disk",
+      "value": "Diskette"
+    },
+    {
+      "key": "cd",
+      "value": "CD"
+    },
+    {
+      "key": "typewriter",
+      "value": "Schreibmaschine"
+    },
+    {
+      "key": "pickup",
+      "value": "Abholung"
+    },
+    {
+      "key": "dinosaur",
+      "value": "Dinosaurier"
+    },
+    {
+      "key": "america",
+      "value": "Amerika"
+    },
+    {
+      "key": "england",
+      "value": "England"
+    },
+    {
+      "key": "france",
+      "value": "Frankreich"
+    },
+    {
+      "key": "turkiye",
+      "value": "Türkiye"
+    },
+    {
+      "key": "japan",
+      "value": "Japan"
+    },
+    {
+      "key": "china",
+      "value": "China"
+    },
+    {
+      "key": "india",
+      "value": "Indien"
+    },
+    {
+      "key": "brazil",
+      "value": "Brasilien"
+    },
+    {
+      "key": "egypt",
+      "value": "Ägypten"
+    },
+    {
+      "key": "football",
+      "value": "Fußball"
+    },
+    {
+      "key": "basketball",
+      "value": "Basketball"
+    },
+    {
+      "key": "tennis",
+      "value": "Tennis"
+    },
+    {
+      "key": "swimming",
+      "value": "Schwimmen"
+    },
+    {
+      "key": "athletics",
+      "value": "Leichtathletik"
+    },
+    {
+      "key": "boxing",
+      "value": "Boxen"
+    },
+    {
+      "key": "skiing",
+      "value": "Skifahren"
+    },
+    {
+      "key": "cycling",
+      "value": "Radfahren"
+    },
+    {
+      "key": "volleyball",
+      "value": "Volleyball"
     }
   ]
 }

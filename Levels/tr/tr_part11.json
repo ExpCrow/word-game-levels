@@ -3,140 +3,6 @@
     {
       "id": 101,
       "letters": [
-        "S",
-        "T",
-        "S",
-        "E",
-        "R"
-      ],
-      "answers": [
-        {
-          "word": "SERT",
-          "meaning": NaN
-        },
-        {
-          "word": "TER",
-          "meaning": NaN
-        },
-        {
-          "word": "SET",
-          "meaning": NaN
-        },
-        {
-          "word": "TERS",
-          "meaning": NaN
-        },
-        {
-          "word": "SES",
-          "meaning": NaN
-        },
-        {
-          "word": "REST",
-          "meaning": NaN
-        },
-        {
-          "word": "STRES",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "SER",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "letters": [
-        "A",
-        "N",
-        "V",
-        "D",
-        "İ"
-      ],
-      "answers": [
-        {
-          "word": "DİN",
-          "meaning": NaN
-        },
-        {
-          "word": "ADİ",
-          "meaning": NaN
-        },
-        {
-          "word": "ANİ",
-          "meaning": NaN
-        },
-        {
-          "word": "DİVAN",
-          "meaning": NaN
-        },
-        {
-          "word": "VADİ",
-          "meaning": NaN
-        },
-        {
-          "word": "VİDA",
-          "meaning": NaN
-        },
-        {
-          "word": "VAN",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "NİDA",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 103,
-      "letters": [
-        "U",
-        "S",
-        "U",
-        "L",
-        "Ç"
-      ],
-      "answers": [
-        {
-          "word": "USLU",
-          "meaning": NaN
-        },
-        {
-          "word": "USUL",
-          "meaning": NaN
-        },
-        {
-          "word": "SUÇ",
-          "meaning": NaN
-        },
-        {
-          "word": "SUÇLU",
-          "meaning": NaN
-        },
-        {
-          "word": "ULUS",
-          "meaning": NaN
-        },
-        {
-          "word": "ULU",
-          "meaning": NaN
-        }
-      ],
-      "extra": [
-        {
-          "word": "SULU",
-          "meaning": NaN
-        }
-      ]
-    },
-    {
-      "id": 104,
-      "letters": [
         "H",
         "A",
         "A",
@@ -173,7 +39,7 @@
       ]
     },
     {
-      "id": 105,
+      "id": 102,
       "letters": [
         "P",
         "İ",
@@ -215,7 +81,7 @@
       ]
     },
     {
-      "id": 106,
+      "id": 103,
       "letters": [
         "B",
         "İ",
@@ -261,7 +127,7 @@
       ]
     },
     {
-      "id": 107,
+      "id": 104,
       "letters": [
         "C",
         "A",
@@ -311,7 +177,7 @@
       ]
     },
     {
-      "id": 108,
+      "id": 105,
       "letters": [
         "L",
         "İ",
@@ -349,7 +215,7 @@
       ]
     },
     {
-      "id": 109,
+      "id": 106,
       "letters": [
         "A",
         "Z",
@@ -387,6 +253,163 @@
         {
           "word": "ZAR",
           "meaning": NaN
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "letters": [
+        "B",
+        "A",
+        "L",
+        "I",
+        "K",
+        "Ç"
+      ],
+      "answers": [
+        {
+          "word": "BALIK",
+          "meaning": "Suda yaşayan omurgalı canlı."
+        },
+        {
+          "word": "ALIK",
+          "meaning": "Akılsız, sersem."
+        },
+        {
+          "word": "BAL",
+          "meaning": "Arıların ürettiği tatlı madde."
+        },
+        {
+          "word": "ÇALI",
+          "meaning": "Odunsu bitki."
+        },
+        {
+          "word": "ALÇI",
+          "meaning": "Yapılarda kullanılan madde."
+        },
+        {
+          "word": "BALÇIK",
+          "meaning": "Yapışkan çamur."
+        },
+        {
+          "word": "ÇAKIL",
+          "meaning": "Çakıl taşı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ÇIK",
+          "meaning": "Çıkmak fiilinin emir hali."
+        },
+        {
+          "word": "KAL",
+          "meaning": "Kalmak fiilinin emir hali."
+        },
+        {
+          "word": "AL",
+          "meaning": "Kırmızı renk."
+        },
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "AKI",
+          "meaning": "Bir kuvvet alanında, belli bir düzlemin belli bir bölümünden geçtiği varsayılan güç çizgileri."
+        },
+        {
+          "word": "AÇI",
+          "meaning": "İki ışın arasındaki açıklık."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "letters": [
+        "B",
+        "I",
+        "Ç",
+        "A",
+        "K",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "BIÇAK",
+          "meaning": "Kesici alet"
+        },
+        {
+          "word": "KAR",
+          "meaning": "Yağış türü; beyaz kristal."
+        },
+        {
+          "word": "BAR",
+          "meaning": "İçki servisi yapılan mekan."
+        },
+        {
+          "word": "IRAK",
+          "meaning": "Uzak, mesafeli."
+        },
+        {
+          "word": "AÇI",
+          "meaning": "İki ışın arasındaki açıklık."
+        },
+        {
+          "word": "ÇAKIR",
+          "meaning": "Mavi hareli ela göz rengi."
+        },
+        {
+          "word": "ÇARK",
+          "meaning": "Dönen mekanizma parçası."
+        }
+      ],
+      "extra": [
+        {
+          "word": "AK",
+          "meaning": "Beyaz renk."
+        },
+        {
+          "word": "RAKI",
+          "meaning": "Anasonlu Türk içkisi."
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "letters": [
+        "O",
+        "K",
+        "U",
+        "L",
+        "A",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "OKUL",
+          "meaning": "Eğitim binası"
+        },
+        {
+          "word": "KUL",
+          "meaning": "Tanrının yarattığı insan"
+        },
+        {
+          "word": "OK",
+          "meaning": "Yay ile atılan sistem"
+        },
+        {
+          "word": "KULAK",
+          "meaning": "Duyma Organı."
+        }
+      ],
+      "extra": [
+        {
+          "word": "ULAK",
+          "meaning": "Haber taşıyan kimse"
+        },
+        {
+          "word": "OLUK",
+          "meaning": "Akma yeri"
         }
       ]
     }
