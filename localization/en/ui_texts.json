@@ -835,6 +835,10 @@
     {
       "key": "select_cards",
       "value": "Select * Cards"
+    },
+    {
+      "key": "collection",
+      "value": "Collection"
     }
   ]
 }

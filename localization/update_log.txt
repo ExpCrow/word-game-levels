@@ -49,3 +49,6 @@
 
 [2026-01-17 05:12:58] Güncelleme Raporu
 🔼 Versiyonu artan diller: en (v13), tr (v13), fr (v13), de (v13), it (v13), es (v13)
+
+[2026-01-17 18:15:16] Güncelleme Raporu
+🔼 Versiyonu artan diller: en (v14), tr (v14), fr (v14), de (v14), it (v14), es (v14)
