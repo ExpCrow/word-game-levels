@@ -833,8 +833,8 @@
       "value": "Alles abholen"
     },
     {
-      "key": null,
-      "value": null
+      "key": "select_cards",
+      "value": "Wähle * Karten"
     }
   ]
 }

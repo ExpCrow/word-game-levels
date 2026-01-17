@@ -833,8 +833,8 @@
       "value": "Hepsini Al"
     },
     {
-      "key": null,
-      "value": null
+      "key": "select_cards",
+      "value": "* Kart Seç"
     }
   ]
 }

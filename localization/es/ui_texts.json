@@ -833,8 +833,8 @@
       "value": "Reclamar todo"
     },
     {
-      "key": null,
-      "value": null
+      "key": "select_cards",
+      "value": "Selecciona * cartas"
     }
   ]
 }

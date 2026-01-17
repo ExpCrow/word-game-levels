@@ -833,8 +833,8 @@
       "value": "Riscatta tutto"
     },
     {
-      "key": null,
-      "value": null
+      "key": "select_cards",
+      "value": "Seleziona * carte"
     }
   ]
 }
