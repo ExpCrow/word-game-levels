@@ -839,6 +839,10 @@
     {
       "key": "collection",
       "value": "Sammlung"
+    },
+    {
+      "key": "loading_localization",
+      "value": "Sprache wird eingestellt..."
     }
   ]
 }

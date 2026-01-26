@@ -839,6 +839,10 @@
     {
       "key": "collection",
       "value": "Koleksiyon"
+    },
+    {
+      "key": "loading_localization",
+      "value": "Dil ayarlanıyor..."
     }
   ]
 }

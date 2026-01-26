@@ -839,6 +839,10 @@
     {
       "key": "collection",
       "value": "Colección"
+    },
+    {
+      "key": "loading_localization",
+      "value": "Configurando el idioma..."
     }
   ]
 }
